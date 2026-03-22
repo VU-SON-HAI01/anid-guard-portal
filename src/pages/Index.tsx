@@ -21,20 +21,17 @@ const Index = () => {
         <div className="flex flex-col md:flex-row">
           {/* Left - Branding */}
           <div className="flex flex-col items-center justify-center gap-4 p-6 md:w-[45%]">
-            <div className="flex items-center gap-2">
-              <GraduationCap className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold text-foreground">AnID</span>
-            </div>
+            <img
+              src={logoImage}
+              alt="Logo Cao Đẳng Đắk Lắk"
+              className="h-24 w-24 md:h-32 md:w-32"
+            />
+            <span className="text-lg font-bold text-foreground text-center">CAO ĐẲNG ĐẮK LẮK</span>
             <p className="text-center text-sm text-muted-foreground">
               Đăng nhập tài khoản quản trị viên
               <br />
               dành cho hệ thống tuyển sinh
             </p>
-            <img
-              src={schoolIllustration}
-              alt="Minh họa trường học"
-              className="mt-2 w-48 md:w-56"
-            />
           </div>
 
           {/* Right - Form */}
