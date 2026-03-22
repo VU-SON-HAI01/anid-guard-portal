@@ -1,9 +1,9 @@
 import { useState } from "react";
-import { Eye, EyeOff, GraduationCap } from "lucide-react";
+import { Eye, EyeOff } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import schoolIllustration from "@/assets/school-illustration.png";
+import logoImage from "@/assets/logo-caodangdaklak.png";
 
 const Index = () => {
   const [email, setEmail] = useState("");
