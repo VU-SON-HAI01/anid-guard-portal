@@ -45,7 +45,7 @@ const Index = () => {
                   type="email"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  placeholder="admin@truonghoc.edu.vn"
+                  placeholder="admin@cddalak.edu.vn"
                   required
                 />
               </div>
