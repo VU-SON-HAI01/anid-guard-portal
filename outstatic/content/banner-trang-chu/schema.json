@@ -8,6 +8,13 @@
       "required": false,
       "fieldType": "Text",
       "dataType": "string"
+    },
+    "buttonText": {
+      "title": "buttonText",
+      "description": "banners",
+      "required": false,
+      "fieldType": "Text",
+      "dataType": "string"
     }
   }
 }
