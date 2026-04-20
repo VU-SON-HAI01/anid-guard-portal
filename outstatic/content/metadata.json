@@ -1,6 +1,6 @@
 {
-  "commit": "4dfbafcdbf10a95f9ec47d72e09c041a33475657",
-  "generated": "2026-04-20T09:44:53.216Z",
+  "commit": "82161c49aa95bb08181f68113179605ce702cad5",
+  "generated": "2026-04-20T09:49:34.045Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,6 +55,25 @@
       "status": "draft",
       "subtitle": "NGÀNH TRỌNG ĐIỂM QUỐC TẾ",
       "title": "CÔNG NGHỆ Ô TÔ & TỰ ĐỘNG HÓA"
+    },
+    {
+      "__outstatic": {
+        "commit": "82161c49aa95bb08181f68113179605ce702cad5",
+        "hash": "47051702",
+        "path": "outstatic/content/banner-nganh/cong-nghe-thong-tin.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/212733293?v=4"
+      },
+      "code": "CNTT01",
+      "collection": "banner-nganh",
+      "duration": "2.5 năm",
+      "publishedAt": "2026-04-20T10:28:18.228Z",
+      "slug": "cong-nghe-thong-tin",
+      "status": "draft",
+      "target": "120",
+      "title": "Công nghệ thông tin"
     }
   ]
 }
