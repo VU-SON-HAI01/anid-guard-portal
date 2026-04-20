@@ -4,5 +4,11 @@
     "slug": "test",
     "path": "src/test",
     "children": []
+  },
+  {
+    "title": "nganhhoc",
+    "slug": "nganhhoc",
+    "path": "outstatic/content/test",
+    "children": []
   }
 ]
