@@ -6,12 +6,6 @@
     "children": []
   },
   {
-    "title": "nganhhoc",
-    "slug": "nganhhoc",
-    "path": "outstatic/content/test",
-    "children": []
-  },
-  {
     "title": "Banner Trang Chủ",
     "slug": "banner-trang-chu",
     "path": "outstatic/content/banner-trang-chu",
