@@ -8,6 +8,13 @@
       "required": false,
       "fieldType": "String",
       "dataType": "string"
+    },
+    "duration": {
+      "title": "duration",
+      "description": "banners",
+      "required": false,
+      "fieldType": "String",
+      "dataType": "string"
     }
   }
 }
