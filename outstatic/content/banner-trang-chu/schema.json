@@ -1,6 +1,13 @@
 {
-  "title": "Banner Trang Chủ",
-  "slug": "banner-trang-chu",
+  "title": "banner-trang-chu",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "subtitle": {
+      "title": "subtitle",
+      "description": "banners",
+      "required": false,
+      "fieldType": "Text",
+      "dataType": "string"
+    }
+  }
 }
