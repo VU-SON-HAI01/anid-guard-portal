@@ -15,6 +15,13 @@
       "required": false,
       "fieldType": "String",
       "dataType": "string"
+    },
+    "buttonLink": {
+      "title": "buttonLink",
+      "description": "",
+      "required": false,
+      "fieldType": "String",
+      "dataType": "string"
     }
   }
 }
