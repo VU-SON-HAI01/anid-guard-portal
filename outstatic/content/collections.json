@@ -16,5 +16,11 @@
     "slug": "banner-trang-chu",
     "path": "outstatic/content/banner-trang-chu",
     "children": []
+  },
+  {
+    "title": "Banner_tuyensinh",
+    "slug": "banner-tuyensinh",
+    "path": "outstatic/content/banner-tuyensinh",
+    "children": []
   }
 ]
