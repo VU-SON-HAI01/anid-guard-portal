@@ -16,5 +16,11 @@
     "slug": "banner-tuyensinh",
     "path": "outstatic/content/banner-tuyensinh",
     "children": []
+  },
+  {
+    "title": "banner_nganh",
+    "slug": "banner-nganh",
+    "path": "outstatic/content/banner-nganh",
+    "children": []
   }
 ]
