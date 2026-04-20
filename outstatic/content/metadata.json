@@ -1,6 +1,6 @@
 {
-  "commit": "e044108eea78fd15ee0c851bb537747ba12583ce",
-  "generated": "2026-04-20T08:51:07.306Z",
+  "commit": "5782ad75e8cf8015583410ac539cff0b8d7a2533",
+  "generated": "2026-04-20T09:36:57.030Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,25 @@
       "slug": "vuhai",
       "status": "draft",
       "title": "Trường Cao đẳng Đắk Lắk trân trọng thông báo về việc ban hành Quy chế Tổ chức và hoạt động mới theo Quyết định số /QĐ-CĐĐL ngày tháng 4 năm 2026. Đây là bước kiện toàn quan trọng sau khi sáp nhập Trường Cao đẳng Nghề Phú Yên vào Trường Cao đẳng Đắk Lắk."
+    },
+    {
+      "__outstatic": {
+        "commit": "5782ad75e8cf8015583410ac539cff0b8d7a2533",
+        "hash": "530183368",
+        "path": "outstatic/content/banner-tuyensinh/khoi-dau-su-nghiep-vung-chac.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/212733293?v=4"
+      },
+      "buttonLink": "/dang-ky",
+      "buttonText": "Đăng ký ngay",
+      "collection": "banner-tuyensinh",
+      "publishedAt": "2026-04-20T10:12:55.721Z",
+      "slug": "khoi-dau-su-nghiep-vung-chac",
+      "status": "draft",
+      "subtitle": "HỆ CAO ĐẲNG CHÍNH QUY 2026",
+      "title": "KHỞI ĐẦU SỰ NGHIỆP VỮNG CHẮC"
     }
   ]
 }
