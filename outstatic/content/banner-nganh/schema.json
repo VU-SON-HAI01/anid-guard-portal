@@ -1,6 +1,13 @@
 {
-  "title": "banner_nganh",
-  "slug": "banner-nganh",
+  "title": "banner-nganh",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "code": {
+      "title": "code",
+      "description": "banners",
+      "required": false,
+      "fieldType": "String",
+      "dataType": "string"
+    }
+  }
 }
