@@ -1,6 +1,6 @@
 {
-  "commit": "5782ad75e8cf8015583410ac539cff0b8d7a2533",
-  "generated": "2026-04-20T09:36:57.030Z",
+  "commit": "5c7619ecad87526dacf35d8d24f85dd4647cae24",
+  "generated": "2026-04-20T09:38:57.191Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,6 +36,25 @@
       "status": "draft",
       "subtitle": "HỆ CAO ĐẲNG CHÍNH QUY 2026",
       "title": "KHỞI ĐẦU SỰ NGHIỆP VỮNG CHẮC"
+    },
+    {
+      "__outstatic": {
+        "commit": "5c7619ecad87526dacf35d8d24f85dd4647cae24",
+        "hash": "1470525550",
+        "path": "outstatic/content/banner-tuyensinh/cong-nghe-o-to-tu-dong-hoa.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/212733293?v=4"
+      },
+      "buttonLink": "/dang-ky",
+      "buttonText": "Đăng ký ngay",
+      "collection": "banner-tuyensinh",
+      "publishedAt": "2026-04-20T10:19:13.095Z",
+      "slug": "cong-nghe-o-to-tu-dong-hoa",
+      "status": "draft",
+      "subtitle": "NGÀNH TRỌNG ĐIỂM QUỐC TẾ",
+      "title": "CÔNG NGHỆ Ô TÔ & TỰ ĐỘNG HÓA"
     }
   ]
 }
