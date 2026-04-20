@@ -1,6 +1,13 @@
 {
-  "title": "Banner_tuyensinh",
-  "slug": "banner-tuyensinh",
+  "title": "banner-tuyensinh",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "subtitle": {
+      "title": "subtitle",
+      "description": "banners",
+      "required": false,
+      "fieldType": "String",
+      "dataType": "string"
+    }
+  }
 }
