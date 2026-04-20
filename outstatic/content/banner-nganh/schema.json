@@ -15,6 +15,13 @@
       "required": false,
       "fieldType": "String",
       "dataType": "string"
+    },
+    "target": {
+      "title": "target",
+      "description": "",
+      "required": false,
+      "fieldType": "String",
+      "dataType": "string"
     }
   }
 }
