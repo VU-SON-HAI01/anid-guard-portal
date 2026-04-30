@@ -1,6 +1,6 @@
 {
-  "commit": "82161c49aa95bb08181f68113179605ce702cad5",
-  "generated": "2026-04-20T09:49:34.045Z",
+  "commit": "43210b1312808503f0459db17f24a6bfdba59090",
+  "generated": "2026-04-30T04:47:59.755Z",
   "metadata": [
     {
       "__outstatic": {
@@ -74,6 +74,26 @@
       "status": "draft",
       "target": "120",
       "title": "Công nghệ thông tin"
+    },
+    {
+      "__outstatic": {
+        "commit": "43210b1312808503f0459db17f24a6bfdba59090",
+        "hash": "3411330732",
+        "path": "outstatic/content/tin-tuc-su-kien/cuoc-thi-u-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-2025-2026-truong-cao-dang-dak-lak.md"
+      },
+      "author": {
+        "name": "TVG",
+        "picture": ""
+      },
+      "categories": [
+      ],
+      "collection": "tin-tuc-su-kien",
+      "description": "Trong hai ngày 24 và 27 tháng 12 năm 2025, Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” do Trường Cao đẳng Đắk Lắk tổ chức đã diễn ra thành công tốt đẹp, để lại nhiều dấu ấn về sức sáng tạo, tinh thần đổi mới và khát vọng cống hiến của thế hệ trẻ.",
+      "isFeatured": true,
+      "publishedAt": "2026-04-30T05:25:55.952Z",
+      "slug": "cuoc-thi-u-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-2025-2026-truong-cao-dang-dak-lak",
+      "status": "draft",
+      "title": "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
     }
   ]
 }
