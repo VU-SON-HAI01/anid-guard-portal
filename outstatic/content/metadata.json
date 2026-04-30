@@ -1,6 +1,6 @@
 {
-  "commit": "de09fa4dd7446ad32b7a94ec26d6d775aa592605",
-  "generated": "2026-04-30T04:58:21.565Z",
+  "commit": "d837f22f1325f489eb8afb386af921ff915677f7",
+  "generated": "2026-04-30T05:31:10.659Z",
   "metadata": [
     {
       "__outstatic": {
@@ -98,6 +98,30 @@
       "slug": "cuoc-thi-u-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-2025-2026-truong-cao-dang-dak-lak",
       "status": "published",
       "title": "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
+    },
+    {
+      "__outstatic": {
+        "commit": "d837f22f1325f489eb8afb386af921ff915677f7",
+        "hash": "4202213683",
+        "path": "outstatic/content/tin-tuc-su-kien/hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak.md"
+      },
+      "author": {
+        "name": "TVG",
+        "picture": "https://avatars.githubusercontent.com/u/212733293?v=4"
+      },
+      "categories": [
+        {
+          "label": "Bài viết",
+          "value": "bàiViết"
+        }
+      ],
+      "collection": "tin-tuc-su-kien",
+      "description": "Sáng ngày 16/01/2026, tại Hội trường, Trường Cao đẳng Đắk Lắk đã long trọng diễn ra Hội nghị công bố Quyết định sáp nhập Trường và Quyết định bổ nhiệm Hiệu trưởng, các Phó Hiệu trưởng Trường Cao đẳng Đắk Lắk.",
+      "isFeatured": true,
+      "publishedAt": "2026-04-30T06:10:59.791Z",
+      "slug": "hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak",
+      "status": "published",
+      "title": "HỘI NGHỊ CÔNG BỐ QUYẾT ĐỊNH SÁP NHẬP TRƯỜNG VÀ BỔ NHIỆM HIỆU TRƯỞNG, PHÓ HIỆU TRƯỞNG TRƯỜNG CAO ĐẲNG ĐẮK LẮK"
     }
   ]
 }
