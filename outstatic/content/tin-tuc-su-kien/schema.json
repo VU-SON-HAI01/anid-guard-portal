@@ -22,7 +22,12 @@
       "required": false,
       "fieldType": "Tags",
       "dataType": "array",
-      "values": []
+      "values": [
+        {
+          "value": "bàiViết",
+          "label": "Bài viết"
+        }
+      ]
     },
     "isFeatured": {
       "title": "Is Featured",
