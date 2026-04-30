@@ -1,6 +1,6 @@
 {
-  "commit": "ede48a7af87c7c8f8cf7a7ef73f8eb5236936e5b",
-  "generated": "2026-04-30T05:52:05.288Z",
+  "commit": "7e72aa72a428ad9706cfc3748bbdd493a22e24d5",
+  "generated": "2026-04-30T11:42:52.480Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,44 +17,6 @@
       "slug": "vuhai",
       "status": "draft",
       "title": "Trường Cao đẳng Đắk Lắk trân trọng thông báo về việc ban hành Quy chế Tổ chức và hoạt động mới theo Quyết định số /QĐ-CĐĐL ngày tháng 4 năm 2026. Đây là bước kiện toàn quan trọng sau khi sáp nhập Trường Cao đẳng Nghề Phú Yên vào Trường Cao đẳng Đắk Lắk."
-    },
-    {
-      "__outstatic": {
-        "commit": "5782ad75e8cf8015583410ac539cff0b8d7a2533",
-        "hash": "530183368",
-        "path": "outstatic/content/banner-tuyensinh/khoi-dau-su-nghiep-vung-chac.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/212733293?v=4"
-      },
-      "buttonLink": "/dang-ky",
-      "buttonText": "Đăng ký ngay",
-      "collection": "banner-tuyensinh",
-      "publishedAt": "2026-04-20T10:12:55.721Z",
-      "slug": "khoi-dau-su-nghiep-vung-chac",
-      "status": "draft",
-      "subtitle": "HỆ CAO ĐẲNG CHÍNH QUY 2026",
-      "title": "KHỞI ĐẦU SỰ NGHIỆP VỮNG CHẮC"
-    },
-    {
-      "__outstatic": {
-        "commit": "5c7619ecad87526dacf35d8d24f85dd4647cae24",
-        "hash": "1470525550",
-        "path": "outstatic/content/banner-tuyensinh/cong-nghe-o-to-tu-dong-hoa.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/212733293?v=4"
-      },
-      "buttonLink": "/dang-ky",
-      "buttonText": "Đăng ký ngay",
-      "collection": "banner-tuyensinh",
-      "publishedAt": "2026-04-20T10:19:13.095Z",
-      "slug": "cong-nghe-o-to-tu-dong-hoa",
-      "status": "draft",
-      "subtitle": "NGÀNH TRỌNG ĐIỂM QUỐC TẾ",
-      "title": "CÔNG NGHỆ Ô TÔ & TỰ ĐỘNG HÓA"
     },
     {
       "__outstatic": {
