@@ -1,7 +1,7 @@
 ---
 title: "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
 publishedAt: "2026-04-30T05:25:55.952Z"
-status: "draft"
+status: "published"
 author:
   name: "TVG"
   picture: ""

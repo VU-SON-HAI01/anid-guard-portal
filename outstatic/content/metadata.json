@@ -1,6 +1,6 @@
 {
-  "commit": "1880f86552f881de7212cde180a34f7bcb1836d1",
-  "generated": "2026-04-30T04:55:06.139Z",
+  "commit": "de09fa4dd7446ad32b7a94ec26d6d775aa592605",
+  "generated": "2026-04-30T04:58:21.565Z",
   "metadata": [
     {
       "__outstatic": {
@@ -77,8 +77,8 @@
     },
     {
       "__outstatic": {
-        "commit": "1880f86552f881de7212cde180a34f7bcb1836d1",
-        "hash": "3185219946",
+        "commit": "de09fa4dd7446ad32b7a94ec26d6d775aa592605",
+        "hash": "3238217975",
         "path": "outstatic/content/tin-tuc-su-kien/cuoc-thi-u-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-2025-2026-truong-cao-dang-dak-lak.md"
       },
       "author": {
@@ -96,7 +96,7 @@
       "isFeatured": true,
       "publishedAt": "2026-04-30T05:25:55.952Z",
       "slug": "cuoc-thi-u-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-2025-2026-truong-cao-dang-dak-lak",
-      "status": "draft",
+      "status": "published",
       "title": "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
     }
   ]
