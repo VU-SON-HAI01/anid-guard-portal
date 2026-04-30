@@ -1,6 +1,13 @@
 {
-  "title": "Tin tức sự kiện",
-  "slug": "tin-tuc-su-kien",
+  "title": "tin-tuc-su-kien",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "coverImage": {
+      "title": "Cover Image",
+      "description": "Ảnh bìa",
+      "required": false,
+      "fieldType": "Image",
+      "dataType": "image"
+    }
+  }
 }
