@@ -16,5 +16,11 @@
     "slug": "tin-tuc-su-kien",
     "path": "outstatic/content/tin-tuc-su-kien",
     "children": []
+  },
+  {
+    "title": "Thông Báo",
+    "slug": "thong-bao",
+    "path": "outstatic/content/thong-bao",
+    "children": []
   }
 ]
