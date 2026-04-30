@@ -1,11 +1,5 @@
 [
   {
-    "title": "Test",
-    "slug": "test",
-    "path": "src/test",
-    "children": []
-  },
-  {
     "title": "Banner_tuyensinh",
     "slug": "banner-tuyensinh",
     "path": "outstatic/content/banner-tuyensinh",
