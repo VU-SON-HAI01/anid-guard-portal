@@ -23,6 +23,13 @@
       "fieldType": "Tags",
       "dataType": "array",
       "values": []
+    },
+    "isFeatured": {
+      "title": "Is Featured",
+      "description": "Bài viết nổi bật",
+      "required": false,
+      "fieldType": "Boolean",
+      "dataType": "boolean"
     }
   }
 }
