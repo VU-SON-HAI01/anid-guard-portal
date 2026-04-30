@@ -18,30 +18,6 @@
     },
     {
       "__outstatic": {
-        "commit": "de09fa4dd7446ad32b7a94ec26d6d775aa592605",
-        "hash": "3238217975",
-        "path": "outstatic/content/tin-tuc-su-kien/cuoc-thi-u-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-2025-2026-truong-cao-dang-dak-lak.md"
-      },
-      "author": {
-        "name": "TVG",
-        "picture": ""
-      },
-      "categories": [
-        {
-          "label": "Bài viết",
-          "value": "bàiViết"
-        }
-      ],
-      "collection": "tin-tuc-su-kien",
-      "description": "Trong hai ngày 24 và 27 tháng 12 năm 2025, Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” do Trường Cao đẳng Đắk Lắk tổ chức đã diễn ra thành công tốt đẹp, để lại nhiều dấu ấn về sức sáng tạo, tinh thần đổi mới và khát vọng cống hiến của thế hệ trẻ.",
-      "isFeatured": true,
-      "publishedAt": "2026-04-30T05:25:55.952Z",
-      "slug": "cuoc-thi-u-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-2025-2026-truong-cao-dang-dak-lak",
-      "status": "published",
-      "title": "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
-    },
-    {
-      "__outstatic": {
         "commit": "d837f22f1325f489eb8afb386af921ff915677f7",
         "hash": "4202213683",
         "path": "outstatic/content/tin-tuc-su-kien/hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak.md"
