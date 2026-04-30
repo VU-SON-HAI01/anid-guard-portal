@@ -1,6 +1,6 @@
 {
-  "commit": "7e72aa72a428ad9706cfc3748bbdd493a22e24d5",
-  "generated": "2026-04-30T11:42:52.480Z",
+  "commit": "e51a186bde515ab76bcc59716a19429dc338e258",
+  "generated": "2026-04-30T11:42:56.736Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,25 +17,6 @@
       "slug": "vuhai",
       "status": "draft",
       "title": "Trường Cao đẳng Đắk Lắk trân trọng thông báo về việc ban hành Quy chế Tổ chức và hoạt động mới theo Quyết định số /QĐ-CĐĐL ngày tháng 4 năm 2026. Đây là bước kiện toàn quan trọng sau khi sáp nhập Trường Cao đẳng Nghề Phú Yên vào Trường Cao đẳng Đắk Lắk."
-    },
-    {
-      "__outstatic": {
-        "commit": "82161c49aa95bb08181f68113179605ce702cad5",
-        "hash": "47051702",
-        "path": "outstatic/content/banner-nganh/cong-nghe-thong-tin.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/212733293?v=4"
-      },
-      "code": "CNTT01",
-      "collection": "banner-nganh",
-      "duration": "2.5 năm",
-      "publishedAt": "2026-04-20T10:28:18.228Z",
-      "slug": "cong-nghe-thong-tin",
-      "status": "draft",
-      "target": "120",
-      "title": "Công nghệ thông tin"
     },
     {
       "__outstatic": {

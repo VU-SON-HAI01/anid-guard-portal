@@ -1,11 +1,5 @@
 [
   {
-    "title": "banner_nganh",
-    "slug": "banner-nganh",
-    "path": "outstatic/content/banner-nganh",
-    "children": []
-  },
-  {
     "title": "Tin tức sự kiện",
     "slug": "tin-tuc-su-kien",
     "path": "outstatic/content/tin-tuc-su-kien",
