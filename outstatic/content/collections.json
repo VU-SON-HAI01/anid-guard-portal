@@ -10,6 +10,7 @@
     "title": "Thông Báo",
     "slug": "thong-bao",
     "path": "outstatic/content/thong-bao",
-    "children": []
+    "children": [],
+    "imageFolder": "Article/Notification(thongbao)"
   }
 ]
