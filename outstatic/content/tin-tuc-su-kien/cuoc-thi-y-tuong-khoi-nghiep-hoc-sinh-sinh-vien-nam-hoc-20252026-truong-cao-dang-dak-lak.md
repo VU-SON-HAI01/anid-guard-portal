@@ -1,16 +1,69 @@
 ---
 title: "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
-publishedAt: "2026-04-30T14:00:14.846Z"
+publishedAt: "2026-05-01T04:36:04.157Z"
 status: "published"
 author:
-  name: "VSH"
-  picture: ""
+  name: "TTD"
+  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777608608/67_zdnnzh.jpg"
 slug: "cuoc-thi-y-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-20252026-truong-cao-dang-dak-lak"
-description: "Trong hai ngày 24 và 27 tháng 12 năm 2025, Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” do Trường Cao đẳng Đắk Lắk tổ chức đã diễn ra thành công tốt đẹp, để lại nhiều dấu ấn về sức sáng tạo, tinh thần đổi mới và khát vọng cống hiến của thế hệ trẻ."
-coverImage: "https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image2.jpg"
+description: "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026”: Sôi nổi, sáng tạo và lan tỏa tinh thần đổi mới tại Trường Cao đẳng Đắk Lắk
+Diễn ra: 24 & 27/12/2025 — Đơn vị tổ chức: Trường Cao đẳng Đắk Lắk"
 categories:
   - label: "Bài viết"
     value: "Bài viết"
 ---
 
-<p>Cuộc thi năm nay thu hút 22 dự án đến từ 88 học sinh, sinh viên thuộc các khoa, trung tâm trong toàn trường. Với sự hướng dẫn chuyên môn của đội ngũ giảng viên cố vấn, các nhóm dự thi đã chuẩn bị kỹ lưỡng, tự tin trình bày ý tưởng trước hội đồng giám khảo, tập trung vào nhiều lĩnh vực có tính ứng dụng cao như: thiết bị kỹ thuật, nông nghiệp – thực phẩm, công nghệ số, dịch vụ và các giải pháp tiện ích xã hội.</p><h2><strong>Hành trình sáng tạo và kết quả nổi bật</strong></h2><p>Sau quá trình đánh giá khách quan, khoa học và thảo luận chuyên môn, Ban Giám khảo đã lựa chọn những dự án thể hiện tốt nhất cả về ý tưởng, tính khả thi và tiềm năng phát triển:</p><p><strong>Giải Nhất:</strong> “Máy lấy số thứ tự kết nối Internet” — nhóm tác giả Y Ươt Ayun, Nguyễn Văn Vọng, Nguyễn Minh Tuấn (Khoa Điện – Điện tử). Dự án đưa ra giải pháp điều phối dịch vụ nhờ thiết bị lấy số thứ tự tích hợp kết nối Internet, phù hợp với đơn vị hành chính, cơ sở giáo dục, bệnh viện và doanh nghiệp có nhu cầu quản lý quy trình phục vụ.</p><ul><li><p><strong>Giải Nhì:</strong></p></li></ul><p>“Tây Nguyên Muối” — Khoa Nông – Lâm – Thú y – Thực phẩm</p><p>“Robot cắt cỏ điều khiển từ xa” — Khoa Công nghệ Ô tô</p><p><strong>Giải Ba:</strong> 03 dự án đến từ các khoa, trung tâm với góc nhìn sáng tạo và giải pháp thực tiễn.</p><p><strong>Giải Khuyến khích:</strong> 16 dự án, ghi nhận nỗ lực và tiềm năng phát triển trong tương lai.</p><p></p><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image2.jpg" alt=""><p><em>Ban tổ chức và lãnh đạo nhà trường đã trực tiếp trao giải Nhất cho nhóm tác giả đoạt giải, ghi nhận nỗ lực nghiên cứu và tính ứng dụng của dự án trong thực tế.</em></p><h2><strong>Lan tỏa khát vọng đổi mới — hướng đến sân chơi lớn</strong></h2><p>Đánh giá về cuộc thi, Ban Tổ chức ghi nhận sự chủ động, tự tin và tinh thần cầu tiến của học sinh, sinh viên khi tiếp cận phương pháp phát triển ý tưởng và mô hình kinh doanh. Các thầy cô cố vấn tại các khoa, trung tâm đã đồng hành xuyên suốt, góp phần nâng cao chất lượng dự án, làm rõ tính ứng dụng và định hướng triển khai.</p><p>Đại diện nhà trường khẳng định:</p><blockquote><p>“Cuộc thi không chỉ là sân chơi khởi nghiệp đơn thuần, mà còn là môi trường rèn luyện tư duy sáng tạo, khả năng thuyết trình, giao tiếp và nghiên cứu. Đây là những hành trang quan trọng đối với người học nghề trong bối cảnh đổi mới và hội nhập.”</p></blockquote><h2><strong>Định hướng tiếp nối</strong></h2><p>Trên cơ sở thành công của cuộc thi năm nay, nhà trường tiếp tục khuyến khích các đội thi hoàn thiện dự án, từng bước đưa vào thực tiễn và tham gia các đấu trường khởi nghiệp cấp tỉnh, cấp quốc gia trong thời gian tới. Đây cũng là mục tiêu nhất quán của Trường Cao đẳng Đắk Lắk trong việc xây dựng hệ sinh thái khởi nghiệp — đổi mới sáng tạo, gắn kết đào tạo nghề với nhu cầu thực tế của thị trường lao động.</p><p>Cuộc thi khép lại nhưng tinh thần khởi nghiệp và đổi mới sáng tạo vẫn tiếp tục lan tỏa trong từng giờ học, từng xưởng thực hành và trong những ý tưởng đang được ươm mầm. Trường Cao đẳng Đắk Lắk kỳ vọng thế hệ học sinh, sinh viên hôm nay sẽ trở thành những kỹ thuật viên, doanh nhân, nhà sáng tạo tương lai — góp phần xây dựng Tây Nguyên giàu bản sắc và phát triển bền vững.</p><p><strong>Một số hình ảnh cuộc thi:</strong></p><p></p><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image3.jpg" alt=""><p><em>Hình ảnh ban cố vấn và các đội nhận giải</em></p><p></p><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image4.jpg" alt=""><p><em>Hình ảnh trao giải khuyến khích cuộc thi</em></p><p></p><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image5.jpeg" alt=""><p><em>Hình ảnh Sinh viên trình bày Dự án: Sản xuất thức ăn chăn nuôi cho loài nhai lại bằng phương pháp ủ chua thức ăn thô xanh và phụ phẩm nông nghiệp</em></p><p></p><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image6.jpeg" alt=""><p><em>Hình ảnh Sinh viên trình bày Dự án:Tây Nguyên muối</em></p><p></p><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image7.jpeg" alt=""><p><em>Hình ảnh Sinh viên trình bày Dự án: Robot cắt cỏ điều khiển từ xa</em></p><p></p><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image8.jpeg" alt=""><p><em>Hình ảnh Sinh viên trình bày Dự án: Máy điều hoà không khí inverter điều khiển từ xa</em></p><p></p><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image9.jpeg" alt=""><p><em>Hình ảnh Sinh viên trình bày Dự án: Máy lấy số thứ tự kết nối internet</em></p><p><strong>TTD - Phòng Công tác HSSV-TS-TVVL</strong></p>
+<h4 style="text-align: justify;">Trong hai ng&agrave;y 24 v&agrave; 27 th&aacute;ng 12 năm 2025, Cuộc thi &ldquo;&Yacute; tưởng khởi nghiệp học sinh, sinh vi&ecirc;n năm học 2025&ndash;2026&rdquo; do Trường Cao đẳng Đắk Lắk tổ chức đ&atilde; diễn ra th&agrave;nh c&ocirc;ng tốt đẹp, để lại nhiều dấu ấn về sức s&aacute;ng tạo, tinh thần đổi mới v&agrave; kh&aacute;t vọng cống hiến của thế hệ trẻ.</h4>
+<div class="content_art" style="text-align: justify;">
+<p class="meta" style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image1.jpg" width="800" height="446" border="0"></p>
+<p style="text-align: center;" align="center"><em>H&igrave;nh ảnh Khai mạc Cuộc thi &ldquo; &Yacute; tưởng khởi nghiệp học sinh, sinh vi&ecirc;n </em><em>năm học 2025 &ndash; 2026&rdquo;</em></p>
+<p style="text-align: justify;">Cuộc thi năm nay thu h&uacute;t 22 dự &aacute;n đến từ 88 học sinh, sinh vi&ecirc;n thuộc c&aacute;c khoa, trung t&acirc;m trong to&agrave;n trường. Với sự hướng dẫn chuy&ecirc;n m&ocirc;n của đội ngũ giảng vi&ecirc;n cố vấn, c&aacute;c nh&oacute;m dự thi đ&atilde; chuẩn bị kỹ lưỡng, tự tin tr&igrave;nh b&agrave;y &yacute; tưởng trước hội đồng gi&aacute;m khảo, tập trung v&agrave;o nhiều lĩnh vực c&oacute; t&iacute;nh ứng dụng cao như: thiết bị kỹ thuật, n&ocirc;ng nghiệp &ndash; thực phẩm, c&ocirc;ng nghệ số, dịch vụ v&agrave; c&aacute;c giải ph&aacute;p tiện &iacute;ch x&atilde; hội.</p>
+<h3 style="text-align: justify;">H&agrave;nh tr&igrave;nh s&aacute;ng tạo v&agrave; kết quả nổi bật</h3>
+<p style="text-align: justify;">Sau qu&aacute; tr&igrave;nh đ&aacute;nh gi&aacute; kh&aacute;ch quan, khoa học v&agrave; thảo luận chuy&ecirc;n m&ocirc;n, Ban Gi&aacute;m khảo đ&atilde; lựa chọn những dự &aacute;n thể hiện tốt nhất cả về &yacute; tưởng, t&iacute;nh khả thi v&agrave; tiềm năng ph&aacute;t triển:</p>
+<ul style="text-align: justify;">
+<li><strong>Giải Nhất:</strong>&nbsp;&ldquo;M&aacute;y lấy số thứ tự kết nối Internet&rdquo; &mdash; nh&oacute;m t&aacute;c giả Y Ươt Ayun, Nguyễn Văn Vọng, Nguyễn Minh Tuấn (Khoa Điện &ndash; Điện tử). Dự &aacute;n đưa ra giải ph&aacute;p điều phối dịch vụ nhờ thiết bị lấy số thứ tự t&iacute;ch hợp kết nối Internet, ph&ugrave; hợp với đơn vị h&agrave;nh ch&iacute;nh, cơ sở gi&aacute;o dục, bệnh viện v&agrave; doanh nghiệp c&oacute; nhu cầu quản l&yacute; quy tr&igrave;nh phục vụ.</li>
+<li><strong>Giải Nh&igrave;:</strong>
+<ul>
+<li>&ldquo;T&acirc;y Nguy&ecirc;n Muối&rdquo; &mdash; Khoa N&ocirc;ng &ndash; L&acirc;m &ndash; Th&uacute; y &ndash; Thực phẩm</li>
+<li>&ldquo;Robot cắt cỏ điều khiển từ xa&rdquo; &mdash; Khoa C&ocirc;ng nghệ &Ocirc; t&ocirc;</li>
+</ul>
+</li>
+<li><strong>Giải Ba:</strong>&nbsp;03 dự &aacute;n đến từ c&aacute;c khoa, trung t&acirc;m với g&oacute;c nh&igrave;n s&aacute;ng tạo v&agrave; giải ph&aacute;p thực tiễn.</li>
+<li><strong>Giải Khuyến kh&iacute;ch:</strong>&nbsp;16 dự &aacute;n, ghi nhận nỗ lực v&agrave; tiềm năng ph&aacute;t triển trong tương lai.</li>
+</ul>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image2.jpg" width="800" height="505" border="0"><em><br></em></p>
+<p style="text-align: justify;"><em>Ban tổ chức v&agrave; l&atilde;nh đạo nh&agrave; trường đ&atilde; trực tiếp trao giải Nhất cho nh&oacute;m t&aacute;c giả đoạt giải, ghi nhận nỗ lực nghi&ecirc;n cứu v&agrave; t&iacute;nh ứng dụng của dự &aacute;n trong thực tế.</em></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h2 style="text-align: justify;">Lan tỏa kh&aacute;t vọng đổi mới &mdash; hướng đến s&acirc;n chơi lớn</h2>
+<p style="text-align: justify;">Đ&aacute;nh gi&aacute; về cuộc thi, Ban Tổ chức ghi nhận sự chủ động, tự tin v&agrave; tinh thần cầu tiến của học sinh, sinh vi&ecirc;n khi tiếp cận phương ph&aacute;p ph&aacute;t triển &yacute; tưởng v&agrave; m&ocirc; h&igrave;nh kinh doanh. C&aacute;c thầy c&ocirc; cố vấn tại c&aacute;c khoa, trung t&acirc;m đ&atilde; đồng h&agrave;nh xuy&ecirc;n suốt, g&oacute;p phần n&acirc;ng cao chất lượng dự &aacute;n, l&agrave;m r&otilde; t&iacute;nh ứng dụng v&agrave; định hướng triển khai.</p>
+<p style="text-align: justify;">Đại diện nh&agrave; trường khẳng định:</p>
+<blockquote>&ldquo;Cuộc thi kh&ocirc;ng chỉ l&agrave; s&acirc;n chơi khởi nghiệp đơn thuần, m&agrave; c&ograve;n l&agrave; m&ocirc;i trường r&egrave;n luyện tư duy s&aacute;ng tạo, khả năng thuyết tr&igrave;nh, giao tiếp v&agrave; nghi&ecirc;n cứu. Đ&acirc;y l&agrave; những h&agrave;nh trang quan trọng đối với người học nghề trong bối cảnh đổi mới v&agrave; hội nhập.&rdquo;</blockquote>
+<h2 style="text-align: justify;">Định hướng tiếp nối</h2>
+<p style="text-align: justify;">Tr&ecirc;n cơ sở th&agrave;nh c&ocirc;ng của cuộc thi năm nay, nh&agrave; trường tiếp tục khuyến kh&iacute;ch c&aacute;c đội thi ho&agrave;n thiện dự &aacute;n, từng bước đưa v&agrave;o thực tiễn v&agrave; tham gia c&aacute;c đấu trường khởi nghiệp cấp tỉnh, cấp quốc gia trong thời gian tới. Đ&acirc;y cũng l&agrave; mục ti&ecirc;u nhất qu&aacute;n của Trường Cao đẳng Đắk Lắk trong việc x&acirc;y dựng hệ sinh th&aacute;i khởi nghiệp &mdash; đổi mới s&aacute;ng tạo, gắn kết đ&agrave;o tạo nghề với nhu cầu thực tế của thị trường lao động.</p>
+<p style="text-align: justify;">Cuộc thi kh&eacute;p lại nhưng tinh thần khởi nghiệp v&agrave; đổi mới s&aacute;ng tạo vẫn tiếp tục lan tỏa trong từng giờ học, từng xưởng thực h&agrave;nh v&agrave; trong những &yacute; tưởng đang được ươm mầm. Trường Cao đẳng Đắk Lắk kỳ vọng thế hệ học sinh, sinh vi&ecirc;n h&ocirc;m nay sẽ trở th&agrave;nh những kỹ thuật vi&ecirc;n, doanh nh&acirc;n, nh&agrave; s&aacute;ng tạo tương lai &mdash; g&oacute;p phần x&acirc;y dựng T&acirc;y Nguy&ecirc;n gi&agrave;u bản sắc v&agrave; ph&aacute;t triển bền vững.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong>Một số h&igrave;nh ảnh cuộc thi:</strong></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image3.jpg" width="800" height="546" border="0"></p>
+<p style="text-align: center;" align="center"><em>H&igrave;nh ảnh ban cố vấn v&agrave; c&aacute;c đội nhận giải</em></p>
+<p style="text-align: justify;"><em><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image4.jpg" width="800" height="525" border="0"><br></em></p>
+<p style="text-align: center;" align="center"><em>H&igrave;nh ảnh trao giải khuyến kh&iacute;ch cuộc thi</em></p>
+<p style="text-align: justify;" align="center"><em>&nbsp;</em></p>
+<p style="text-align: justify;"><em><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image5.jpeg" width="800" height="600" border="0"><br></em></p>
+<p style="text-align: center;"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n: Sản xuất thức ăn chăn nu&ocirc;i cho lo&agrave;i nhai lại bằng phương ph&aacute;p ủ chua thức ăn th&ocirc; xanh v&agrave; phụ phẩm n&ocirc;ng nghiệp<br></em></p>
+<p style="text-align: justify;"><em>&nbsp;</em></p>
+<p style="text-align: justify;"><em><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image6.jpeg" width="800" height="600" border="0"><br></em></p>
+<p style="text-align: center;" align="center"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n:T&acirc;y Nguy&ecirc;n muối</em></p>
+<p style="text-align: justify;" align="center"><em>&nbsp;</em></p>
+<p style="text-align: justify;"><em><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image7.jpeg" width="800" height="598" border="0"><br></em></p>
+<p style="text-align: center;" align="center"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n: Robot cắt cỏ điều khiển từ xa</em></p>
+<p style="text-align: justify;" align="center"><em>&nbsp;</em></p>
+<p style="text-align: justify;"><em><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image8.jpeg" width="800" height="600" border="0"><br></em></p>
+<p style="text-align: center;" align="center"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n: M&aacute;y điều ho&agrave; kh&ocirc;ng kh&iacute; inverter điều khiển từ xa</em></p>
+<p style="text-align: justify;" align="center"><em>&nbsp;</em></p>
+<p style="text-align: justify;"><em><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image9.jpeg" width="800" height="600" border="0"><br></em></p>
+<p style="text-align: center;" align="center"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n: M&aacute;y lấy số thứ tự kết nối internet</em></p>
+<p class="signature">&nbsp;</p>
+</div>
