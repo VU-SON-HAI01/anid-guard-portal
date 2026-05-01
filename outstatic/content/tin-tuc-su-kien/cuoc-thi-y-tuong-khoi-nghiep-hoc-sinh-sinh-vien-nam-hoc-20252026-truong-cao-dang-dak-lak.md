@@ -1,6 +1,6 @@
 ---
 title: "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
-publishedAt: "2026-05-01T05:24:38.553Z"
+publishedAt: "2026-05-01T05:31:26.055Z"
 status: "published"
 author:
   name: "TTD"
@@ -50,7 +50,7 @@ categories:
 <p style="text-align: justify;">Đ&aacute;nh gi&aacute; về cuộc thi, Ban Tổ chức ghi nhận sự chủ động, tự tin v&agrave; tinh thần cầu tiến của học sinh, sinh vi&ecirc;n khi tiếp cận phương ph&aacute;p ph&aacute;t triển &yacute; tưởng v&agrave; m&ocirc; h&igrave;nh kinh doanh. C&aacute;c thầy c&ocirc; cố vấn tại c&aacute;c khoa, trung t&acirc;m đ&atilde; đồng h&agrave;nh xuy&ecirc;n suốt, g&oacute;p phần n&acirc;ng cao chất lượng dự &aacute;n, l&agrave;m r&otilde; t&iacute;nh ứng dụng v&agrave; định hướng triển khai.</p>
 <p style="text-align: justify;"><strong><em>Đại diện nh&agrave; trường khẳng định:</em></strong></p>
 <blockquote>&ldquo;Cuộc thi kh&ocirc;ng chỉ l&agrave; s&acirc;n chơi khởi nghiệp đơn thuần, m&agrave; c&ograve;n l&agrave; m&ocirc;i trường r&egrave;n luyện tư duy s&aacute;ng tạo, khả năng thuyết tr&igrave;nh, giao tiếp v&agrave; nghi&ecirc;n cứu. Đ&acirc;y l&agrave; những h&agrave;nh trang quan trọng đối với người học nghề trong bối cảnh đổi mới v&agrave; hội nhập.&rdquo;</blockquote>
-<h2 style="text-align: justify;">Định hướng tiếp nối</h2>
+<h2 style="text-align: justify;">Định hướng tiếp nối X</h2>
 <p style="text-align: justify;">Tr&ecirc;n cơ sở th&agrave;nh c&ocirc;ng của cuộc thi năm nay, nh&agrave; trường tiếp tục khuyến kh&iacute;ch c&aacute;c đội thi ho&agrave;n thiện dự &aacute;n, từng bước đưa v&agrave;o thực tiễn v&agrave; tham gia c&aacute;c đấu trường khởi nghiệp cấp tỉnh, cấp quốc gia trong thời gian tới. Đ&acirc;y cũng l&agrave; mục ti&ecirc;u nhất qu&aacute;n của Trường Cao đẳng Đắk Lắk trong việc x&acirc;y dựng hệ sinh th&aacute;i khởi nghiệp &mdash; đổi mới s&aacute;ng tạo, gắn kết đ&agrave;o tạo nghề với nhu cầu thực tế của thị trường lao động.</p>
 <p style="text-align: justify;">Cuộc thi kh&eacute;p lại nhưng tinh thần khởi nghiệp v&agrave; đổi mới s&aacute;ng tạo vẫn tiếp tục lan tỏa trong từng giờ học, từng xưởng thực h&agrave;nh v&agrave; trong những &yacute; tưởng đang được ươm mầm. Trường Cao đẳng Đắk Lắk kỳ vọng thế hệ học sinh, sinh vi&ecirc;n h&ocirc;m nay sẽ trở th&agrave;nh những kỹ thuật vi&ecirc;n, doanh nh&acirc;n, nh&agrave; s&aacute;ng tạo tương lai &mdash; g&oacute;p phần x&acirc;y dựng T&acirc;y Nguy&ecirc;n gi&agrave;u bản sắc v&agrave; ph&aacute;t triển bền vững.</p>
 <p style="text-align: justify;"><strong>Một số h&igrave;nh ảnh cuộc thi:</strong></p>
