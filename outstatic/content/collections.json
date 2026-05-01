@@ -3,7 +3,8 @@
     "title": "Tin tức sự kiện",
     "slug": "tin-tuc-su-kien",
     "path": "outstatic/content/tin-tuc-su-kien",
-    "children": []
+    "children": [],
+    "imageFolder": "Article/Event(sukien)"
   },
   {
     "title": "Thông Báo",
