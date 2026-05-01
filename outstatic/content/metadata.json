@@ -1,4 +1,6 @@
 {
+  "commit": "2679b3f12fbe88fcbe19d8982ebd746aba164d86",
+  "generated": "2026-05-01T08:37:32.788Z",
   "metadata": [
     {
       "__outstatic": {
@@ -39,6 +41,27 @@
       "slug": "hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak",
       "status": "published",
       "title": "HỘI NGHỊ CÔNG BỐ QUYẾT ĐỊNH SÁP NHẬP TRƯỜNG VÀ BỔ NHIỆM HIỆU TRƯỞNG, PHÓ HIỆU TRƯỞNG TRƯỜNG CAO ĐẲNG ĐẮK LẮK"
+    },
+    {
+      "__outstatic": {
+        "commit": "2679b3f12fbe88fcbe19d8982ebd746aba164d86",
+        "hash": "2548454443",
+        "path": "outstatic/content/tin-tuc-su-kien/cao-dang-dien-cong-nghiep-hoc-thuc-hanh-vung-tay-nghe-sang-tuong-lai.md"
+      },
+      "author": {
+        "name": "VSH",
+        "picture": "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
+      },
+      "categories": [
+      ],
+      "collection": "tin-tuc-su-kien",
+      "coverImage": "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777546435/tuyensinh-cddaklak/su-kien-30-04-2026/mfwcijzevsusrjmxtgoo.png",
+      "description": "",
+      "postId": 6,
+      "publishedAt": "2026-05-01T05:40:53.251Z",
+      "slug": "cao-dang-dien-cong-nghiep-hoc-thuc-hanh-vung-tay-nghe-sang-tuong-lai",
+      "status": "published",
+      "title": "Cao đẳng Điện công nghiệp: Học thực hành - Vững tay nghề - Sáng tương lai"
     }
   ]
 }
