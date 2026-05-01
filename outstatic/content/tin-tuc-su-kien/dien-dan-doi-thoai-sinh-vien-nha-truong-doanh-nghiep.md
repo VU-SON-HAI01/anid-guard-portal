@@ -1,6 +1,6 @@
 ---
 title: "Diễn đàn đối thoại “Sinh viên – Nhà trường – Doanh nghiệp”"
-publishedAt: "2026-05-01T03:32:26.882Z"
+publishedAt: "2026-05-01T03:32:44.784Z"
 status: "published"
 author:
   name: "VSH"
