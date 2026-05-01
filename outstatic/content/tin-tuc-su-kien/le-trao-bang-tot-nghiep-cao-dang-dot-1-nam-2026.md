@@ -1,7 +1,7 @@
 ---
 title: "Lễ trao bằng tốt nghiệp cao đẳng đợt 1 năm 2026!"
-publishedAt: "2026-05-01T06:59:57.995Z"
-status: "draft"
+publishedAt: "2026-05-01T07:00:07.962Z"
+status: "published"
 author:
   name: "TVG"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777618011/4_g0noov.jpg"
