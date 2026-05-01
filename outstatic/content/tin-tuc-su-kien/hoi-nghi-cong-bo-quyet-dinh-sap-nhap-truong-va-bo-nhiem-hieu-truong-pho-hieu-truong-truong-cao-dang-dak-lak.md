@@ -1,6 +1,6 @@
 ---
 title: "Hội nghị công bố Quyết định sáp nhập Trường và bổ nhiệm Hiệu trưởng, Phó hiệu trưởng Trường Cao Đẳng Đắk Lắk"
-publishedAt: "2026-05-01T17:22:07.914Z"
+publishedAt: "2026-05-01T17:22:14.815Z"
 status: "published"
 author:
   name: "TTD"
