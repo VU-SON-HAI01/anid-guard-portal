@@ -38,26 +38,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f72b43db6fa69db9de53fdd23f27eab7c0ed4d11",
-        "hash": "488893503",
-        "path": "outstatic/content/tin-tuc-su-kien/hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak.md"
-      },
-      "author": {
-        "name": "VSH",
-        "picture": "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
-      },
-      "categories": [],
-      "collection": "tin-tuc-su-kien",
-      "coverImage": "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777618908/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.jpg",
-      "description": "Sáng ngày 16/01/2026, tại Hội trường, Trường Cao đẳng Đắk Lắk đã long trọng diễn ra Hội nghị công bố Quyết định sáp nhập Trường và Quyết định bổ nhiệm Hiệu trưởng, các Phó Hiệu trưởng Trường Cao đẳng Đắk Lắk.",
-      "postId": 1,
-      "publishedAt": "2026-05-01T07:01:52.392Z",
-      "slug": "hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak",
-      "status": "published",
-      "title": "HỘI NGHỊ CÔNG BỐ QUYẾT ĐỊNH SÁP NHẬP TRƯỜNG VÀ BỔ NHIỆM HIỆU TRƯỞNG, PHÓ HIỆU TRƯỞNG TRƯỜNG CAO ĐẲNG ĐẮK LẮK"
-    },
-    {
-      "__outstatic": {
         "commit": "8a27bee88909f61d4cb29d97965d6e3f9f0d0a8e",
         "hash": "192248025",
         "path": "outstatic/content/tin-tuc-su-kien/truong-cao-dang-dak-lak-phoi-hop-agribank-trao-tang-qua-tet-cho-hoc-sinh-sinh-vien-co-hoan-canh-kho-khan.md"
