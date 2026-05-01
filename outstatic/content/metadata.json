@@ -1,6 +1,6 @@
 {
-  "commit": "ff92d18d20dd28447baacd436c0009fdcf243d4c",
-  "generated": "2026-05-01T08:39:13.993Z",
+  "commit": "45600abafcc9eaec4a99a71defdb4df66af30274",
+  "generated": "2026-05-01T08:39:55.756Z",
   "metadata": [
     {
       "__outstatic": {
@@ -105,6 +105,27 @@
       "slug": "cuoc-thi-y-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-20252026-truong-cao-dang-dak-lak",
       "status": "published",
       "title": "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
+    },
+    {
+      "__outstatic": {
+        "commit": "45600abafcc9eaec4a99a71defdb4df66af30274",
+        "hash": "577959460",
+        "path": "outstatic/content/tin-tuc-su-kien/dien-dan-doi-thoai-sinh-vien-nha-truong-doanh-nghiep.md"
+      },
+      "author": {
+        "name": "VSH",
+        "picture": "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
+      },
+      "categories": [
+      ],
+      "collection": "tin-tuc-su-kien",
+      "coverImage": "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777618948/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.png",
+      "description": "Sáng 28/3, Trường Cao đẳng Đắk Lắk phối hợp Ban Quản lý dự án “Tăng cường năng lực và thúc đẩy thực hành bảo vệ trẻ em trong sản xuất cà phê” (Sở Y tế Đắk Lắk) tổ chức diễn đàn đối thoại giữa sinh viên - nhà trường - doanh nghiệp với chủ đề “Kết nối doanh nghiệp, cơ hội việc làm cho lao động trẻ”.",
+      "postId": 4,
+      "publishedAt": "2026-05-01T07:16:47.310Z",
+      "slug": "dien-dan-doi-thoai-sinh-vien-nha-truong-doanh-nghiep",
+      "status": "published",
+      "title": "Diễn đàn đối thoại “Sinh viên – Nhà trường – Doanh nghiệp”"
     }
   ]
 }
