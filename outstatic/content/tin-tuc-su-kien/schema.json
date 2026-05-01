@@ -35,6 +35,13 @@
       "required": false,
       "fieldType": "Boolean",
       "dataType": "boolean"
+    },
+    "postId": {
+      "title": "Post ID",
+      "description": "ID Bài viết",
+      "required": true,
+      "fieldType": "Number",
+      "dataType": "number"
     }
   }
 }
