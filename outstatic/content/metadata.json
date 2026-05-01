@@ -1,6 +1,6 @@
 {
-  "commit": "f72b43db6fa69db9de53fdd23f27eab7c0ed4d11",
-  "generated": "2026-05-01T08:38:12.112Z",
+  "commit": "8a27bee88909f61d4cb29d97965d6e3f9f0d0a8e",
+  "generated": "2026-05-01T08:38:47.482Z",
   "metadata": [
     {
       "__outstatic": {
@@ -59,6 +59,27 @@
       "slug": "hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak",
       "status": "published",
       "title": "HỘI NGHỊ CÔNG BỐ QUYẾT ĐỊNH SÁP NHẬP TRƯỜNG VÀ BỔ NHIỆM HIỆU TRƯỞNG, PHÓ HIỆU TRƯỞNG TRƯỜNG CAO ĐẲNG ĐẮK LẮK"
+    },
+    {
+      "__outstatic": {
+        "commit": "8a27bee88909f61d4cb29d97965d6e3f9f0d0a8e",
+        "hash": "192248025",
+        "path": "outstatic/content/tin-tuc-su-kien/truong-cao-dang-dak-lak-phoi-hop-agribank-trao-tang-qua-tet-cho-hoc-sinh-sinh-vien-co-hoan-canh-kho-khan.md"
+      },
+      "author": {
+        "name": "TTD",
+        "picture": "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777608608/67_zdnnzh.jpg"
+      },
+      "categories": [
+      ],
+      "collection": "tin-tuc-su-kien",
+      "coverImage": "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777541714/tuyensinh-cddaklak/su-kien-30-04-2026/pklzdophjroxia3uota3.jpg",
+      "description": "Chiều ngày 04/02/2026 tại cơ sở chính và sáng ngày 06/01/2026 tại cơ sở 2 Trường Cao đẳng Đắk Lắk đã phối hợp với Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank) – Chi nhánh Đắk Lắk tổ chức chương trình “Tết Nghĩa Tình” lần thứ XII, năm 2026, trao tặng 60 suất quà Tết, mỗi suất trị giá 500.000đ cho học sinh, sinh viên có hoàn cảnh khó khăn, nỗ lực vươn lên trong học tập và rèn luyện.",
+      "postId": 2,
+      "publishedAt": "2026-05-01T05:46:56.287Z",
+      "slug": "truong-cao-dang-dak-lak-phoi-hop-agribank-trao-tang-qua-tet-cho-hoc-sinh-sinh-vien-co-hoan-canh-kho-khan",
+      "status": "published",
+      "title": "TRƯỜNG CAO ĐẲNG ĐẮK LẮK PHỐI HỢP AGRIBANK TRAO TẶNG QUÀ TẾT CHO HỌC SINH, SINH VIÊN CÓ HOÀN CẢNH KHÓ KHĂN"
     }
   ]
 }
