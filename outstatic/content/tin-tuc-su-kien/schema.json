@@ -46,6 +46,31 @@
       "required": true,
       "fieldType": "Number",
       "dataType": "number"
+    },
+    "location": {
+      "title": "location",
+      "description": "Cơ sở sự kiện",
+      "required": false,
+      "fieldType": "Select",
+      "dataType": "string",
+      "values": [
+        {
+          "label": "Cơ sở chính",
+          "value": "cơSởChính"
+        },
+        {
+          "label": "Cơ sở 2",
+          "value": "cơSở_2"
+        },
+        {
+          "label": "Cơ sở 3",
+          "value": "cơSở_3"
+        },
+        {
+          "label": "Cơ sở 4",
+          "value": "cơSở_4"
+        }
+      ]
     }
   }
 }
