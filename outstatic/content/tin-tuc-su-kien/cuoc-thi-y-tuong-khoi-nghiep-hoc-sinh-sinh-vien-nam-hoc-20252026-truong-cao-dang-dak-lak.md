@@ -1,6 +1,6 @@
 ---
 title: "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
-publishedAt: "2026-05-01T05:40:19.303Z"
+publishedAt: "2026-05-01T05:59:49.052Z"
 status: "published"
 author:
   name: "TTD"
@@ -64,7 +64,7 @@ categories:
 <p style="text-align: center;" align="center"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n:T&acirc;y Nguy&ecirc;n muối</em></p>
 <p style="text-align: justify;"><em><img src="https://www.cddaklak.edu.vn/images/stories/H%C4%90%20Khoi%20nghiep%202015/image7.jpeg" width="800" height="598" border="0"></em></p>
 <p style="text-align: center;" align="center"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n: Robot cắt cỏ điều khiển từ xa</em></p>
-<p style="text-align: center;" align="center"><em><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777612388/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/img_1777612385551.jpg" alt="" width="800" height="450"></em></p>
+<p style="text-align: center;" align="center"><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777615176/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/img_1777615173653.jpg" width="800" height="450"></p>
 <p style="line-height: 1.5;" align="center"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n: M&aacute;y điều ho&agrave; kh&ocirc;ng kh&iacute; inverter điều khiển từ xa</em></p>
 <p align="center"><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777612414/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/img_1777612411908.jpg" alt="" width="800" height="450"></p>
 <p style="text-align: center;"><em>H&igrave;nh ảnh Sinh vi&ecirc;n tr&igrave;nh b&agrave;y Dự &aacute;n: M&aacute;y lấy số thứ tự kết nối internet</em></p>
