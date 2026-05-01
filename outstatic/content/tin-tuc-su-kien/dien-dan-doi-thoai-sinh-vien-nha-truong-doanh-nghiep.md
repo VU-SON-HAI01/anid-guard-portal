@@ -1,6 +1,6 @@
 ---
 title: "Diễn đàn đối thoại “Sinh viên – Nhà trường – Doanh nghiệp”"
-publishedAt: "2026-05-01T07:07:20.313Z"
+publishedAt: "2026-05-01T07:16:47.310Z"
 status: "published"
 author:
   name: "VSH"
@@ -44,7 +44,6 @@ coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_
 <p style="text-align: justify;">Trong khu&ocirc;n khổ c&aacute;c hoạt động của Diễn đ&agrave;n đối thoại, buổi chiều c&ugrave;ng ng&agrave;y sinh vi&ecirc;n tiếp tục tham gia Ng&agrave;y hội việc l&agrave;m năm 2026 v&agrave; tham gia phỏng vấn tại c&aacute;c gian h&agrave;ng tuyển dụng trực tiếp đến từ 18 doanh nghiệp tham gia tuyển dụng nh&acirc;n sự trong v&agrave; ngo&agrave;i tỉnh.</p>
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;">Ng&agrave;y hội việc l&agrave;m năm 2026 thật sự mở ra kh&ocirc;ng gian cho sinh vi&ecirc;n được tiếp cận với doanh nghiệp, với nhiều cơ hội nghề nghiệp. Đặc biệt ng&agrave;y hội cũng mở ra tương t&aacute;c hai chiều cởi mở v&agrave; hiệu quả khi sinh vi&ecirc;n được &ldquo;t&igrave;m&rdquo; nơi l&agrave;m việc ph&ugrave; hợp v&agrave; trực tiếp thể hiện năng lực chuy&ecirc;n m&ocirc;n trước c&aacute;c nh&agrave; tuyển dụng, c&ograve;n doanh nghiệp trực tiếp &ldquo;chọn&rdquo; nh&acirc;n lực ph&ugrave; hợp.&rdquo;</p>
-<p style="text-align: justify;">&nbsp;</p>
 <p>&nbsp;</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.cddaklak.edu.vn/images/stories/diendandoithoai_dn-2026/image7.png" width="800" height="393"></p>
 <p style="text-align: center;"><span style="color: rgb(53, 152, 219);"><em>Quang cảnh tại Ng&agrave;y hội việc l&agrave;m năm 2026</em></span></p>
