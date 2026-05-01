@@ -1,13 +1,13 @@
 ---
 title: "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
-publishedAt: "2026-05-01T06:01:14.440Z"
+publishedAt: "2026-05-01T06:22:15.532Z"
 status: "published"
 author:
   name: "TTD"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777608608/67_zdnnzh.jpg"
 slug: "cuoc-thi-y-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-20252026-truong-cao-dang-dak-lak"
 description: "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026”: Sôi nổi, sáng tạo và lan tỏa tinh thần đổi mới tại Trường Cao đẳng Đắk Lắk"
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777610214/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.jpg"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777616527/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.jpg"
 categories:
   - label: "Bài viết"
     value: "Bài viết"
