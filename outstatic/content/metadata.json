@@ -55,31 +55,6 @@
       "slug": "truong-cao-dang-dak-lak-phoi-hop-agribank-trao-tang-qua-tet-cho-hoc-sinh-sinh-vien-co-hoan-canh-kho-khan",
       "status": "published",
       "title": "TRƯỜNG CAO ĐẲNG ĐẮK LẮK PHỐI HỢP AGRIBANK TRAO TẶNG QUÀ TẾT CHO HỌC SINH, SINH VIÊN CÓ HOÀN CẢNH KHÓ KHĂN"
-    },
-    {
-      "__outstatic": {
-        "commit": "ff92d18d20dd28447baacd436c0009fdcf243d4c",
-        "hash": "4217051491",
-        "path": "outstatic/content/tin-tuc-su-kien/cuoc-thi-y-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-20252026-truong-cao-dang-dak-lak.md"
-      },
-      "author": {
-        "name": "TTD",
-        "picture": "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777608608/67_zdnnzh.jpg"
-      },
-      "categories": [
-        {
-          "label": "Bài viết",
-          "value": "Bài viết"
-        }
-      ],
-      "collection": "tin-tuc-su-kien",
-      "coverImage": "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777616527/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.jpg",
-      "description": "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026”: Sôi nổi, sáng tạo và lan tỏa tinh thần đổi mới tại Trường Cao đẳng Đắk Lắk",
-      "postId": 3,
-      "publishedAt": "2026-05-01T06:22:15.532Z",
-      "slug": "cuoc-thi-y-tuong-khoi-nghiep-hoc-sinh-sinh-vien-nam-hoc-20252026-truong-cao-dang-dak-lak",
-      "status": "published",
-      "title": "Cuộc thi “Ý tưởng khởi nghiệp học sinh, sinh viên năm học 2025–2026” - Trường Cao đẳng Đắk Lắk"
     }
   ]
 }
