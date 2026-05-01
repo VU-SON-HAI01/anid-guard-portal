@@ -1,10 +1,10 @@
 ---
 title: "Diễn đàn đối thoại “Sinh viên – Nhà trường – Doanh nghiệp”"
-publishedAt: "2026-05-01T03:35:43.774Z"
+publishedAt: "2026-05-01T06:08:14.195Z"
 status: "published"
 author:
   name: "VSH"
-  picture: ""
+  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
 slug: "dien-dan-doi-thoai-sinh-vien-nha-truong-doanh-nghiep"
 description: "Sáng 28/3, Trường Cao đẳng Đắk Lắk phối hợp Ban Quản lý dự án “Tăng cường năng lực và thúc đẩy thực hành bảo vệ trẻ em trong sản xuất cà phê” (Sở Y tế Đắk Lắk) tổ chức diễn đàn đối thoại giữa sinh viên - nhà trường - doanh nghiệp với chủ đề “Kết nối doanh nghiệp, cơ hội việc làm cho lao động trẻ”."
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777606269/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.png"
