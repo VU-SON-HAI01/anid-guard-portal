@@ -1,6 +1,6 @@
 {
-  "commit": "45600abafcc9eaec4a99a71defdb4df66af30274",
-  "generated": "2026-05-01T08:39:55.756Z",
+  "commit": "037ae3347488076de236a7bfb80e2ba6b3cd51bb",
+  "generated": "2026-05-01T08:40:26.168Z",
   "metadata": [
     {
       "__outstatic": {
@@ -126,6 +126,27 @@
       "slug": "dien-dan-doi-thoai-sinh-vien-nha-truong-doanh-nghiep",
       "status": "published",
       "title": "Diễn đàn đối thoại “Sinh viên – Nhà trường – Doanh nghiệp”"
+    },
+    {
+      "__outstatic": {
+        "commit": "037ae3347488076de236a7bfb80e2ba6b3cd51bb",
+        "hash": "442827716",
+        "path": "outstatic/content/tin-tuc-su-kien/le-trao-bang-tot-nghiep-cao-dang-dot-1-nam-2026.md"
+      },
+      "author": {
+        "name": "TVG",
+        "picture": "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777618011/4_g0noov.jpg"
+      },
+      "categories": [
+      ],
+      "collection": "tin-tuc-su-kien",
+      "coverImage": "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777618764/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.jpg",
+      "description": "Sáng ngày 10/4, Trường Cao đẳng Đắk Lắk long trọng tổ chức Lễ trao bằng tốt nghiệp bậc cao đẳng đợt 1 năm 2026.",
+      "postId": 5,
+      "publishedAt": "2026-05-01T07:00:07.962Z",
+      "slug": "le-trao-bang-tot-nghiep-cao-dang-dot-1-nam-2026",
+      "status": "published",
+      "title": "Lễ trao bằng tốt nghiệp cao đẳng đợt 1 năm 2026!"
     }
   ]
 }
