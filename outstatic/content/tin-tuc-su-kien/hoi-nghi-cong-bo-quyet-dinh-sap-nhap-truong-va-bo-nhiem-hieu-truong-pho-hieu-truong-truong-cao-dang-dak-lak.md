@@ -1,12 +1,13 @@
 ---
 title: "Hội nghị công bố Quyết định sáp nhập Trường và bổ nhiệm Hiệu trưởng, Phó hiệu trưởng Trường Cao Đẳng Đắk Lắk"
-publishedAt: "2026-05-01T15:23:28.672Z"
+publishedAt: "2026-05-01T15:25:54.575Z"
 status: "draft"
 author:
   name: "TTD"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777608608/67_zdnnzh.jpg"
 slug: "hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak"
 description: "Sáng ngày 16/01/2026, tại Hội trường, Trường Cao đẳng Đắk Lắk đã long trọng diễn ra Hội nghị công bố Quyết định sáp nhập Trường và Quyết định bổ nhiệm Hiệu trưởng, các Phó Hiệu trưởng Trường Cao đẳng Đắk Lắk."
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777649141/tuyensinh-cddaklak/tin-tuc-su-kien/tuyensinh-cddaklak/tin-tuc-su-kien/thumbnail.jpg"
 postId: "008"
 ---
 
