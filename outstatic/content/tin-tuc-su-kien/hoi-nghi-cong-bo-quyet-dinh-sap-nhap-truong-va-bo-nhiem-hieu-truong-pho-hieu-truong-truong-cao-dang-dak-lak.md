@@ -1,13 +1,13 @@
 ---
 title: "HỘI NGHỊ CÔNG BỐ QUYẾT ĐỊNH SÁP NHẬP TRƯỜNG VÀ BỔ NHIỆM HIỆU TRƯỞNG, PHÓ HIỆU TRƯỞNG TRƯỜNG CAO ĐẲNG ĐẮK LẮK"
-publishedAt: "2026-05-01T06:19:40.682Z"
+publishedAt: "2026-05-01T07:01:52.392Z"
 status: "published"
 author:
   name: "VSH"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
 slug: "hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak"
 description: "Sáng ngày 16/01/2026, tại Hội trường, Trường Cao đẳng Đắk Lắk đã long trọng diễn ra Hội nghị công bố Quyết định sáp nhập Trường và Quyết định bổ nhiệm Hiệu trưởng, các Phó Hiệu trưởng Trường Cao đẳng Đắk Lắk."
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777616373/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.jpg"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777618908/tuyensinh-cddaklak/su-kien-01-05-2026/tuyensinh-cddaklak/su-kien-01-05-2026/thumbnail.jpg"
 ---
 
 <p>Đ&acirc;y l&agrave; sự kiện c&oacute; &yacute; nghĩa đặc biệt quan trọng, đ&aacute;nh dấu bước chuyển m&igrave;nh mang t&iacute;nh chiến lược trong tiến tr&igrave;nh ph&aacute;t triển của nh&agrave; trường, ph&ugrave; hợp với chủ trương đổi mới, sắp xếp v&agrave; n&acirc;ng cao hiệu quả hệ thống Gi&aacute;o dục nghề nghiệp của Đảng v&agrave; Nh&agrave; nước.</p>
