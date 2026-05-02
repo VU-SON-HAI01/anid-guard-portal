@@ -1,7 +1,7 @@
 ---
 title: "Quy định về mức thu học phí đào tạo lái xe và thông báo tuyển sinh lớp mô tô hạng A1 áp dụng từ tháng 04/2026"
-publishedAt: "2026-05-02T12:00:00.000Z"
-publicationDate: "2026-05-02"
+publishedAt: "2026-04-22T12:00:00.000Z"
+publicationDate: "2026-04-22"
 status: "published"
 author:
   name: "VSH"
