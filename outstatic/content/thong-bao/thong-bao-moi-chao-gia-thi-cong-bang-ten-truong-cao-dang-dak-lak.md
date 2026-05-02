@@ -9,6 +9,7 @@ author:
 slug: "thong-bao-moi-chao-gia-thi-cong-bang-ten-truong-cao-dang-dak-lak"
 description: "Trường Cao đẳng Đắk Lắk trân trọng kính mời các đơn vị quảng cáo, in ấn có năng lực tham gia báo giá hạng mục lắp đặt bảng tên trường tại 02 cơ sở."
 location: "Cơ sở 2"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777708023/Article/Notification%28thongbao%29/006/thumbnail.jpg"
 postId: "006"
 ---
 
