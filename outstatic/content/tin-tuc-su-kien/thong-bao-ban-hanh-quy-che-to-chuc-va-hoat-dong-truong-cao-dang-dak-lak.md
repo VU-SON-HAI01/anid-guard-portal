@@ -2,7 +2,7 @@
 title: "THÔNG BÁO: BAN HÀNH QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG TRƯỜNG CAO ĐẲNG ĐẮK LẮK"
 publishedAt: "2026-05-02T12:00:00.000Z"
 publicationDate: "2026-05-02"
-status: "draft"
+status: "published"
 author:
   name: "VSH"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
@@ -20,8 +20,6 @@ postId: "007"
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Nghiên cứu khoa học:</strong>&nbsp;Thúc đẩy ứng dụng công nghệ, chuyển giao kết quả nghiên cứu vào thực tiễn giảng dạy và sản xuất.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Quản lý &amp; Tài chính:</strong>&nbsp;Xác định rõ cơ cấu tổ chức, nhiệm vụ, quyền hạn của các đơn vị và quy chế quản lý tài sản, tài chính công.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Hiệu lực:</strong>&nbsp;Quyết định có hiệu lực kể từ ngày ký, thay thế các quy chế cũ của Trường Cao đẳng Đắk Lắk và Trường Cao đẳng Nghề Phú Yên.</span></p>
-
 <div class="highlight-note">Quy chế này là khung pháp lý cơ bản áp dụng cho toàn thể viên chức, người lao động và học sinh, sinh viên nhà trường<a href="https://www.cddaklak.edu.vn/images/stories/Thongbao/1.%20QD%20Ban%20hanh%20Quy%20che%20che%20to%20chuc,%20hoat%20dong%20Truong%20CDDL-chinhthuc.pdf"><strong>. Chi tiết xem tại tệp đính kèm.</strong></a></div>
-
 <div>&nbsp;</div>
 </div>
