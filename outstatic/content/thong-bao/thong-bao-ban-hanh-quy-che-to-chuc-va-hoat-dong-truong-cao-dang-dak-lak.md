@@ -1,7 +1,7 @@
 ---
 title: "THÔNG BÁO: BAN HÀNH QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG TRƯỜNG CAO ĐẲNG ĐẮK LẮK"
-publishedAt: "2026-05-02T12:00:00.000Z"
-publicationDate: "2026-05-02"
+publishedAt: "2026-04-17T12:00:00.000Z"
+publicationDate: "2026-04-17"
 status: "published"
 author:
   name: "VSH"
