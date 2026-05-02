@@ -1,7 +1,7 @@
 ---
 title: "THÔNG BÁO MỜI CHÀO GIÁ CUNG CẤP LỐP XE Ô TÔ TẢI"
-publishedAt: "2026-05-02T12:00:00.000Z"
-publicationDate: "2026-05-02"
+publishedAt: "2026-04-16T12:00:00.000Z"
+publicationDate: "2026-04-16"
 status: "published"
 author:
   name: "VSH"
