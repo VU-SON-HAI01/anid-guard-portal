@@ -9,6 +9,7 @@ author:
 slug: "thong-bao-ban-hanh-quy-che-to-chuc-va-hoat-dong-truong-cao-dang-dak-lak"
 description: "Trường Cao đẳng Đắk Lắk trân trọng thông báo về việc ban hành Quy chế Tổ chức và hoạt động mới theo Quyết định số 156/QĐ-CĐĐL ngày 15 tháng 4 năm 2026. Đây là bước kiện toàn quan trọng sau khi sáp nhập Trường Cao đẳng Nghề Phú Yên vào Trường Cao đẳng Đắk Lắk."
 location: "Cơ sở chính"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777713122/Article/Notification%28thongbao%29/007/thumbnail.jpg"
 postId: "007"
 ---
 
