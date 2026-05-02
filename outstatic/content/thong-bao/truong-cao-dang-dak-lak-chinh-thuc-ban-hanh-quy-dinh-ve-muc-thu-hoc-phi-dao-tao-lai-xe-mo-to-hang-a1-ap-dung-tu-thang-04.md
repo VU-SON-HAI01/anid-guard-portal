@@ -15,9 +15,7 @@ postId: "004"
 
 <p style="text-align: justify; font-size: 12px;"><strong>Trường Cao đẳng Đắk Lắk chính thức ban hành quy định về mức thu học phí đào tạo lái xe mô tô hạng A1 áp dụng từ tháng 04/2026.&nbsp;</strong></p>
 <p style="text-align: justify; font-size: 12px;"><strong><img style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;" src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777681025/Article/Notification%28thongbao%29/004/004_2.jpg" width="800"></strong></p>
-
 <div class="highlight-note"><strong>Thông tin chi tiết dành cho các bạn học viên như sau:</strong></div>
-
 <p style="text-align: justify; font-size: 12px;"><a href="https://www.cddaklak.edu.vn/images/stories/Thongbao/Quy%20dinh%20muc%20thu%20hoc%20phi%20lai%20xe%20A1%204-2026%20(1).pdf">Xem chi tiết thông báo</a></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Mức học phí niêm yết:</strong></span></p>
 <ul>
