@@ -2,7 +2,7 @@
 title: "Thông báo về việc quy định mức thu dịch vụ tuyển sinh từ năm học 2026 - 2027"
 publishedAt: "2026-04-06T12:00:00.000Z"
 publicationDate: "2026-04-06"
-status: "draft"
+status: "published"
 author:
   name: "VSH"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
