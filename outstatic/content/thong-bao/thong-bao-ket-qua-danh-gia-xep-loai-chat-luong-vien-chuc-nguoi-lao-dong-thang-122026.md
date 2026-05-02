@@ -2,7 +2,7 @@
 title: "Thông báo: Kết quả đánh giá, xếp loại chất lượng viên chức, người lao động — Tháng 1&2/2026"
 publishedAt: "2026-03-12T12:00:00.000Z"
 publicationDate: "2026-03-12"
-status: "draft"
+status: "published"
 author:
   name: "VSH"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
