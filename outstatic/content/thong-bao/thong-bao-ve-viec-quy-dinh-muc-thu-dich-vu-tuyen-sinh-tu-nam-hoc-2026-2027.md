@@ -9,10 +9,11 @@ author:
 slug: "thong-bao-ve-viec-quy-dinh-muc-thu-dich-vu-tuyen-sinh-tu-nam-hoc-2026-2027"
 description: "Căn cứ các quy định hiện hành và Quyết định số 136/QĐ-CĐĐL ký ngày 08/04/2026 của Hiệu trưởng Trường Cao đẳng Đắk Lắk;"
 location: "Cơ sở chính"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777714397/Article/Notification%28thongbao%29/009/thumbnail.jpg"
 postId: "009"
 ---
 
-<p style="text-align: justify; font-size: 12px;">&nbsp;</p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><img style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;" src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777714434/Article/Notification%28thongbao%29/009/009_1.jpg" width="800"></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Nhằm đảm bảo công tác tổ chức, xét tuyển và phục vụ người học trong kỳ tuyển sinh sắp tới, nhà trường xin thông báo mức thu dịch vụ tuyển sinh cụ thể cho năm học 2026 - 2027 như sau:</span></p>
 <ol>
 <li style="text-align: justify; font-size: 12pt;"><span style="font-size: 12pt;"><strong>Đối tượng áp dụng:</strong>&nbsp;Thí sinh đăng ký xét tuyển vào các ngành nghề thuộc trình độ&nbsp;<strong>Cao đẳng</strong>&nbsp;và&nbsp;<strong>Trung cấp</strong>.</span></li>
@@ -20,8 +21,6 @@ postId: "009"
 <li style="text-align: justify; font-size: 12pt;"><span style="font-size: 12pt;"><strong>Thời gian áp dụng:</strong> Kể từ năm học 2026 - 2027.</span></li>
 </ol>
 <div>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Đây là mức thu được căn cứ trên cơ chế thu và sử dụng mức thu dịch vụ tuyển sinh tại các cơ sở giáo dục công lập trên địa bàn tỉnh Đắk Lắk.</span></p>
-
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Đây là mức thu được căn cứ trên cơ chế thu và sử dụng mức thu dịch vụ tuyển sinh tại các cơ sở giáo dục công lập trên địa bàn tỉnh Đắk Lắk.&nbsp;</span></p>
 <div class="highlight-note">Phòng Công tác học sinh sinh viên - Tuyển sinh - Tư vấn việc làm phối hợp cùng các bộ phận liên quan có trách nhiệm hướng dẫn và thực hiện thu phí theo đúng quy định.</div>
-
 </div>
