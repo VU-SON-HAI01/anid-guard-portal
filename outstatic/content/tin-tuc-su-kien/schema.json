@@ -78,13 +78,6 @@
       "required": true,
       "fieldType": "Date",
       "dataType": "date"
-    },
-    "articleWriter": {
-      "title": "Article Writer",
-      "description": "Người viết bài",
-      "required": false,
-      "fieldType": "Text",
-      "dataType": "string"
     }
   }
 }
