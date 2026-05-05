@@ -9,12 +9,12 @@ author:
 slug: "thong-bao-moi-chao-gia-thi-cong-bang-ten-truong-cao-dang-dak-lak"
 description: "Trường Cao đẳng Đắk Lắk trân trọng kính mời các đơn vị quảng cáo, in ấn có năng lực tham gia báo giá hạng mục lắp đặt bảng tên trường tại 02 cơ sở."
 location: "Cơ sở 2"
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777712935/Article/Notification%28thongbao%29/006/thumbnail.jpg"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg"
 postId: "006"
 ---
 
 <p style="font-size: 12px;"><strong><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg" width="800"></strong></p>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 10pt;"><strong>Nội dung hạng mục:<a href="https://res.cloudinary.com/dty3e9nxk/raw/upload/v1777967157/Article/Notification%28thongbao%29/006/thongbaothicongchaogia_1.pdf">&nbsp;[Chi tiết thông báo]</a></strong></span></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 10pt;"><strong>Nội dung hạng mục:<a href="https://res.cloudinary.com/dty3e9nxk/raw/upload/v1777967157/Article/Notification%28thongbao%29/006/thongbaothicongchaogia_1.pdf">&nbsp;</a><a href="https://res.cloudinary.com/dty3e9nxk/raw/upload/v1777967157/Article/Notification%28thongbao%29/006/thongbaothicongchaogia_1.pdf" target="_blank" rel="noopener noreferrer">thongbaothicongchaogia_1.pdf</a></strong></span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 10pt;"><strong>- Cơ sở Tuy Hòa:</strong>&nbsp;Bảng Alu chữ nổi (1m x 7m), khung sắt kẽm, chữ Alu đồng bóng.</span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 10pt;"><strong>- Cơ sở Bình Kiến:</strong>&nbsp;Bảng Alu chữ nổi (0.72m x 7.7m), khung sắt kẽm, chữ Alu đồng bóng.&nbsp;<em>(Giá đã bao gồm thuế, chi phí vận chuyển và lắp đặt hoàn thiện).</em></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 10pt;"><strong>Yêu cầu kỹ thuật:</strong></span></p>
