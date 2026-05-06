@@ -28,3 +28,4 @@ postId: "006"
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 10pt;">- Nhận báo giá: Từ 14h00 ngày&nbsp;<strong>29/04/2026</strong>&nbsp;đến trước 14h30 ngày&nbsp;<strong>07/05/2026</strong>.</span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 10pt;">- Mở báo giá: 14h30 ngày&nbsp;<strong>07/05/2026</strong>&nbsp;tại văn phòng nhà trường.</span></p>
 <div class="highlight-note">Trường Cao đẳng Đắk Lắk rất mong nhận được sự hợp tác từ Quý đối tác!</div>
+<p><a href="https://res.cloudinary.com/dty3e9nxk/raw/upload/v1777967157/Article/Notification%28thongbao%29/006/thongbaothicongchaogia_1.pdf" target="_blank" rel="noopener noreferrer">thongbaothicongchaogia_1.pdf</a></p>
