@@ -15,6 +15,9 @@ attachments:
   - name: "thongbaothicongchaogia_1.pdf"
     url: "https://res.cloudinary.com/dty3e9nxk/raw/upload/v1777967157/Article/Notification%28thongbao%29/006/thongbaothicongchaogia_1.pdf"
     public_id: "Article/Notification(thongbao)/006/thongbaothicongchaogia_1.pdf"
+  - name: "gkmrycmc2i23asnmdl2w.pdf"
+    url: "https://res.cloudinary.com/dty3e9nxk/raw/upload/v1778092097/Article/Notification%28thongbao%29/006/gkmrycmc2i23asnmdl2w.pdf"
+    public_id: "Article/Notification(thongbao)/006/gkmrycmc2i23asnmdl2w.pdf"
 ---
 
 <p style="font-size: 12px;"><strong><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg" width="800"></strong></p>
