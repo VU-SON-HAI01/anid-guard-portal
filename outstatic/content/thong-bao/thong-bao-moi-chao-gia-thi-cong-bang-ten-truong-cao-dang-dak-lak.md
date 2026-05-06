@@ -11,6 +11,10 @@ description: "Trường Cao đẳng Đắk Lắk trân trọng kính mời các 
 location: "Cơ sở 2"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg"
 postId: "006"
+attachments:
+  - name: "thongbaothicongchaogia_1.pdf"
+    url: "https://res.cloudinary.com/dty3e9nxk/raw/upload/v1777967157/Article/Notification%28thongbao%29/006/thongbaothicongchaogia_1.pdf"
+    public_id: "Article/Notification(thongbao)/006/thongbaothicongchaogia_1.pdf"
 ---
 
 <p style="font-size: 12px;"><strong><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg" width="800"></strong></p>
