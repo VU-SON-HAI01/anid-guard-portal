@@ -20,7 +20,7 @@ postId: "004"
 <li style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Học viên đăng ký mới: 150.000 VNĐ / Học viên / Khóa học.</span></li>
 <li style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Học viên được miễn thi Lý thuyết: Chỉ còn 100.000 VNĐ / Học viên / Khóa học.</span></li>
 </ul>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Tại sao nên học tại Trường Cao đẳng Đắk Lắk</strong></span></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Tại sao nên học tại Trường Cao đẳng Đắk Lắk:</strong></span></p>
 <ul>
 <li style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Chi phí minh bạch: Cam kết thu đúng theo quyết định của nhà trường.</span></li>
 <li style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Thủ tục nhanh chóng: Hỗ trợ học viên hoàn thiện hồ sơ đăng ký gọn nhẹ.</span></li>
