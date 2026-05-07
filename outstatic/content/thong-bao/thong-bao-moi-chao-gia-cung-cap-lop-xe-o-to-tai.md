@@ -5,7 +5,7 @@ publicationDate: "2026-04-16"
 status: "published"
 author:
   name: "VSH"
-  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
+  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777913768/avatar/PDT001.jpg"
 slug: "thong-bao-moi-chao-gia-cung-cap-lop-xe-o-to-tai"
 description: "Trường Cao đẳng Đắk Lắk thông báo mời các đơn vị, nhà cung cấp có đủ năng lực tham gia chào giá cung cấp vật tư phục vụ công tác đào tạo lái xe, cụ thể như sau:"
 location: "Cơ sở 2"
