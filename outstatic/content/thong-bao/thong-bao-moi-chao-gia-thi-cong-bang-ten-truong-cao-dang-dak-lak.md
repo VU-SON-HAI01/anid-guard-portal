@@ -4,7 +4,7 @@ publishedAt: "2026-04-29T12:00:00.000Z"
 publicationDate: "2026-04-29"
 status: "published"
 author:
-  name: "Vũ Sơn Hải"
+  name: "Admin"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777913768/avatar/PDT001.jpg"
 slug: "thong-bao-moi-chao-gia-thi-cong-bang-ten-truong-cao-dang-dak-lak"
 description: "Trường Cao đẳng Đắk Lắk trân trọng kính mời các đơn vị quảng cáo, in ấn có năng lực tham gia báo giá hạng mục lắp đặt bảng tên trường tại 02 cơ sở."
