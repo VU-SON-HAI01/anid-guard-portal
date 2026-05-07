@@ -5,7 +5,7 @@ publicationDate: "2026-03-12"
 status: "published"
 author:
   name: "VSH"
-  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
+  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777913768/avatar/PDT001.jpg"
 slug: "thong-bao-ket-qua-danh-gia-xep-loai-chat-luong-vien-chuc-nguoi-lao-dong-thang-122026"
 description: "Trường Cao đẳng Đắk Lắk thông báo kết quả đánh giá, xếp loại chất lượng viên chức và người lao động của Nhà trường cho tháng 1 & 2 năm 2026"
 location: "Cơ sở chính"
