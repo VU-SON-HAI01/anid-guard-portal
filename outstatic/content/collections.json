@@ -26,5 +26,12 @@
     "path": "outstatic/content/tuyen-sinh",
     "imageFolder": "Index(trangchinh)",
     "children": []
+  },
+  {
+    "title": "Giới thiệu",
+    "slug": "gioi-thieu",
+    "path": "outstatic/content/gioi-thieu",
+    "imageFolder": "Index(trangchinh)",
+    "children": []
   }
 ]
