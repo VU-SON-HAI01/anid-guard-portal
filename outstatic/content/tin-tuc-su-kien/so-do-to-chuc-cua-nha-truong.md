@@ -2,7 +2,7 @@
 title: "Sơ đồ tổ chức của nhà trường"
 publishedAt: "2026-05-07T12:00:00.000Z"
 publicationDate: "2026-05-07"
-status: "draft"
+status: "published"
 author:
   name: "Admin"
   picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777913768/avatar/PDT001.jpg"
