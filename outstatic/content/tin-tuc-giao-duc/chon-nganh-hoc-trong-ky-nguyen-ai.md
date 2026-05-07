@@ -30,13 +30,6 @@ idArticleWriter: "PDT001"
 </tbody>
 </table>
 </div>
-<table align="center">
-<tbody>
-<tr>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
 </div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Thực tế cho thấy, những ngành học “gắn nhãn tương lai” như trí tuệ nhân tạo, khoa học dữ liệu, công nghệ thông tin… vẫn có sức hút lớn. Nhưng nếu chỉ nhìn vào tên ngành mà bỏ qua năng lực cốt lõi, người học rất dễ rơi vào một ảo tưởng mới: cứ học ngành “hot” là sẽ an toàn. Trong khi chính các lĩnh vực này cũng đang thay đổi rất nhanh, khiến kiến thức có thể lỗi thời chỉ sau vài năm.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Vì vậy, thay vì chạy theo ngành, học sinh cần tập trung vào những năng lực bền vững hơn. Đó là khả năng học suốt đời, là học cách học chứ không chỉ học kiến thức cụ thể. Đó là tư duy phản biện để phân biệt đúng sai trong một thế giới ngập tràn thông tin do AI tạo ra. Đó là năng lực sáng tạo, khi máy móc có thể xử lý dữ liệu nhưng vẫn cần con người đặt câu hỏi. Và quan trọng không kém, là kỹ năng làm việc với AI: biết giao việc rõ ràng, khai thác thông tin hiệu quả, kiểm chứng kết quả và tạo ra giá trị mới từ đó.</span></p>
