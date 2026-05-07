@@ -9,23 +9,28 @@ author:
 slug: "truong-cao-dang-dak-lak-hanh-trinh-hoi-tu-va-khat-vong-vuon-tam"
 description: "Trường Cao đẳng Đắk Lắk (Dak Lak College - DLC) là cơ sở giáo dục nghề nghiệp công lập đa ngành, trực thuộc Ủy ban nhân dân tỉnh Đắk Lắk và chịu sự quản lý nhà nước về giáo dục nghề nghiệp của Bộ Lao động - Thương binh và Xã hội. Trải qua hơn 65 năm hình thành và phát triển, nhà trường đã khẳng định vị thế là trung tâm đào tạo nguồn nhân lực kỹ thuật chất lượng cao hàng đầu khu vực Tây Nguyên và Duyên hải Nam Trung Bộ."
 location: "Cơ sở chính"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1778180895/Article/Index%28trangchinh%29/017/futdiiqsfyn7d2enms9w.jpg"
 postId: "017"
 idArticleWriter: "PDT001"
 ---
 
-<div class="highlight-note">1. Dấu mốc lịch sử và Sự phát triển bền vững</div>
+<div><!--StartFragment--><!-- x-tinymce/html --><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778180895/Article/Index%28trangchinh%29/017/futdiiqsfyn7d2enms9w.jpg" alt="futdiiqsfyn7d2enms9w" width="800"><br><!--EndFragment--></div>
+<div class="highlight-note"><strong>1. Dấu mốc lịch sử và Sự phát triển bền vững</strong></div>
 <hr>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Lịch sử nhà trường được bồi đắp từ những dòng chảy truyền thống lâu đời và uy tín:</span></p>
 <ul type="disc">
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Tiền thân vững chắc:</strong> Khởi đầu từ năm 1957 với những viên gạch đầu tiên của Trường Trung học Kỹ thuật Y Út Ban Mê Thuột và sự ra đời của các trường đào tạo nghề thủy lợi, nông nghiệp từ năm 1978.</span></li>
+</ul>
+<p style="text-align: justify; font-size: 12px;">&nbsp;</p>
+<ul type="disc">
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Giai đoạn hợp nhất và bứt phá:</strong> Năm 2022, Trường Cao đẳng Đắk Lắk được thành lập trên cơ sở sáp nhập Trường Cao đẳng Công nghệ Tây Nguyên và Trường Cao đẳng Kỹ thuật Đắk Lắk.</span></li>
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Bước ngoặt năm 2026:</strong> Thực hiện Quyết định số 3614/QĐ-BGDĐT, <strong>Trường Cao đẳng Nghề Phú Yên</strong> chính thức sáp nhập vào Trường Cao đẳng Đắk Lắk. Sự kiện này đánh dấu sự hội tụ mạnh mẽ về quy mô, nhân lực và trang thiết bị hiện đại, mở ra một kỷ nguyên phát triển mới cho nhà trường.</span></li>
 </ul>
-<div class="highlight-note">2. Sứ mạng và Tầm nhìn</div>
+<div class="highlight-note"><strong>2. Sứ mạng và Tầm nhìn</strong></div>
 <hr>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Sứ mạng:</strong> DLC cam kết cung cấp nguồn nhân lực kỹ thuật có kỹ năng nghề cao, phẩm chất đạo đức tốt, thích ứng với cuộc Cách mạng công nghiệp 4.0; gắn đào tạo với sản xuất, kinh doanh và dịch vụ, đáp ứng nhu cầu phát triển bền vững của đất nước.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Tầm nhìn đến năm 2030:</strong> Trở thành trung tâm đào tạo và thực hành nghề chất lượng cao vùng Tây Nguyên, đạt chuẩn quốc gia và khu vực ASEAN ở nhiều ngành nghề trọng điểm.</span></p>
-<div class="highlight-note">3. Đội ngũ viên chức và Cơ cấu tổ chức</div>
+<div class="highlight-note"><strong>3. Đội ngũ viên chức và Cơ cấu tổ chức</strong></div>
 <hr>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Nhà trường vận hành với mô hình quản lý hiện đại, tinh gọn và chuyên nghiệp:</span></p>
 <ul type="disc">
@@ -33,7 +38,7 @@ idArticleWriter: "PDT001"
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Đội ngũ nhân sự:</strong> Tính đến tháng 5/2026, nhà trường sở hữu đội ngũ <strong>403 viên chức và người lao động</strong>. Trong đó chất lượng chuyên môn được khẳng định với 03 Tiến sĩ, 143 Thạc sĩ và hơn 150 cán bộ có trình độ Đại học.</span></li>
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Hệ thống đơn vị:</strong> Gồm 05 Phòng chức năng tham mưu, 07 Khoa chuyên môn trực tiếp giảng dạy và 02 Trung tâm dịch vụ hỗ trợ.</span></li>
 </ul>
-<div class="highlight-note">4. Quy mô đào tạo và Ngành nghề mũi nhọn</div>
+<div class="highlight-note"><strong>4. Quy mô đào tạo và Ngành nghề mũi nhọn</strong></div>
 <hr>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Năm 2026, Trường Cao đẳng Đắk Lắk triển khai tuyển sinh với tổng chỉ tiêu lên đến&nbsp;<strong>2.705 học sinh, sinh viên</strong> cho 34 ngành nghề đào tạo ở các trình độ Cao đẳng và Trung cấp. Các nhóm ngành trọng điểm bao gồm:</span></p>
 <ul type="disc">
@@ -42,7 +47,7 @@ idArticleWriter: "PDT001"
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Nông nghiệp &amp; Chế biến:</strong> Thú y, Bảo vệ thực vật, Chế biến cà phê và ca cao, Chế biến thực phẩm.</span></li>
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Dịch vụ &amp; Thời trang:</strong> Quản trị khách sạn, Kỹ thuật chế biến món ăn, May thời trang.</span></li>
 </ul>
-<div class="highlight-note">5. Hệ thống cơ sở vật chất hiện đại</div>
+<div class="highlight-note"><strong>5. Hệ thống cơ sở vật chất hiện đại</strong></div>
 <hr>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Trường tổ chức hoạt động đào tạo tại 04 cơ sở hiện đại, được đầu tư đồng bộ về phòng lab, xưởng thực hành và sân bãi:</span></p>
 <ul type="disc">
