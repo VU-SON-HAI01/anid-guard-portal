@@ -12,9 +12,9 @@ location: "Cơ sở 2"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg"
 postId: "006"
 attachments:
-  - name: "gkmrycmc2i23asnmdl2w.pdf"
-    url: "https://res.cloudinary.com/dty3e9nxk/raw/upload/v1778092097/Article/Notification%28thongbao%29/006/gkmrycmc2i23asnmdl2w.pdf"
-    public_id: "Article/Notification(thongbao)/006/gkmrycmc2i23asnmdl2w.pdf"
+  - name: "thongbaomoithau.pdf"
+    url: "https://res.cloudinary.com/dty3e9nxk/raw/upload/v1778092097/Article/Notification%28thongbao%29/006/thongbaomoithau.pdf"
+    public_id: "Article/Notification(thongbao)/006/thongbaomoithau.pdf"
 ---
 
 <p style="font-size: 12px;"><strong><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg" width="800"></strong></p>
