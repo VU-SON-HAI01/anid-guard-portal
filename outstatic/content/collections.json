@@ -19,5 +19,12 @@
     "path": "outstatic/content/tin-tuc-giao-duc",
     "imageFolder": "Index(trangchinh)",
     "children": []
+  },
+  {
+    "title": "Tuyển sinh",
+    "slug": "tuyen-sinh",
+    "path": "outstatic/content/tuyen-sinh",
+    "imageFolder": "Index(trangchinh)",
+    "children": []
   }
 ]
