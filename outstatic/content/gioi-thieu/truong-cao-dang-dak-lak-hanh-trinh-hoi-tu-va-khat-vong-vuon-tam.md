@@ -14,15 +14,12 @@ postId: "017"
 idArticleWriter: "PDT001"
 ---
 
-<div><!--StartFragment--><!-- x-tinymce/html --><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778180895/Article/Index%28trangchinh%29/017/futdiiqsfyn7d2enms9w.jpg" alt="futdiiqsfyn7d2enms9w" width="800"><br><!--EndFragment--></div>
+<div><!--StartFragment--><!-- x-tinymce/html --><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778180895/Article/Index%28trangchinh%29/017/futdiiqsfyn7d2enms9w.jpg" alt="futdiiqsfyn7d2enms9w" width="800"><!--EndFragment--></div>
 <div class="highlight-note"><strong>1. Dấu mốc lịch sử và Sự phát triển bền vững</strong></div>
 <hr>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Lịch sử nhà trường được bồi đắp từ những dòng chảy truyền thống lâu đời và uy tín:</span></p>
 <ul type="disc">
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Tiền thân vững chắc:</strong> Khởi đầu từ năm 1957 với những viên gạch đầu tiên của Trường Trung học Kỹ thuật Y Út Ban Mê Thuột và sự ra đời của các trường đào tạo nghề thủy lợi, nông nghiệp từ năm 1978.</span></li>
-</ul>
-<p style="text-align: justify; font-size: 12px;">&nbsp;</p>
-<ul type="disc">
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Giai đoạn hợp nhất và bứt phá:</strong> Năm 2022, Trường Cao đẳng Đắk Lắk được thành lập trên cơ sở sáp nhập Trường Cao đẳng Công nghệ Tây Nguyên và Trường Cao đẳng Kỹ thuật Đắk Lắk.</span></li>
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Bước ngoặt năm 2026:</strong> Thực hiện Quyết định số 3614/QĐ-BGDĐT, <strong>Trường Cao đẳng Nghề Phú Yên</strong> chính thức sáp nhập vào Trường Cao đẳng Đắk Lắk. Sự kiện này đánh dấu sự hội tụ mạnh mẽ về quy mô, nhân lực và trang thiết bị hiện đại, mở ra một kỷ nguyên phát triển mới cho nhà trường.</span></li>
 </ul>
