@@ -12,5 +12,12 @@
     "path": "outstatic/content/thong-bao",
     "children": [],
     "imageFolder": "Article/Notification(thongbao)"
+  },
+  {
+    "title": "Tin tức giáo dục",
+    "slug": "tin-tuc-giao-duc",
+    "path": "outstatic/content/tin-tuc-giao-duc",
+    "imageFolder": "Index(trangchinh)",
+    "children": []
   }
 ]
