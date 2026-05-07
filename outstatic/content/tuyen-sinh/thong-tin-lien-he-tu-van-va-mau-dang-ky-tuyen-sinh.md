@@ -9,12 +9,12 @@ author:
 slug: "thong-tin-lien-he-tu-van-va-mau-dang-ky-tuyen-sinh"
 description: "Đừng bỏ lỡ cơ hội học tập và rèn luyện tại một môi trường chuyên nghiệp, năng động! Hãy nhanh chóng chuẩn bị hồ sơ và nộp để trở thành một phần của cộng đồng sinh viên nhà trường. Mọi thắc mắc vui lòng liên hệ tại các cơ sở đào tạo để được tư vấn chi tiết."
 location: "Cơ sở chính"
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1778169855/Article/Event%28sukien%29/015/mseokfsu82qdmabnlg1x.jpg"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1778170094/Article/Index%28trangchinh%29/015/a1li45chq2szhfefhdlf.jpg"
 postId: "015"
 idArticleWriter: "PDT001"
 ---
 
-<p style="font-size: 12px; text-align: justify;" data-path-to-node="1,0,0"><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778169855/Article/Event%28sukien%29/015/mseokfsu82qdmabnlg1x.jpg" alt="mseokfsu82qdmabnlg1x" width="500"></p>
+<p style="font-size: 12px; text-align: justify;" data-path-to-node="1,0,0"><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778170094/Article/Index%28trangchinh%29/015/a1li45chq2szhfefhdlf.jpg" alt="a1li45chq2szhfefhdlf" width="800"></p>
 <p style="font-size: 12px; text-align: center;" data-path-to-node="1,0,0"><span style="font-size: 18pt; color: rgb(53, 152, 219);"><strong data-path-to-node="1,0,0" data-index-in-node="0">LIÊN HỆ</strong></span></p>
 <p style="font-size: 12px; text-align: center;" data-path-to-node="1,0,0"><em><span style="font-size: 12pt;">(Bạn có thể đến trực tiếp địa chỉ hoặc điện thoại nhận tư vấn)</span></em></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong data-path-to-node="13,0,0" data-index-in-node="0">🏫 Cơ sở 1</strong>:&nbsp; Số 594 Lê Duẩn, phường Ea Tam, Đắk Lắk. ☎️ Liên hệ:&nbsp; <span style="text-align: justify;">&nbsp;0914 420 099<em> (Mr. Phi)&nbsp;</em></span></span></p>
@@ -32,4 +32,5 @@ idArticleWriter: "PDT001"
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>b. Phiếu tuyển sinh học Cao đẳng:</strong></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">- Phiếu đăng ký học nghề :&nbsp;<a href="https://www.cddaklak.edu.vn/images/stories/tuyen.sinh/Phieu%20tuyen%20sinh%20cao%20dang%202025.pdf">Tải về</a></span></p>
 <p style="text-align: justify; font-size: 12px;">&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
