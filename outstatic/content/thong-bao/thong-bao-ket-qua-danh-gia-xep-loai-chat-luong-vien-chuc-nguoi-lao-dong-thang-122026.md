@@ -9,7 +9,7 @@ author:
 slug: "thong-bao-ket-qua-danh-gia-xep-loai-chat-luong-vien-chuc-nguoi-lao-dong-thang-122026"
 description: "Trường Cao đẳng Đắk Lắk thông báo kết quả đánh giá, xếp loại chất lượng viên chức và người lao động của Nhà trường cho tháng 1 & 2 năm 2026"
 location: "Cơ sở chính"
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777737575/Article/Notification%28thongbao%29/011/thumbnail.jpg"
+coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777737380/Article/Notification%28thongbao%29/011/011_1.jpg"
 postId: "011"
 ---
 
