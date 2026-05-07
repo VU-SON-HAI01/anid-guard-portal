@@ -14,10 +14,9 @@ postId: "013"
 idArticleWriter: "PDT001"
 ---
 
-<div>&nbsp;</div>
 <div>
-<div id="content"><span style="font-size: 12pt;">Nếu như trước đây, việc chọn ngành thường dựa trên những “công thức” quen thuộc như dễ xin việc, thu nhập cao hay ổn định thì hiện nay chính khái niệm “ổn định” đang bị đặt dấu hỏi. AI không chỉ thay đổi cách làm việc mà còn tái định nghĩa công việc. Những vị trí từng được xem là “an toàn” như kế toán, dịch thuật, chăm sóc khách hàng, thậm chí một phần trong báo chí hay y khoa… đều đang được tự động hóa ở những mức độ khác nhau.</span>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Sự thay đổi này không diễn ra theo kiểu “xóa sổ nghề cũ, tạo nghề mới” một cách rạch ròi mà AI đang len lỏi vào từng khâu, khiến công việc bị chia nhỏ và sắp xếp lại theo cách mới. Vì vậy, câu hỏi “học ngành gì” dần trở nên chưa đủ. Điều quan trọng hơn là: học như thế nào để không bị tuột lại phía sau.</span></p>
+<div id="content" style="text-align: justify;"><span style="font-size: 12pt;">Nếu như trước đây, việc chọn ngành thường dựa trên những “công thức” quen thuộc như dễ xin việc, thu nhập cao hay ổn định thì hiện nay chính khái niệm “ổn định” đang bị đặt dấu hỏi. AI không chỉ thay đổi cách làm việc mà còn tái định nghĩa công việc. Những vị trí từng được xem là “an toàn” như kế toán, dịch thuật, chăm sóc khách hàng, thậm chí một phần trong báo chí hay y khoa… đều đang được tự động hóa ở những mức độ khác nhau.</span></div>
+<div style="text-align: justify;"><span style="font-size: 12pt;">Sự thay đổi này không diễn ra theo kiểu “xóa sổ nghề cũ, tạo nghề mới” một cách rạch ròi mà AI đang len lỏi vào từng khâu, khiến công việc bị chia nhỏ và sắp xếp lại theo cách mới. Vì vậy, câu hỏi “học ngành gì” dần trở nên chưa đủ. Điều quan trọng hơn là: học như thế nào để không bị tuột lại phía sau.</span>
 <div>
 <div class="caption-montserrat">
 <table align="center">
