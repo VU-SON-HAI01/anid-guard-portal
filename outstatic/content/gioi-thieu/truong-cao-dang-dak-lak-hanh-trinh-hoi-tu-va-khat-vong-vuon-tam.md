@@ -52,9 +52,7 @@ idArticleWriter: "PDT001"
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Cơ sở tại Phú Yên:</strong> Số 276 Trường Chinh, TP. Tuy Hòa và xã Bình Kiến, TP. Tuy Hòa.</span></li>
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Cơ sở 4:</strong> Số 30 Y Ngông, TP. Buôn Ma Thuột.</span></li>
 </ul>
-
-<div class="highlight-note">6. Triết lý phát triển</div>
-
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Với tinh thần 4 chữ "CĐĐL", toàn thể nhà trường cùng nhau lan tỏa giá trị: Cùng nhau chia sẻ trách nhiệm – Đoàn kết để ổn định và phát triển – Đào tạo gắn với nhu cầu xã hội – Lấy người học làm trung tâm.</span></p>
+<div class="highlight-note"><strong>6. Triết lý phát triển</strong></div>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Với tinh thần 4 chữ "CĐĐL", toàn thể nhà trường c</span><span style="font-size: 12pt;">ùng nhau lan tỏa giá trị: Cùng nhau chia sẻ trách nhiệm – Đoàn kết để ổn định và phát triển – Đào tạo gắn với nhu cầu xã hội – Lấy người học làm trung tâm.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Trường Cao đẳng Đắk Lắk tự hào là điểm đến tin cậy, nơi hiện thực hóa ước mơ nghề nghiệp cho các thế hệ trẻ, đồng hành cùng sự thịnh vượng của cộng đồng và doanh nghiệp.</span></p>
 <div class="highlight-note"><em><strong>Trường Cao đẳng Đắk Lắk – Nơi hội tụ tinh hoa, vững bước tương lai!</strong></em></div>
