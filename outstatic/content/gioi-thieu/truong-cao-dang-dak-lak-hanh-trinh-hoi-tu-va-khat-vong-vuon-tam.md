@@ -5,13 +5,13 @@ publicationDate: "2026-05-07"
 status: "published"
 author:
   name: "Admin"
-  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777913768/avatar/PDT001.jpg"
+  picture: "/avatar/26001_1.jpg"
 slug: "truong-cao-dang-dak-lak-hanh-trinh-hoi-tu-va-khat-vong-vuon-tam"
 description: "Trường Cao đẳng Đắk Lắk (Dak Lak College - DLC) là cơ sở giáo dục nghề nghiệp công lập đa ngành, trực thuộc Ủy ban nhân dân tỉnh Đắk Lắk và chịu sự quản lý nhà nước về giáo dục nghề nghiệp của Bộ Lao động - Thương binh và Xã hội. Trải qua hơn 65 năm hình thành và phát triển, nhà trường đã khẳng định vị thế là trung tâm đào tạo nguồn nhân lực kỹ thuật chất lượng cao hàng đầu khu vực Tây Nguyên và Duyên hải Nam Trung Bộ."
 location: "Cơ sở chính"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1778180895/Article/Index%28trangchinh%29/017/futdiiqsfyn7d2enms9w.jpg"
 postId: "017"
-idArticleWriter: "PDT001"
+idArticleWriter: "PDT26001"
 ---
 
 <div><!--StartFragment--><!-- x-tinymce/html --><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778180895/Article/Index%28trangchinh%29/017/futdiiqsfyn7d2enms9w.jpg" alt="futdiiqsfyn7d2enms9w" width="800"><!--EndFragment--></div>
