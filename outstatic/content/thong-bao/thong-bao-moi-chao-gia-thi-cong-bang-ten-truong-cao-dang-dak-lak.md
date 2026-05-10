@@ -24,12 +24,12 @@ attachments:
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;"><strong>- Cơ sở Bình Kiến:</strong>&nbsp;Bảng Alu chữ nổi (0.72m x 7.7m), khung sắt kẽm, chữ Alu đồng bóng.&nbsp;<em>(Giá đã bao gồm thuế, chi phí vận chuyển và lắp đặt hoàn thiện).</em></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Yêu cầu kỹ thuật:</strong></span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Hàng hóa mới 100%, đúng tiêu chuẩn kỹ thuật.</span></p>
-<p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Đơn vị thực hiện cần phối hợp kiểm trathực trạng thực tế trước khi báo giá.</span></p>
+<p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Đơn vị thực hiện cần phối hợp kiểm tra thực trạng thực tế trước khi báo giá.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Hồ sơ và Hình thức nộp:</strong></span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Hồ sơ báo giá bỏ trong phong bì kín (có ký tên, đóng dấu, niêm phong).</span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Địa điểm: Phòng Tổ chức - Hành chính, Số 276 Trường Chinh, phường Tuy Hòa, tỉnh Đắk Lắk.</span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Hotline hỗ trợ kỹ thuật: 0257.3881136 hoặc 0982.200.355 (Thầy Nam).</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Thời hạn:</strong></span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Nhận báo giá: Từ 14h00 ngày&nbsp;<strong>29/04/2026</strong>&nbsp;đến trước 14h30 ngày&nbsp;<strong>07/05/2026</strong>.</span></p>
-<p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Mở báo giá: 14h30 ngày&nbsp;<strong>07/05/2026</strong>&nbsp;tại văn phòng nhà trường.</span></p>
+<p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;">- Mở báo giá: 14h30 ngày&nbsp;<strong>07/05/2026</strong> tại văn phòng nhà trường.</span></p>
 <div class="highlight-note">Trường Cao đẳng Đắk Lắk rất mong nhận được sự hợp tác từ Quý đối tác!</div>
