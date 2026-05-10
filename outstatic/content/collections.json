@@ -33,5 +33,12 @@
     "path": "outstatic/content/gioi-thieu",
     "imageFolder": "Index(trangchinh)",
     "children": []
+  },
+  {
+    "title": "Doanh nghiệp",
+    "slug": "doanh-nghiep",
+    "path": "outstatic/content/doanh-nghiep",
+    "imageFolder": "Index(trangchinh)",
+    "children": []
   }
 ]
