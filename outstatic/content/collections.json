@@ -5,7 +5,9 @@
     "slug": "tin-tuc-su-kien",
     "path": "outstatic/content/tin-tuc-su-kien",
     "imageFolder": "Article/Event(sukien)",
-    "children": [],
+    "children": [
+      "tin-hoat-dong"
+    ],
     "parentId": null,
     "sortOrder": 0,
     "type": "post",
@@ -17,6 +19,25 @@
       "keywords": ""
     },
     "thumbnail": "/Thumbnail/thumbnail_chuyenmuc/thumb_1778490489175.jpg"
+  },
+  {
+    "title": "Tin hoạt động",
+    "name": "Tin hoạt động",
+    "slug": "tin-hoat-dong",
+    "path": "outstatic/content/tin-hoat-dong",
+    "imageFolder": "Article/Event(sukien)",
+    "children": [],
+    "parentId": "tin-tuc-su-kien",
+    "sortOrder": 0,
+    "type": "post",
+    "icon": "CalendarOutlined",
+    "description": "Tin các hoạt động của nhà trường",
+    "seo": {
+      "title": "Tin hoạt động",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
   },
   {
     "title": "Thông Báo",
