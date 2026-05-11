@@ -5,12 +5,13 @@ publicationDate: "2026-03-10"
 status: "published"
 author:
   name: "VSH"
-  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777551759/9_ldw0pl.jpg"
+  picture: "/avatar/26001_1.jpg"
 slug: "ky-niem-51-nam-ngay-giai-phong-buon-ma-thuot-truong-cao-dang-dak-lak-to-chuc-le-phat-dong-tet-trong-cay-doi-doi-nho-on-b"
 description: "Chào mừng kỷ niệm 51 năm Chiến thắng Buôn Ma Thuột và 95 năm ngày thành lập Đoàn, Trường Cao đẳng Đắk Lắk long trọng tổ chức Lễ phát động “Tết trồng cây” và ra quân “Tháng Thanh niên 2026”."
 location: "Cơ sở chính"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777677047/Article/Event%28sukien%29/003/thumbnail.jpg"
 postId: "003"
+idArticleWriter: "PDT26001"
 ---
 
 <p><!--StartFragment--></p>
