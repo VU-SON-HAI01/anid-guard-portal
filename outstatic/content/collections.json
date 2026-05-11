@@ -5,9 +5,7 @@
     "slug": "tin-tuc-su-kien",
     "path": "outstatic/content/tin-tuc-su-kien",
     "imageFolder": "Article/Event(sukien)",
-    "children": [
-      "fshfsdjk-fajkfha"
-    ],
+    "children": [],
     "parentId": null,
     "sortOrder": 0,
     "type": "post",
@@ -36,25 +34,6 @@
       "title": "Thông Báo",
       "description": "",
       "keywords": ""
-    },
-    "thumbnail": ""
-  },
-  {
-    "title": "fdsdfg",
-    "name": "fdsdfg",
-    "slug": "fshfsdjk-fajkfha",
-    "path": "outstatic/content/fshfsdjk-fajkfha",
-    "imageFolder": "Article/fshfsdjk-fajkfha",
-    "children": [],
-    "parentId": "tin-tuc-su-kien",
-    "sortOrder": 1,
-    "type": "post",
-    "icon": "FolderOpenOutlined",
-    "description": "fffssss",
-    "seo": {
-      "title": "dfasda",
-      "description": "gdfdf",
-      "keywords": "gfdgd"
     },
     "thumbnail": ""
   },
