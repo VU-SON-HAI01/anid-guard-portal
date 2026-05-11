@@ -1,44 +1,137 @@
 [
   {
     "title": "Tin tức - sự kiện",
+    "name": "Tin tức - sự kiện",
     "slug": "tin-tuc-su-kien",
     "path": "outstatic/content/tin-tuc-su-kien",
-    "children": [],
-    "imageFolder": "Article/Event(sukien)"
+    "imageFolder": "Article/Event(sukien)",
+    "children": [
+      "fshfsdjk-fajkfha"
+    ],
+    "parentId": null,
+    "sortOrder": 0,
+    "type": "post",
+    "icon": "FolderOpenOutlined",
+    "description": "",
+    "seo": {
+      "title": "Tin tức - sự kiện",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
   },
   {
     "title": "Thông Báo",
+    "name": "Thông Báo",
     "slug": "thong-bao",
     "path": "outstatic/content/thong-bao",
+    "imageFolder": "Article/Notification(thongbao)",
     "children": [],
-    "imageFolder": "Article/Notification(thongbao)"
+    "parentId": null,
+    "sortOrder": 1,
+    "type": "post",
+    "icon": "FolderOpenOutlined",
+    "description": "",
+    "seo": {
+      "title": "Thông Báo",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
+    "title": "fdsdfg",
+    "name": "fdsdfg",
+    "slug": "fshfsdjk-fajkfha",
+    "path": "outstatic/content/fshfsdjk-fajkfha",
+    "imageFolder": "Article/fshfsdjk-fajkfha",
+    "children": [],
+    "parentId": "tin-tuc-su-kien",
+    "sortOrder": 1,
+    "type": "post",
+    "icon": "FolderOpenOutlined",
+    "description": "fffssss",
+    "seo": {
+      "title": "dfasda",
+      "description": "gdfdf",
+      "keywords": "gfdgd"
+    },
+    "thumbnail": ""
   },
   {
     "title": "Tin tức giáo dục",
+    "name": "Tin tức giáo dục",
     "slug": "tin-tuc-giao-duc",
     "path": "outstatic/content/tin-tuc-giao-duc",
     "imageFolder": "Index(trangchinh)",
-    "children": []
+    "children": [],
+    "parentId": null,
+    "sortOrder": 2,
+    "type": "post",
+    "icon": "FolderOpenOutlined",
+    "description": "",
+    "seo": {
+      "title": "Tin tức giáo dục",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
   },
   {
     "title": "Tuyển sinh",
+    "name": "Tuyển sinh",
     "slug": "tuyen-sinh",
     "path": "outstatic/content/tuyen-sinh",
     "imageFolder": "Index(trangchinh)",
-    "children": []
+    "children": [],
+    "parentId": null,
+    "sortOrder": 3,
+    "type": "post",
+    "icon": "FolderOpenOutlined",
+    "description": "",
+    "seo": {
+      "title": "Tuyển sinh",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
   },
   {
     "title": "Giới thiệu",
+    "name": "Giới thiệu",
     "slug": "gioi-thieu",
     "path": "outstatic/content/gioi-thieu",
     "imageFolder": "Index(trangchinh)",
-    "children": []
+    "children": [],
+    "parentId": null,
+    "sortOrder": 4,
+    "type": "post",
+    "icon": "FolderOpenOutlined",
+    "description": "",
+    "seo": {
+      "title": "Giới thiệu",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
   },
   {
     "title": "Doanh nghiệp",
+    "name": "Doanh nghiệp",
     "slug": "doanh-nghiep",
     "path": "outstatic/content/doanh-nghiep",
     "imageFolder": "Index(trangchinh)",
-    "children": []
+    "children": [],
+    "parentId": null,
+    "sortOrder": 5,
+    "type": "post",
+    "icon": "FolderOpenOutlined",
+    "description": "",
+    "seo": {
+      "title": "Doanh nghiệp",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
   }
 ]
