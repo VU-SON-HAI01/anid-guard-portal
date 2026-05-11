@@ -4,7 +4,7 @@ publishedAt: "2026-02-16T12:00:00.000Z"
 publicationDate: "2026-02-16"
 status: "published"
 author:
-  name: "VSH"
+  name: "TTD"
   picture: "/avatar/26001_1.jpg"
 slug: "truong-cao-dang-dak-lak-phoi-hop-agribank-trao-tang-qua-tet-cho-hoc-sinh-sinh-vien-co-hoan-canh-kho-khan"
 description: "Chiều ngày 04/02/2026 tại cơ sở chính và sáng ngày 06/01/2026 tại cơ sở 2 Trường Cao đẳng Đắk Lắk đã phối hợp với Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank) – Chi nhánh Đắk Lắk tổ chức chương trình “Tết Nghĩa Tình” lần thứ XII, năm 2026, trao tặng 60 suất quà Tết, mỗi suất trị giá 500.000đ cho học sinh, sinh viên có hoàn cảnh khó khăn, nỗ lực vươn lên trong học tập và rèn luyện."
