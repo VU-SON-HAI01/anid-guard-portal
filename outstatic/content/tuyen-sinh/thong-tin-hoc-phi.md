@@ -5,13 +5,13 @@ publicationDate: "2026-05-08"
 status: "published"
 author:
   name: "Admin"
-  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777913768/avatar/PDT001.jpg"
+  picture: "/avatar/26003_1.jpg"
 slug: "thong-tin-hoc-phi"
 description: "Dưới đây là bảng tổng hợp mức học phí trình độ Cao đẳng cho 34 ngành nghề tại Trường Cao đẳng Đắk Lắk áp dụng cho năm học 2026 - 2027. Theo Quyết định số 112/QĐ-CĐĐL ban hành tháng 3 năm 2026, mức thu này được giữ nguyên theo quy định trước đó tại Quyết định số 555/QĐ-CĐĐL. Học phí được tính theo đơn vị: Nghìn đồng/người học/tháng. (1 năm học 10 tháng)"
 location: "Cơ sở chính"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1778203926/Article/Index%28trangchinh%29/019/ytlbrzwexirpu6arc7l9.jpg"
 postId: "019"
-idArticleWriter: "PDT001"
+idArticleWriter: "PDT26003"
 ---
 
 <p style="text-align: justify; font-size: 12px;"><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778203926/Article/Index%28trangchinh%29/019/ytlbrzwexirpu6arc7l9.jpg" alt="ytlbrzwexirpu6arc7l9" width="800"></p>
