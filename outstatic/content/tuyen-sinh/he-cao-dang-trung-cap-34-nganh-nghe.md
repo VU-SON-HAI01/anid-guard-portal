@@ -5,12 +5,12 @@ publicationDate: "2026-05-08"
 status: "published"
 author:
   name: "Admin"
-  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777913768/avatar/PDT001.jpg"
+  picture: "/avatar/26001_1.jpg"
 slug: "he-cao-dang-trung-cap-34-nganh-nghe"
 description: "Các ngành trọng điểm: Công nghệ ô tô, Điện công nghiệp, Công nghệ thông tin, Thú y, Kỹ thuật chế biến món ăn và May thời trang. Đào tạo trình độ Cao đẳng (1.100 chỉ tiêu)"
 location: "Cơ sở chính"
 postId: "018"
-idArticleWriter: "PDT001"
+idArticleWriter: "PDT26001"
 ---
 
 <ol>
