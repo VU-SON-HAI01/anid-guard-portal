@@ -18,7 +18,7 @@ attachments:
     public_id: "Article/Notification(thongbao)/007/QĐ Về việc ban hành Quy chế Tổ chức, hoạt động của Trường Cao đẳng Đắk Lắk"
 ---
 
-<div><img style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;" src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777713045/Article/Notification%28thongbao%29/007/007_1.jpg" width="800"></div>
+<div><img src="/image_content/007/007_1.jpg" alt="007_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></div>
 <div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Sứ mạng &amp; Mục tiêu:</strong>&nbsp;Xây dựng Trường thành trung tâm đào tạo nhân lực kỹ thuật chất lượng cao, phục vụ phát triển kinh tế - xã hội địa phương và cả nước trong bối cảnh chuyển đổi số.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Hoạt động đào tạo:</strong>&nbsp;Quy định cụ thể về tuyển sinh, tổ chức giảng dạy đa trình độ (Cao đẳng, Trung cấp, Sơ cấp) và liên kết đào tạo với các doanh nghiệp, tổ chức trong và ngoài nước.</span></p>
