@@ -40,12 +40,33 @@
     "thumbnail": ""
   },
   {
+    "title": "Thông báo mời đấu thầu",
+    "name": "Thông báo mời đấu thầu",
+    "slug": "thong-bao-moi-dau-thau",
+    "path": "outstatic/content/thong-bao-moi-dau-thau",
+    "imageFolder": "Article/thong-bao-moi-dau-thau",
+    "children": [],
+    "parentId": "thong-bao",
+    "sortOrder": 0,
+    "type": "post",
+    "icon": "NotificationOutlined",
+    "description": "",
+    "seo": {
+      "title": "Thông báo mời đấu thầu",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Thông Báo",
     "name": "Thông Báo",
     "slug": "thong-bao",
     "path": "outstatic/content/thong-bao",
     "imageFolder": "Article/Notification(thongbao)",
-    "children": [],
+    "children": [
+      "thong-bao-moi-dau-thau"
+    ],
     "parentId": null,
     "sortOrder": 1,
     "type": "post",
