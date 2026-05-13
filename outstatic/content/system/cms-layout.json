@@ -21,15 +21,15 @@
         "visible": true
       },
       {
-        "id": "major-list",
-        "type": "major-list",
-        "label": "Danh sách Ngành / Khoa (Flip)",
-        "visible": true
-      },
-      {
         "id": "student-banners",
         "type": "student-banners",
         "label": "Học Sinh – Sinh Viên",
+        "visible": true
+      },
+      {
+        "id": "major-list",
+        "type": "major-list",
+        "label": "Danh sách Ngành / Khoa (Flip)",
         "visible": true
       },
       {
@@ -60,5 +60,5 @@
     "sidebarBlocks": []
   },
   "blockSettings": {},
-  "updatedAt": "2026-05-13T09:02:34.097Z"
+  "updatedAt": "2026-05-13T09:03:15.803Z"
 }
