@@ -238,8 +238,8 @@
       "departmentSlug": "phong-dao-tao"
     },
     "department-article-1778703059443": {
-      "departmentCode": "CNKT",
-      "tabId": "gioi-thieu"
+      "departmentCode": "",
+      "tabId": ""
     },
     "department-sidebar-1778703072858": {
       "departmentName": "",
@@ -247,7 +247,7 @@
     },
     "teacher-directory-1778702939443": {
       "title": "Đội ngũ giảng viên",
-      "departmentSlug": "khoa-cntt"
+      "departmentSlug": ""
     }
   },
   "customPageTypes": [
@@ -257,5 +257,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-13T20:43:39.156Z"
+  "updatedAt": "2026-05-13T20:44:50.507Z"
 }
