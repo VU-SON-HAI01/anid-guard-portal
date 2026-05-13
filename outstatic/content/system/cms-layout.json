@@ -242,8 +242,8 @@
       "tabId": "gioi-thieu"
     },
     "department-sidebar-1778703072858": {
-      "departmentName": "Khoa Công nghệ thông tin - Kết toán",
-      "departmentCode": "CNKT"
+      "departmentName": "",
+      "departmentCode": ""
     },
     "teacher-directory-1778702939443": {
       "title": "Đội ngũ giảng viên",
@@ -257,5 +257,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-13T20:14:23.903Z"
+  "updatedAt": "2026-05-13T20:43:39.156Z"
 }
