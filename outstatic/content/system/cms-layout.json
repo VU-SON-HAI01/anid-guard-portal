@@ -93,12 +93,6 @@
           "visible": true
         },
         {
-          "id": "teacher-directory-1778691853473",
-          "type": "teacher-directory",
-          "label": "Đội Ngũ Giảng Viên",
-          "visible": true
-        },
-        {
           "id": "major-list",
           "type": "major-list",
           "label": "Danh sách Ngành / Khoa (Flip)",
@@ -219,5 +213,5 @@
       "departmentSlug": "phong-dao-tao"
     }
   },
-  "updatedAt": "2026-05-13T17:40:01.856Z"
+  "updatedAt": "2026-05-13T18:10:10.635Z"
 }
