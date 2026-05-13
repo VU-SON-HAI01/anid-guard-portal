@@ -247,7 +247,9 @@
     },
     "teacher-directory-1778702939443": {
       "title": "Đội ngũ giảng viên",
-      "departmentSlug": ""
+      "departmentSlug": "",
+      "nameFontWeight": "medium",
+      "nameFontSize": "base"
     }
   },
   "customPageTypes": [
@@ -257,5 +259,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-13T21:35:42.648Z"
+  "updatedAt": "2026-05-13T21:35:57.341Z"
 }
