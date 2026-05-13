@@ -21,15 +21,9 @@
         "visible": true
       },
       {
-        "id": "major-list",
-        "type": "major-list",
-        "label": "Danh sách Ngành / Khoa (Flip)",
-        "visible": true
-      },
-      {
-        "id": "category-grid",
-        "type": "category-grid",
-        "label": "Danh Mục (Quick links)",
+        "id": "student-banners",
+        "type": "student-banners",
+        "label": "Học Sinh – Sinh Viên",
         "visible": true
       },
       {
@@ -39,15 +33,21 @@
         "visible": true
       },
       {
+        "id": "major-list",
+        "type": "major-list",
+        "label": "Danh sách Ngành / Khoa (Flip)",
+        "visible": true
+      },
+      {
         "id": "announcement-grid",
         "type": "announcement-grid",
         "label": "Thông Báo (60/40)",
         "visible": true
       },
       {
-        "id": "student-banners",
-        "type": "student-banners",
-        "label": "Học Sinh – Sinh Viên",
+        "id": "category-grid",
+        "type": "category-grid",
+        "label": "Danh Mục (Quick links)",
         "visible": true
       },
       {
@@ -60,5 +60,5 @@
     "sidebarBlocks": []
   },
   "blockSettings": {},
-  "updatedAt": "2026-05-13T09:00:15.619Z"
+  "updatedAt": "2026-05-13T09:00:53.025Z"
 }
