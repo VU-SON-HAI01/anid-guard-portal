@@ -185,6 +185,18 @@
           "visible": true
         }
       ]
+    },
+    "khoa-cong-nghe-thong-tin---ke-toan": {
+      "layout": "sidebar-left",
+      "mainBlocks": [
+        {
+          "id": "teacher-directory-1778702939443",
+          "type": "teacher-directory",
+          "label": "Đội Ngũ Giảng Viên",
+          "visible": true
+        }
+      ],
+      "sidebarBlocks": []
     }
   },
   "globalBlocks": [
@@ -213,5 +225,12 @@
       "departmentSlug": "phong-dao-tao"
     }
   },
-  "updatedAt": "2026-05-13T18:11:22.742Z"
+  "customPageTypes": [
+    {
+      "id": "khoa-cong-nghe-thong-tin---ke-toan",
+      "label": "Khoa Công nghệ thông tin - Kế toán",
+      "layout": "sidebar-left"
+    }
+  ],
+  "updatedAt": "2026-05-13T20:09:05.671Z"
 }
