@@ -194,9 +194,22 @@
           "type": "teacher-directory",
           "label": "Đội Ngũ Giảng Viên",
           "visible": true
+        },
+        {
+          "id": "department-article-1778703059443",
+          "type": "department-article",
+          "label": "Bài Viết Khoa",
+          "visible": true
         }
       ],
-      "sidebarBlocks": []
+      "sidebarBlocks": [
+        {
+          "id": "department-sidebar-1778703072858",
+          "type": "department-sidebar",
+          "label": "Menu Khoa/Phòng",
+          "visible": true
+        }
+      ]
     }
   },
   "globalBlocks": [
@@ -232,5 +245,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-13T20:09:05.671Z"
+  "updatedAt": "2026-05-13T20:12:20.331Z"
 }
