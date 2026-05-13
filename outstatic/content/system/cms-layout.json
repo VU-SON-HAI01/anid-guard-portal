@@ -99,6 +99,18 @@
           "visible": true
         },
         {
+          "id": "category-grid",
+          "type": "category-grid",
+          "label": "Danh Mục (Quick links)",
+          "visible": true
+        },
+        {
+          "id": "teacher-directory-1778691853473",
+          "type": "teacher-directory",
+          "label": "Đội Ngũ Giảng Viên",
+          "visible": true
+        },
+        {
           "id": "news-carousel",
           "type": "news-carousel",
           "label": "Tin Tức – Sự Kiện (Carousel)",
@@ -117,12 +129,6 @@
           "visible": true
         },
         {
-          "id": "category-grid",
-          "type": "category-grid",
-          "label": "Danh Mục (Quick links)",
-          "visible": true
-        },
-        {
           "id": "media-gallery",
           "type": "media-gallery",
           "label": "Thư Viện Hình Ảnh / Video",
@@ -132,12 +138,6 @@
           "id": "related-posts-1778691835426",
           "type": "related-posts",
           "label": "Bài viết liên quan",
-          "visible": true
-        },
-        {
-          "id": "teacher-directory-1778691853473",
-          "type": "teacher-directory",
-          "label": "Đội Ngũ Giảng Viên",
           "visible": true
         }
       ],
@@ -219,5 +219,5 @@
       "departmentSlug": "phong-dao-tao"
     }
   },
-  "updatedAt": "2026-05-13T17:04:54.856Z"
+  "updatedAt": "2026-05-13T17:05:42.840Z"
 }
