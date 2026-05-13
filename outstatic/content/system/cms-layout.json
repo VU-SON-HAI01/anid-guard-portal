@@ -99,15 +99,15 @@
           "visible": true
         },
         {
-          "id": "category-grid",
-          "type": "category-grid",
-          "label": "Danh Mục (Quick links)",
+          "id": "student-banners",
+          "type": "student-banners",
+          "label": "Học Sinh – Sinh Viên",
           "visible": true
         },
         {
-          "id": "news-carousel",
-          "type": "news-carousel",
-          "label": "Tin Tức – Sự Kiện (Carousel)",
+          "id": "category-grid",
+          "type": "category-grid",
+          "label": "Danh Mục (Quick links)",
           "visible": true
         },
         {
@@ -117,9 +117,9 @@
           "visible": true
         },
         {
-          "id": "student-banners",
-          "type": "student-banners",
-          "label": "Học Sinh – Sinh Viên",
+          "id": "news-carousel",
+          "type": "news-carousel",
+          "label": "Tin Tức – Sự Kiện (Carousel)",
           "visible": true
         },
         {
@@ -213,5 +213,5 @@
       "departmentSlug": "phong-dao-tao"
     }
   },
-  "updatedAt": "2026-05-13T18:10:44.658Z"
+  "updatedAt": "2026-05-13T18:11:22.742Z"
 }
