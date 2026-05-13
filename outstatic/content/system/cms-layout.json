@@ -1,0 +1,64 @@
+{
+  "pageType": "home",
+  "config": {
+    "layout": "none",
+    "mainBlocks": [
+      {
+        "id": "hero-banner",
+        "type": "hero-banner",
+        "label": "Banner Slider (Hero)",
+        "visible": true,
+        "locked": true,
+        "badge": {
+          "text": "Bắt buộc",
+          "color": "navy"
+        }
+      },
+      {
+        "id": "stats-bar",
+        "type": "stats-bar",
+        "label": "Thanh Thống Kê",
+        "visible": true
+      },
+      {
+        "id": "major-list",
+        "type": "major-list",
+        "label": "Danh sách Ngành / Khoa (Flip)",
+        "visible": true
+      },
+      {
+        "id": "news-carousel",
+        "type": "news-carousel",
+        "label": "Tin Tức – Sự Kiện (Carousel)",
+        "visible": true
+      },
+      {
+        "id": "announcement-grid",
+        "type": "announcement-grid",
+        "label": "Thông Báo (60/40)",
+        "visible": true
+      },
+      {
+        "id": "category-grid",
+        "type": "category-grid",
+        "label": "Danh Mục (Quick links)",
+        "visible": true
+      },
+      {
+        "id": "student-banners",
+        "type": "student-banners",
+        "label": "Học Sinh – Sinh Viên",
+        "visible": true
+      },
+      {
+        "id": "media-gallery",
+        "type": "media-gallery",
+        "label": "Thư Viện Hình Ảnh / Video",
+        "visible": true
+      }
+    ],
+    "sidebarBlocks": []
+  },
+  "blockSettings": {},
+  "updatedAt": "2026-05-13T08:59:42.142Z"
+}
