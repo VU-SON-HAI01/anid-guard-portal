@@ -249,7 +249,7 @@
       "title": "Đội ngũ giảng viên",
       "departmentSlug": "",
       "nameFontWeight": "medium",
-      "nameFontSize": "base"
+      "nameFontSize": "xs"
     }
   },
   "customPageTypes": [
@@ -259,5 +259,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-13T21:35:57.341Z"
+  "updatedAt": "2026-05-13T21:36:43.979Z"
 }
