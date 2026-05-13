@@ -1,64 +1,223 @@
 {
-  "pageType": "home",
-  "config": {
-    "layout": "none",
-    "mainBlocks": [
-      {
-        "id": "hero-banner",
-        "type": "hero-banner",
-        "label": "Banner Slider (Hero)",
-        "visible": true,
-        "locked": true,
-        "badge": {
-          "text": "Bắt buộc",
-          "color": "navy"
+  "configs": {
+    "article": {
+      "layout": "left",
+      "mainBlocks": [
+        {
+          "id": "article-detail",
+          "type": "article-detail",
+          "label": "Chi tiết Bài viết (Tiêu đề, Nội dung)",
+          "visible": true,
+          "locked": true,
+          "badge": {
+            "text": "Bắt buộc",
+            "color": "navy"
+          }
+        },
+        {
+          "id": "social-share",
+          "type": "social-share",
+          "label": "Nút Chia sẻ (Share mạng xã hội)",
+          "visible": true
+        },
+        {
+          "id": "author-source",
+          "type": "author-source",
+          "label": "Tác giả & Nguồn bài viết",
+          "visible": true
+        },
+        {
+          "id": "related-posts",
+          "type": "related-posts",
+          "label": "Bài viết liên quan",
+          "visible": true
+        },
+        {
+          "id": "comments",
+          "type": "comments",
+          "label": "Khung Bình luận",
+          "visible": true
         }
-      },
-      {
-        "id": "stats-bar",
-        "type": "stats-bar",
-        "label": "Thanh Thống Kê",
-        "visible": true
-      },
-      {
-        "id": "student-banners",
-        "type": "student-banners",
-        "label": "Học Sinh – Sinh Viên",
-        "visible": true
-      },
-      {
-        "id": "major-list",
-        "type": "major-list",
-        "label": "Danh sách Ngành / Khoa (Flip)",
-        "visible": true
-      },
-      {
-        "id": "news-carousel",
-        "type": "news-carousel",
-        "label": "Tin Tức – Sự Kiện (Carousel)",
-        "visible": true
-      },
-      {
-        "id": "announcement-grid",
-        "type": "announcement-grid",
-        "label": "Thông Báo (60/40)",
-        "visible": true
-      },
-      {
-        "id": "category-grid",
-        "type": "category-grid",
-        "label": "Danh Mục (Quick links)",
-        "visible": true
-      },
-      {
-        "id": "media-gallery",
-        "type": "media-gallery",
-        "label": "Thư Viện Hình Ảnh / Video",
-        "visible": true
-      }
-    ],
-    "sidebarBlocks": []
+      ],
+      "sidebarBlocks": [
+        {
+          "id": "search",
+          "type": "search",
+          "label": "Ô Tìm kiếm",
+          "visible": true
+        },
+        {
+          "id": "category-sidebar",
+          "type": "category-sidebar",
+          "label": "Chuyên mục bài viết",
+          "visible": true
+        },
+        {
+          "id": "banner-ads",
+          "type": "banner-ads",
+          "label": "Banner Quảng cáo",
+          "visible": true
+        },
+        {
+          "id": "popular-posts",
+          "type": "popular-posts",
+          "label": "Bài viết xem nhiều",
+          "visible": true
+        },
+        {
+          "id": "tag-cloud",
+          "type": "tag-cloud",
+          "label": "Thẻ Tags nổi bật",
+          "visible": false
+        }
+      ]
+    },
+    "home": {
+      "layout": "none",
+      "mainBlocks": [
+        {
+          "id": "hero-banner",
+          "type": "hero-banner",
+          "label": "Banner Slider (Hero)",
+          "visible": true,
+          "locked": true,
+          "badge": {
+            "text": "Bắt buộc",
+            "color": "navy"
+          }
+        },
+        {
+          "id": "stats-bar",
+          "type": "stats-bar",
+          "label": "Thanh Thống Kê",
+          "visible": true
+        },
+        {
+          "id": "major-list",
+          "type": "major-list",
+          "label": "Danh sách Ngành / Khoa (Flip)",
+          "visible": true
+        },
+        {
+          "id": "news-carousel",
+          "type": "news-carousel",
+          "label": "Tin Tức – Sự Kiện (Carousel)",
+          "visible": true
+        },
+        {
+          "id": "announcement-grid",
+          "type": "announcement-grid",
+          "label": "Thông Báo (60/40)",
+          "visible": true
+        },
+        {
+          "id": "student-banners",
+          "type": "student-banners",
+          "label": "Học Sinh – Sinh Viên",
+          "visible": true
+        },
+        {
+          "id": "category-grid",
+          "type": "category-grid",
+          "label": "Danh Mục (Quick links)",
+          "visible": true
+        },
+        {
+          "id": "media-gallery",
+          "type": "media-gallery",
+          "label": "Thư Viện Hình Ảnh / Video",
+          "visible": true
+        },
+        {
+          "id": "related-posts-1778691835426",
+          "type": "related-posts",
+          "label": "Bài viết liên quan",
+          "visible": true
+        },
+        {
+          "id": "teacher-directory-1778691853473",
+          "type": "teacher-directory",
+          "label": "Đội Ngũ Giảng Viên",
+          "visible": true
+        }
+      ],
+      "sidebarBlocks": []
+    },
+    "category": {
+      "layout": "left",
+      "mainBlocks": [
+        {
+          "id": "category-header",
+          "type": "category-header",
+          "label": "Tiêu đề chuyên mục",
+          "visible": true,
+          "locked": true,
+          "badge": {
+            "text": "Bắt buộc",
+            "color": "navy"
+          }
+        },
+        {
+          "id": "post-grid",
+          "type": "post-grid",
+          "label": "Lưới bài viết (Post Grid)",
+          "visible": true,
+          "locked": true
+        },
+        {
+          "id": "pagination",
+          "type": "pagination",
+          "label": "Phân trang",
+          "visible": true
+        }
+      ],
+      "sidebarBlocks": [
+        {
+          "id": "search",
+          "type": "search",
+          "label": "Ô Tìm kiếm",
+          "visible": true
+        },
+        {
+          "id": "category-sidebar",
+          "type": "category-sidebar",
+          "label": "Chuyên mục bài viết",
+          "visible": true
+        },
+        {
+          "id": "tag-cloud",
+          "type": "tag-cloud",
+          "label": "Tags",
+          "visible": true
+        }
+      ]
+    }
   },
-  "blockSettings": {},
-  "updatedAt": "2026-05-13T09:03:15.803Z"
+  "globalBlocks": [
+    {
+      "id": "zalo-button",
+      "type": "zalo-button",
+      "label": "Nút Hỗ trợ Zalo",
+      "visible": true,
+      "locked": true
+    },
+    {
+      "id": "enroll-banner",
+      "type": "enroll-banner",
+      "label": "Banner Tuyển sinh (sticky)",
+      "visible": true
+    },
+    {
+      "id": "scroll-to-top",
+      "type": "scroll-to-top",
+      "label": "Nút Cuộn lên đầu trang",
+      "visible": true
+    }
+  ],
+  "blockSettings": {
+    "teacher-directory-1778691853473": {
+      "departmentSlug": "phong-dao-tao"
+    }
+  },
+  "updatedAt": "2026-05-13T17:04:54.856Z"
 }
