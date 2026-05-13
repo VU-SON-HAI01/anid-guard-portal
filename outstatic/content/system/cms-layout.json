@@ -236,6 +236,18 @@
   "blockSettings": {
     "teacher-directory-1778691853473": {
       "departmentSlug": "phong-dao-tao"
+    },
+    "department-article-1778703059443": {
+      "departmentCode": "CNKT",
+      "tabId": "gioi-thieu"
+    },
+    "department-sidebar-1778703072858": {
+      "departmentName": "Khoa Công nghệ thông tin - Kết toán",
+      "departmentCode": "CNKT"
+    },
+    "teacher-directory-1778702939443": {
+      "title": "Đội ngũ giảng viên",
+      "departmentSlug": "khoa-cntt"
     }
   },
   "customPageTypes": [
@@ -245,5 +257,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-13T20:12:20.331Z"
+  "updatedAt": "2026-05-13T20:14:23.903Z"
 }
