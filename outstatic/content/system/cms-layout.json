@@ -252,6 +252,9 @@
       "nameFontSize": "xs",
       "columns": "3",
       "showPhone": "false"
+    },
+    "news-carousel": {
+      "dataSource": "tin-hoat-dong"
     }
   },
   "customPageTypes": [
@@ -261,5 +264,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T01:32:52.199Z"
+  "updatedAt": "2026-05-14T03:20:20.331Z"
 }
