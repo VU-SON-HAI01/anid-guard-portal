@@ -262,7 +262,8 @@
       "item4Image": "/data/data/doanhoisinhvien.jpg",
       "item3Image": "/data/data/tai-hinh-letotnghiep.jpg",
       "item2Image": "/data/data/doanhnghieptuyendung.jpg",
-      "title": "Sinh Viên"
+      "title": "Sinh Viên",
+      "item1Label": "Tra điểm"
     }
   },
   "customPageTypes": [
@@ -272,5 +273,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T12:17:50.244Z"
+  "updatedAt": "2026-05-14T12:19:49.774Z"
 }
