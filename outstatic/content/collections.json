@@ -154,5 +154,24 @@
       "keywords": ""
     },
     "thumbnail": ""
+  },
+  {
+    "title": "Phòng đào tạo",
+    "name": "Phòng đào tạo",
+    "slug": "pdt",
+    "path": "outstatic/content/pdt",
+    "imageFolder": "Article/pdt",
+    "children": [],
+    "parentId": null,
+    "sortOrder": 8,
+    "type": "post",
+    "icon": "TrophyOutlined",
+    "description": "",
+    "seo": {
+      "title": "Phòng đào tạo",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
   }
 ]
