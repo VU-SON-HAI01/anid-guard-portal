@@ -99,15 +99,15 @@
           "visible": true
         },
         {
-          "id": "major-list",
-          "type": "major-list",
-          "label": "Danh sách Ngành / Khoa (Flip)",
-          "visible": true
-        },
-        {
           "id": "category-grid",
           "type": "category-grid",
           "label": "Danh Mục (Quick links)",
+          "visible": true
+        },
+        {
+          "id": "major-list",
+          "type": "major-list",
+          "label": "Danh sách Ngành / Khoa (Flip)",
           "visible": true
         },
         {
@@ -267,5 +267,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T03:25:55.019Z"
+  "updatedAt": "2026-05-14T09:24:04.694Z"
 }
