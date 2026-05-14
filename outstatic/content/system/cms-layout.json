@@ -255,6 +255,9 @@
     },
     "news-carousel": {
       "dataSource": "thong-bao"
+    },
+    "announcement-grid": {
+      "dataSource": "tin-hoat-dong"
     }
   },
   "customPageTypes": [
@@ -264,5 +267,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T03:24:20.175Z"
+  "updatedAt": "2026-05-14T03:25:08.403Z"
 }
