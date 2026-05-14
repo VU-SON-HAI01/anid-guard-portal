@@ -254,7 +254,7 @@
       "showPhone": "false"
     },
     "news-carousel": {
-      "dataSource": "thong-bao-moi-dau-thau"
+      "dataSource": "thong-bao"
     }
   },
   "customPageTypes": [
@@ -264,5 +264,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T03:21:39.084Z"
+  "updatedAt": "2026-05-14T03:22:14.341Z"
 }
