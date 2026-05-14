@@ -5,13 +5,13 @@ publicationDate: "2026-05-07"
 status: "published"
 author:
   name: "Admin"
-  picture: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777913768/avatar/PDT001.jpg"
+  picture: "/avatar/26001_1.jpg"
 slug: "thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026"
 description: "Nhằm đáp ứng nhu cầu học nghề và phát triển sự nghiệp của thế hệ trẻ, nhà trường xin trân trọng thông báo kế hoạch xét tuyển cho năm học 2026. Với tổng chỉ tiêu lên đến 2265 sinh viên, chúng tôi mang đến cơ hội học tập đa dạng trong nhiều lĩnh vực ngành nghề hấp dẫn, phù hợp với xu thế phát triển của xã hội."
 location: "Cơ sở chính"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1778167406/Article/Index%28trangchinh%29/014/e5y8cb8m8awyqsmtk0su.jpg"
 postId: "014"
-idArticleWriter: "PDT001"
+idArticleWriter: "CMS26001"
 ---
 
 <h2 data-pm-slice="1 1 []"><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778167406/Article/Index%28trangchinh%29/014/e5y8cb8m8awyqsmtk0su.jpg" alt="e5y8cb8m8awyqsmtk0su" width="500"></h2>
