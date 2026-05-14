@@ -267,7 +267,11 @@
     },
     "category-grid": {
       "item1Label": "Hành chính",
-      "item2Label": "Văn bản"
+      "item2Label": "Văn bản",
+      "item3Label": "Trung tâm lái xe",
+      "item4Label": "Trung tâm ký túc xá",
+      "item3Icon": "car-front",
+      "item4Icon": "building-2"
     }
   },
   "customPageTypes": [
@@ -277,5 +281,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T12:57:29.083Z"
+  "updatedAt": "2026-05-14T13:08:40.163Z"
 }
