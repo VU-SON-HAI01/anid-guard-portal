@@ -4,21 +4,22 @@ publishedAt: "2026-04-29T12:00:00.000Z"
 publicationDate: "2026-04-29"
 status: "published"
 author:
-  name: "Admin"
+  name: "V.S.H"
   picture: "/avatar/26001_1.jpg"
 slug: "thong-bao-moi-chao-gia-thi-cong-bang-ten-truong-cao-dang-dak-lak"
 description: "Trường Cao đẳng Đắk Lắk trân trọng kính mời các đơn vị quảng cáo, in ấn có năng lực tham gia báo giá hạng mục lắp đặt bảng tên trường tại 02 cơ sở."
 location: "Cơ sở 2"
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg"
+coverImage: "/image_content/006/006_1.jpg"
 postId: "006"
-idArticleWriter: "PDT26001"
+idArticleWriter: "CMS26001"
 attachments:
   - name: "thongbaomoithau.pdf"
     url: "https://res.cloudinary.com/dty3e9nxk/raw/upload/v1778092097/Article/Notification%28thongbao%29/006/thongbaomoithau.pdf"
     public_id: "Article/Notification(thongbao)/006/thongbaomoithau.pdf"
 ---
 
-<p style="font-size: 12px;"><strong><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777707241/Article/Notification%28thongbao%29/006/006_1.jpg" width="800"></strong></p>
+<p><img src="/image_content/006/006_1.jpg" alt="006_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p style="font-size: 12px;"><strong>&nbsp;</strong></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Nội dung hạng mục:</strong></span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;"><strong>- Cơ sở Tuy Hòa:</strong>&nbsp;Bảng Alu chữ nổi (1m x 7m), khung sắt kẽm, chữ Alu đồng bóng.</span></p>
 <p style="font-size: 12px; text-align: left;"><span style="font-size: 12pt;"><strong>- Cơ sở Bình Kiến:</strong>&nbsp;Bảng Alu chữ nổi (0.72m x 7.7m), khung sắt kẽm, chữ Alu đồng bóng.&nbsp;<em>(Giá đã bao gồm thuế, chi phí vận chuyển và lắp đặt hoàn thiện).</em></span></p>
