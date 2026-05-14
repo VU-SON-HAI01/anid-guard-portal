@@ -21,9 +21,7 @@ departmentCode: "PDT"
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Phòng Đào tạo – Hợp tác Quốc tế có các chức năng tham mưu và hỗ trợ trọng yếu sau:</span></p>
 <ul type="disc">
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Tham mưu chiến lược:</strong> Giúp Hiệu trưởng trong công tác quản lý, điều hành và tổ chức thực hiện các hoạt động chủ yếu của nhà trường về ba lĩnh vực: Đào tạo, Khảo thí và Hợp tác quốc tế.</span></li>
-<li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Trách nhiệm quản lý:</strong> Chịu trách nhiệm trực tiếp t</span>
-<p>&nbsp;</p>
-<span style="font-size: 12pt;">rước Hiệu trưởng và trước pháp luật về toàn bộ lĩnh vực công tác được phân công.</span></li>
+<li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Trách nhiệm quản lý:</strong> Chịu trách nhiệm trực tiếp t</span><span style="font-size: 12pt;">rước Hiệu trưởng và trước pháp luật về toàn bộ lĩnh vực công tác được phân công.</span></li>
 </ul>
 <div class="highlight-note"><strong>II. NHIỆM VỤ</strong></div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Nhiệm vụ của phòng được chia thành các nhóm chuyên môn cụ thể:</span></p>
