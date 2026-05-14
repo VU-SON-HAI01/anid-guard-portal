@@ -12,6 +12,7 @@ location: "Cơ sở chính"
 coverImage: "/image_content/022/022_1.jpg"
 postId: "022"
 idArticleWriter: "CMS26001"
+departmentCode: "PDT"
 ---
 
 <p><img src="/image_content/022/022_1.jpg" alt="022_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
