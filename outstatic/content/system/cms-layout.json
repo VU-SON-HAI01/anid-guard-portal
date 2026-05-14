@@ -127,12 +127,6 @@
           "type": "media-gallery",
           "label": "Thư Viện Hình Ảnh / Video",
           "visible": true
-        },
-        {
-          "id": "related-posts-1778691835426",
-          "type": "related-posts",
-          "label": "Bài viết liên quan",
-          "visible": true
         }
       ],
       "sidebarBlocks": []
@@ -267,5 +261,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T11:45:00.214Z"
+  "updatedAt": "2026-05-14T11:45:14.312Z"
 }
