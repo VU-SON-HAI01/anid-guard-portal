@@ -118,25 +118,6 @@
     "thumbnail": ""
   },
   {
-    "title": "Giới thiệu",
-    "name": "Giới thiệu",
-    "slug": "gioi-thieu",
-    "path": "outstatic/content/gioi-thieu",
-    "imageFolder": "Index(trangchinh)",
-    "children": [],
-    "parentId": null,
-    "sortOrder": 4,
-    "type": "post",
-    "icon": "FolderOpenOutlined",
-    "description": "",
-    "seo": {
-      "title": "Giới thiệu",
-      "description": "",
-      "keywords": ""
-    },
-    "thumbnail": ""
-  },
-  {
     "title": "Doanh nghiệp",
     "name": "Doanh nghiệp",
     "slug": "doanh-nghiep",
