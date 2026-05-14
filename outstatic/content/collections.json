@@ -99,6 +99,25 @@
     "thumbnail": ""
   },
   {
+    "title": "Chức năng nhiệm vụ",
+    "name": "Chức năng nhiệm vụ",
+    "slug": "chuc-nang-nhiem-vu",
+    "path": "outstatic/content/chuc-nang-nhiem-vu",
+    "imageFolder": "Article/chuc-nang-nhiem-vu",
+    "children": [],
+    "parentId": "pdt",
+    "sortOrder": 1,
+    "type": "post",
+    "icon": "BulbOutlined",
+    "description": "",
+    "seo": {
+      "title": "Chức năng nhiệm vụ",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Tin tức giáo dục",
     "name": "Tin tức giáo dục",
     "slug": "tin-tuc-giao-duc",
@@ -162,7 +181,8 @@
     "path": "outstatic/content/pdt",
     "imageFolder": "Article/pdt",
     "children": [
-      "gioi-thieu"
+      "gioi-thieu",
+      "chuc-nang-nhiem-vu"
     ],
     "parentId": null,
     "sortOrder": 8,
