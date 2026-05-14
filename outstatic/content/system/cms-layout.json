@@ -254,7 +254,7 @@
       "dataSource": "tin-hoat-dong"
     },
     "student-banners": {
-      "item1Image": "/data/data/banner_hocsinh_tradiem.jpg",
+      "item1Image": "/data/data/bia_tai_lieu_2.jpg",
       "item1Url": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026",
       "item2Label": "Doanh nghiệp",
       "item3Label": "Tốt nghiệp",
@@ -273,5 +273,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T12:19:49.774Z"
+  "updatedAt": "2026-05-14T12:22:02.643Z"
 }
