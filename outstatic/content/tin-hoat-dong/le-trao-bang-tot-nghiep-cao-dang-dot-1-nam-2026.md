@@ -2,7 +2,7 @@
 title: "Lễ trao bằng tốt nghiệp cao đẳng đợt 1 năm 2026!"
 publishedAt: "2026-04-10T12:00:00.000Z"
 publicationDate: "2026-04-10"
-status: "draft"
+status: "published"
 author:
   name: "Admin CMS"
   picture: "/avatar/26001_1.jpg"
