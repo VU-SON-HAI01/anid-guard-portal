@@ -253,7 +253,7 @@
     "announcement-grid": {
       "dataSource": "tin-hoat-dong"
     },
-    "student-banners-1778759850630": {
+    "student-banners": {
       "item1Image": "/data/data/banner_hocsinh_tradiem.jpg",
       "item1Url": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026"
     }
@@ -265,5 +265,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T12:05:22.052Z"
+  "updatedAt": "2026-05-14T12:14:55.688Z"
 }
