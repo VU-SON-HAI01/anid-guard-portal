@@ -254,8 +254,8 @@
       "dataSource": "tin-hoat-dong"
     },
     "student-banners": {
-      "item1Image": "/data/data/bia_tai_lieu_2.jpg",
-      "item1Url": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026",
+      "item1Image": "/data/data/banner_hocsinh_tradiem.jpg",
+      "item1Url": "https://cddaklak.phanmemdaotao.edu.vn/",
       "item2Label": "Doanh nghiệp",
       "item3Label": "Tốt nghiệp",
       "item4Label": "Đoàn đội",
@@ -263,7 +263,8 @@
       "item3Image": "/data/data/tai-hinh-letotnghiep.jpg",
       "item2Image": "/data/data/doanhnghieptuyendung.jpg",
       "title": "Sinh Viên",
-      "item1Label": "Tra điểm"
+      "item1Label": "Tra điểm",
+      "item3Url": "https://1drv.ms/f/c/bfab36f74a00f090/IgDm9LSh6x68SbKgcJvBUOZ0Aa0apuSgXs50FLLiEm8cnYM?e=B4LT2p"
     },
     "category-grid": {
       "item1Label": "Lịch thi",
@@ -283,5 +284,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T13:18:28.177Z"
+  "updatedAt": "2026-05-14T13:29:07.267Z"
 }
