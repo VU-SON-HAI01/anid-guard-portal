@@ -11,7 +11,7 @@ description: "Sáng ngày 16/01/2026, tại Hội trường, Trường Cao đẳ
 location: "Cơ sở chính"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777665295/Article/Event%28sukien%29/001/thumbnail.jpg"
 postId: "001"
-idArticleWriter: "PDT26001"
+idArticleWriter: "CMS26001"
 ---
 
 <p><!--StartFragment--></p>
