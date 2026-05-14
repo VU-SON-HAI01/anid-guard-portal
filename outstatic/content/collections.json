@@ -154,5 +154,24 @@
       "keywords": ""
     },
     "thumbnail": ""
+  },
+  {
+    "title": "Giới thiệu chung",
+    "name": "Giới thiệu chung",
+    "slug": "gioi-thieu-chung",
+    "path": "outstatic/content/gioi-thieu-chung",
+    "imageFolder": "Article/gioi-thieu-chung",
+    "children": [],
+    "parentId": null,
+    "sortOrder": 8,
+    "type": "post",
+    "icon": "BulbOutlined",
+    "description": "",
+    "seo": {
+      "title": "Giới thiệu chung",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
   }
 ]
