@@ -93,6 +93,12 @@
           "visible": true
         },
         {
+          "id": "major-list",
+          "type": "major-list",
+          "label": "Danh sách Ngành / Khoa (Flip)",
+          "visible": true
+        },
+        {
           "id": "category-grid",
           "type": "category-grid",
           "label": "Danh Mục (Quick links)",
@@ -114,12 +120,6 @@
           "id": "media-gallery",
           "type": "media-gallery",
           "label": "Thư Viện Hình Ảnh / Video",
-          "visible": true
-        },
-        {
-          "id": "major-list",
-          "type": "major-list",
-          "label": "Danh sách Ngành / Khoa (Flip)",
           "visible": true
         },
         {
@@ -284,5 +284,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T13:41:52.304Z"
+  "updatedAt": "2026-05-14T13:44:55.803Z"
 }
