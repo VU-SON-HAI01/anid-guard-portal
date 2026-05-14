@@ -9,13 +9,14 @@ author:
 slug: "thong-bao-moi-chao-gia-cung-cap-lop-xe-o-to-tai"
 description: "Trường Cao đẳng Đắk Lắk thông báo mời các đơn vị, nhà cung cấp có đủ năng lực tham gia chào giá cung cấp vật tư phục vụ công tác đào tạo lái xe, cụ thể như sau:"
 location: "Cơ sở 2"
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777714061/Article/Notification%28thongbao%29/008/thumbnail.jpg"
+coverImage: "/image_content/008/008_1.jpg"
 postId: "008"
-idArticleWriter: "PDT26001"
+idArticleWriter: "CMS26001"
 ---
 
 <div>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong><img style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;" src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777713856/Article/Notification%28thongbao%29/008/008_1.jpg" width="800">Tên hàng hóa:</strong>&nbsp;Lốp xe ô tô tải (Quy cách: 7.50-16, gai ngang, hiệu SRC).</span></p>
+<p><img src="/image_content/008/008_1.jpg" alt="008_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Tên hàng hóa:</strong>&nbsp;Lốp xe ô tô tải (Quy cách: 7.50-16, gai ngang, hiệu SRC).</span></p>
 <div><br><span style="font-size: 12pt;"><strong>Số lượng:</strong>&nbsp;04 cái (Hàng mới 100%, có nguồn gốc xuất xứ rõ ràng).</span></div>
 <div><br><span style="font-size: 12pt;"><strong>Địa điểm giao hàng:</strong>&nbsp;Cơ sở Tuy Hòa – Số 280 đường Trường Chinh, phường Tuy Hòa, tỉnh Đắk Lắk.</span></div>
 <div><br><span style="font-size: 12pt;"><strong>Yêu cầu báo giá:</strong>&nbsp;Giá đã bao gồm thuế, phí lắp đặt và vận chuyển. Hồ sơ báo giá phải được ký tên, đóng dấu và niêm phong trong bì thư.</span></div>
