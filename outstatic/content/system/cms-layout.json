@@ -87,6 +87,12 @@
           }
         },
         {
+          "id": "category-grid",
+          "type": "category-grid",
+          "label": "Danh Mục (Quick links)",
+          "visible": true
+        },
+        {
           "id": "stats-bar",
           "type": "stats-bar",
           "label": "Thanh Thống Kê",
@@ -96,12 +102,6 @@
           "id": "major-list",
           "type": "major-list",
           "label": "Danh sách Ngành / Khoa (Flip)",
-          "visible": true
-        },
-        {
-          "id": "category-grid",
-          "type": "category-grid",
-          "label": "Danh Mục (Quick links)",
           "visible": true
         },
         {
@@ -261,5 +261,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T00:55:23.852Z"
+  "updatedAt": "2026-05-14T01:32:13.443Z"
 }
