@@ -2,7 +2,7 @@
 title: "Giới thiệu chung"
 publishedAt: "2026-05-14T12:00:00.000Z"
 publicationDate: "2026-05-14"
-status: "draft"
+status: "published"
 author:
   name: "Admin CMS"
   picture: "/avatar/26001_1.jpg"
