@@ -2,7 +2,7 @@
 title: "TRƯỜNG CAO ĐẲNG ĐẮK LẮK: HÀNH TRÌNH HỘI TỤ VÀ KHÁT VỌNG VƯƠN TẦM"
 publishedAt: "2026-05-07T12:00:00.000Z"
 publicationDate: "2026-05-07"
-status: "published"
+status: "draft"
 author:
   name: "Admin"
   picture: "/avatar/26001_1.jpg"
