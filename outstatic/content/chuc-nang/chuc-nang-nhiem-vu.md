@@ -12,7 +12,6 @@ location: "Cơ sở chính"
 coverImage: "/image_content/024/024_1.jpg"
 postId: "024"
 idArticleWriter: "CMS26001"
-departmentCode: "PDT"
 ---
 
 <p style="text-align: justify; font-size: 12px;">&nbsp;</p>
