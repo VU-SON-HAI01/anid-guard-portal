@@ -111,15 +111,15 @@
           "visible": true
         },
         {
-          "id": "news-carousel",
-          "type": "news-carousel",
-          "label": "Tin Tức – Sự Kiện (Carousel)",
-          "visible": true
-        },
-        {
           "id": "announcement-grid",
           "type": "announcement-grid",
           "label": "Thông Báo (60/40)",
+          "visible": true
+        },
+        {
+          "id": "news-carousel",
+          "type": "news-carousel",
+          "label": "Tin Tức – Sự Kiện (Carousel)",
           "visible": true
         },
         {
@@ -267,5 +267,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T03:25:08.403Z"
+  "updatedAt": "2026-05-14T03:25:36.169Z"
 }
