@@ -272,9 +272,10 @@
       "item3Label": "Trung tâm lái xe",
       "item4Label": "Trung tâm ký túc xá",
       "item3Icon": "car-front",
-      "item4Icon": "calendar-search",
+      "item4Icon": "building-2",
       "item1Icon": "calendar-search",
-      "item2Icon": "book-type"
+      "item2Icon": "book-type",
+      "item5Label": ""
     }
   },
   "customPageTypes": [
@@ -284,5 +285,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T13:53:02.195Z"
+  "updatedAt": "2026-05-14T13:58:39.919Z"
 }
