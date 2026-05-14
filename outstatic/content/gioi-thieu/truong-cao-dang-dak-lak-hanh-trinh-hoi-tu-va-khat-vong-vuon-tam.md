@@ -11,7 +11,7 @@ description: "Trường Cao đẳng Đắk Lắk (Dak Lak College - DLC) là cơ
 location: "Cơ sở chính"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1778180895/Article/Index%28trangchinh%29/017/futdiiqsfyn7d2enms9w.jpg"
 postId: "017"
-idArticleWriter: "PDT26001"
+idArticleWriter: "CMS26001"
 ---
 
 <div><!--StartFragment--><!-- x-tinymce/html --><img src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1778180895/Article/Index%28trangchinh%29/017/futdiiqsfyn7d2enms9w.jpg" alt="futdiiqsfyn7d2enms9w" width="800"><!--EndFragment--></div>
