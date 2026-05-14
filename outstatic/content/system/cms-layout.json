@@ -99,12 +99,6 @@
           "visible": true
         },
         {
-          "id": "major-list",
-          "type": "major-list",
-          "label": "Danh sách Ngành / Khoa (Flip)",
-          "visible": true
-        },
-        {
           "id": "announcement-grid",
           "type": "announcement-grid",
           "label": "Thông Báo (60/40)",
@@ -120,6 +114,12 @@
           "id": "media-gallery",
           "type": "media-gallery",
           "label": "Thư Viện Hình Ảnh / Video",
+          "visible": true
+        },
+        {
+          "id": "major-list",
+          "type": "major-list",
+          "label": "Danh sách Ngành / Khoa (Flip)",
           "visible": true
         },
         {
@@ -283,5 +283,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T13:15:59.633Z"
+  "updatedAt": "2026-05-14T13:18:28.177Z"
 }
