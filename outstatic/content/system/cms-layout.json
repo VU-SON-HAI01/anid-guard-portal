@@ -276,6 +276,9 @@
       "item1Icon": "calendar-search",
       "item2Icon": "book-type",
       "item5Label": ""
+    },
+    "major-list": {
+      "title": "Ngành tuyển sinh theo khoa"
     }
   },
   "customPageTypes": [
@@ -285,5 +288,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T14:07:56.350Z"
+  "updatedAt": "2026-05-14T14:10:34.832Z"
 }
