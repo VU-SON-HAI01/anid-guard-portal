@@ -87,15 +87,15 @@
           }
         },
         {
-          "id": "category-grid",
-          "type": "category-grid",
-          "label": "Danh Mục (Quick links)",
-          "visible": true
-        },
-        {
           "id": "stats-bar",
           "type": "stats-bar",
           "label": "Thanh Thống Kê",
+          "visible": true
+        },
+        {
+          "id": "student-banners",
+          "type": "student-banners",
+          "label": "Học Sinh – Sinh Viên",
           "visible": true
         },
         {
@@ -105,9 +105,9 @@
           "visible": true
         },
         {
-          "id": "student-banners",
-          "type": "student-banners",
-          "label": "Học Sinh – Sinh Viên",
+          "id": "category-grid",
+          "type": "category-grid",
+          "label": "Danh Mục (Quick links)",
           "visible": true
         },
         {
@@ -261,5 +261,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T01:32:13.443Z"
+  "updatedAt": "2026-05-14T01:32:52.199Z"
 }
