@@ -255,7 +255,14 @@
     },
     "student-banners": {
       "item1Image": "/data/data/banner_hocsinh_tradiem.jpg",
-      "item1Url": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026"
+      "item1Url": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026",
+      "item2Label": "Doanh nghiệp",
+      "item3Label": "Tốt nghiệp",
+      "item4Label": "Đoàn đội",
+      "item4Image": "/data/data/doanhoisinhvien.jpg",
+      "item3Image": "/data/data/tai-hinh-letotnghiep.jpg",
+      "item2Image": "/data/data/doanhnghieptuyendung.jpg",
+      "title": "Sinh Viên"
     }
   },
   "customPageTypes": [
@@ -265,5 +272,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T12:14:55.688Z"
+  "updatedAt": "2026-05-14T12:17:50.244Z"
 }
