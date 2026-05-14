@@ -264,6 +264,10 @@
       "item2Image": "/data/data/doanhnghieptuyendung.jpg",
       "title": "Sinh Viên",
       "item1Label": "Tra điểm"
+    },
+    "category-grid": {
+      "item1Label": "Hành chính",
+      "item2Label": "Văn bản"
     }
   },
   "customPageTypes": [
@@ -273,5 +277,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T12:22:02.643Z"
+  "updatedAt": "2026-05-14T12:57:29.083Z"
 }
