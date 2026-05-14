@@ -7,13 +7,14 @@ author:
   name: "Admin CMS"
   picture: "/avatar/26001_1.jpg"
 slug: "gioi-thieu-chung"
-description: "Phòng Đào tạo – Hợp tác Quốc tế (ĐT - HTQT) là một trong 05 phòng chức năng thuộc Trường Cao đẳng Đắk Lắk, đóng vai trò tham mưu và giúp Hiệu trưởng trong công tác quản lý, điều hành các hoạt động trọng yếu của nhà trường về đào tạo, khảo thí và hợp tác quốc tế,.
-Dưới đây là các chức năng và nhiệm vụ chính của phòng được quy định trong Quy chế tổ chức, hoạt động của nhà trường:"
+description: "Phòng Đào tạo – Hợp tác Quốc tế (ĐT - HTQT) là một trong 05 phòng chức năng thuộc Trường Cao đẳng Đắk Lắk, đóng vai trò tham mưu và giúp Hiệu trưởng trong công tác quản lý, điều hành các hoạt động trọng yếu của nhà trường về đào tạo, khảo thí và hợp tác quốc tế,."
 location: "Cơ sở chính"
+coverImage: "/image_content/022/022_1.jpg"
 postId: "022"
 idArticleWriter: "CMS26001"
 ---
 
+<p><img src="/image_content/022/022_1.jpg" alt="022_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
 <p style="font-size: 12px; text-align: justify;"><span style="font-size: 12pt;"><strong>1. Quản lý Đào tạo</strong></span></p>
 <ul style="text-align: justify;" type="disc">
 <li style="font-size: 12pt;"><span style="font-size: 12pt;"><strong>Kế hoạch và Tuyển sinh:</strong> Đăng ký chỉ tiêu tuyển sinh hàng năm, xây dựng kế hoạch năm học, kế hoạch giảng dạy, và đôn đốc kiểm tra việc thực hiện công tác tuyển sinh theo quy định,.</span></li>
