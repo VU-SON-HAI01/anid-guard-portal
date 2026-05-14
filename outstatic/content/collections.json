@@ -175,25 +175,6 @@
     "thumbnail": ""
   },
   {
-    "title": "Chức năng nhiệm vụ (Copy)",
-    "name": "Chức năng nhiệm vụ (Copy)",
-    "slug": "chuc-nang-copy",
-    "path": "outstatic/content/chuc-nang-copy",
-    "imageFolder": "Article/chuc-nang-copy",
-    "children": [],
-    "parentId": "pdt",
-    "sortOrder": 7,
-    "type": "post",
-    "icon": "FileTextOutlined",
-    "description": "",
-    "seo": {
-      "title": "Chức năng nhiệm vụ",
-      "description": "",
-      "keywords": ""
-    },
-    "thumbnail": ""
-  },
-  {
     "title": "Phòng đào tạo",
     "name": "Phòng đào tạo",
     "slug": "pdt",
@@ -201,8 +182,7 @@
     "imageFolder": "Article/pdt",
     "children": [
       "gioi-thieu",
-      "chuc-nang",
-      "chuc-nang-copy"
+      "chuc-nang"
     ],
     "parentId": null,
     "sortOrder": 8,
