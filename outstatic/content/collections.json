@@ -59,6 +59,25 @@
     "thumbnail": ""
   },
   {
+    "title": "Giới thiệu",
+    "name": "Giới thiệu",
+    "slug": "gioi-thieu",
+    "path": "outstatic/content/gioi-thieu",
+    "imageFolder": "Article/gioi-thieu",
+    "children": [],
+    "parentId": "pdt",
+    "sortOrder": 0,
+    "type": "post",
+    "icon": "BellOutlined",
+    "description": "",
+    "seo": {
+      "title": "Giới thiệu",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Thông Báo",
     "name": "Thông Báo",
     "slug": "thong-bao",
@@ -142,7 +161,9 @@
     "slug": "pdt",
     "path": "outstatic/content/pdt",
     "imageFolder": "Article/pdt",
-    "children": [],
+    "children": [
+      "gioi-thieu"
+    ],
     "parentId": null,
     "sortOrder": 8,
     "type": "post",
