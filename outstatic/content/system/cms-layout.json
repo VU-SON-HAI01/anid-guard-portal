@@ -117,15 +117,15 @@
           "visible": true
         },
         {
-          "id": "media-gallery",
-          "type": "media-gallery",
-          "label": "Thư Viện Hình Ảnh / Video",
-          "visible": true
-        },
-        {
           "id": "student-banners-1778759850630",
           "type": "student-banners",
           "label": "Học Sinh – Sinh Viên",
+          "visible": true
+        },
+        {
+          "id": "media-gallery",
+          "type": "media-gallery",
+          "label": "Thư Viện Hình Ảnh / Video",
           "visible": true
         }
       ],
@@ -284,5 +284,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T13:44:55.803Z"
+  "updatedAt": "2026-05-14T13:45:35.534Z"
 }
