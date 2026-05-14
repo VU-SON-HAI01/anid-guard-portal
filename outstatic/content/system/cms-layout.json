@@ -93,12 +93,6 @@
           "visible": true
         },
         {
-          "id": "student-banners",
-          "type": "student-banners",
-          "label": "Học Sinh – Sinh Viên",
-          "visible": true
-        },
-        {
           "id": "category-grid",
           "type": "category-grid",
           "label": "Danh Mục (Quick links)",
@@ -126,6 +120,12 @@
           "id": "media-gallery",
           "type": "media-gallery",
           "label": "Thư Viện Hình Ảnh / Video",
+          "visible": true
+        },
+        {
+          "id": "student-banners-1778759850630",
+          "type": "student-banners",
+          "label": "Học Sinh – Sinh Viên",
           "visible": true
         }
       ],
@@ -261,5 +261,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T11:45:14.312Z"
+  "updatedAt": "2026-05-14T11:57:45.295Z"
 }
