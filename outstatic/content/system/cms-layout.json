@@ -266,12 +266,14 @@
       "item1Label": "Tra điểm"
     },
     "category-grid": {
-      "item1Label": "Hành chính",
-      "item2Label": "Văn bản",
+      "item1Label": "Lịch thi",
+      "item2Label": "Danh sách HSSV",
       "item3Label": "Trung tâm lái xe",
       "item4Label": "Trung tâm ký túc xá",
       "item3Icon": "car-front",
-      "item4Icon": "building-2"
+      "item4Icon": "building-2",
+      "item1Icon": "calendar-search",
+      "item2Icon": "book-type"
     }
   },
   "customPageTypes": [
@@ -281,5 +283,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T13:08:40.163Z"
+  "updatedAt": "2026-05-14T13:15:59.633Z"
 }
