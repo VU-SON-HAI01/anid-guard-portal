@@ -243,7 +243,8 @@
     "children": [
       "gioi-thieu",
       "chuc-nang",
-      "gioi-thieu-copy"
+      "gioi-thieu-copy",
+      "chuc-nang-copy"
     ],
     "parentId": null,
     "sortOrder": 8,
@@ -290,6 +291,25 @@
     "description": "",
     "seo": {
       "title": "Giới thiệu",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
+    "title": "Chức năng nhiệm vụ (Copy)",
+    "name": "Chức năng nhiệm vụ (Copy)",
+    "slug": "chuc-nang-copy",
+    "path": "outstatic/content/chuc-nang-copy",
+    "imageFolder": "Article/chuc-nang-copy",
+    "children": [],
+    "parentId": "pdt",
+    "sortOrder": 8,
+    "type": "post",
+    "icon": "FileTextOutlined",
+    "description": "",
+    "seo": {
+      "title": "Chức năng nhiệm vụ",
       "description": "",
       "keywords": ""
     },
