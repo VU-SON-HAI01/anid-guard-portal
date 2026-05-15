@@ -242,7 +242,8 @@
     "imageFolder": "Article/pdt",
     "children": [
       "gioi-thieu",
-      "chuc-nang"
+      "chuc-nang",
+      "gioi-thieu-copy"
     ],
     "parentId": null,
     "sortOrder": 8,
@@ -270,6 +271,25 @@
     "description": "",
     "seo": {
       "title": "Giới thiệu chung",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
+    "title": "Giới thiệu (Copy)",
+    "name": "Giới thiệu (Copy)",
+    "slug": "gioi-thieu-copy",
+    "path": "outstatic/content/gioi-thieu-copy",
+    "imageFolder": "Article/gioi-thieu-copy",
+    "children": [],
+    "parentId": "pdt",
+    "sortOrder": 8,
+    "type": "post",
+    "icon": "BellOutlined",
+    "description": "",
+    "seo": {
+      "title": "Giới thiệu",
       "description": "",
       "keywords": ""
     },
