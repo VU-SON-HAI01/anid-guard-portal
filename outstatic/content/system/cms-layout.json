@@ -187,7 +187,7 @@
           "id": "teacher-directory-1778702939443",
           "type": "teacher-directory",
           "label": "Đội Ngũ Giảng Viên",
-          "visible": true
+          "visible": false
         },
         {
           "id": "department-article-1778703059443",
@@ -291,5 +291,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T20:12:43.192Z"
+  "updatedAt": "2026-05-15T20:12:58.663Z"
 }
