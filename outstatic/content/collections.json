@@ -78,6 +78,25 @@
     "thumbnail": ""
   },
   {
+    "title": "Giới thiệu",
+    "name": "Giới thiệu",
+    "slug": "gioi-thieu",
+    "path": "outstatic/content/gioi-thieu",
+    "imageFolder": "Article/gioi-thieu",
+    "children": [],
+    "parentId": "pdt-copy",
+    "sortOrder": 0,
+    "type": "post",
+    "icon": "BellOutlined",
+    "description": "",
+    "seo": {
+      "title": "Giới thiệu",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Thông Báo",
     "name": "Thông Báo",
     "slug": "thong-bao",
@@ -106,6 +125,25 @@
     "imageFolder": "Article/chuc-nang",
     "children": [],
     "parentId": "pdt",
+    "sortOrder": 1,
+    "type": "post",
+    "icon": "FileTextOutlined",
+    "description": "",
+    "seo": {
+      "title": "Chức năng nhiệm vụ",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
+    "title": "Chức năng nhiệm vụ",
+    "name": "Chức năng nhiệm vụ",
+    "slug": "chuc-nang",
+    "path": "outstatic/content/chuc-nang",
+    "imageFolder": "Article/chuc-nang",
+    "children": [],
+    "parentId": "pdt-copy",
     "sortOrder": 1,
     "type": "post",
     "icon": "FileTextOutlined",
@@ -169,6 +207,28 @@
     "description": "",
     "seo": {
       "title": "Doanh nghiệp",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
+    "title": "Phòng đào tạo (Copy)",
+    "name": "Phòng đào tạo (Copy)",
+    "slug": "pdt-copy",
+    "path": "outstatic/content/pdt-copy",
+    "imageFolder": "Article/pdt-copy",
+    "children": [
+      "gioi-thieu",
+      "chuc-nang"
+    ],
+    "parentId": null,
+    "sortOrder": 7,
+    "type": "post",
+    "icon": "TrophyOutlined",
+    "description": "",
+    "seo": {
+      "title": "Phòng đào tạo",
       "description": "",
       "keywords": ""
     },
