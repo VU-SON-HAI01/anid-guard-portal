@@ -184,12 +184,6 @@
       "layout": "sidebar-left",
       "mainBlocks": [
         {
-          "id": "teacher-directory-1778702939443",
-          "type": "teacher-directory",
-          "label": "Đội Ngũ Giảng Viên",
-          "visible": false
-        },
-        {
           "id": "department-article-1778703059443",
           "type": "department-article",
           "label": "Bài Viết Khoa",
@@ -291,5 +285,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T20:13:18.710Z"
+  "updatedAt": "2026-05-15T20:13:53.506Z"
 }
