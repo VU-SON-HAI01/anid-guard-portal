@@ -231,16 +231,16 @@
     "teacher-directory-1778691853473": {
       "departmentSlug": "phong-dao-tao"
     },
-    "department-article-1778703059443": {
+    "department-article": {
       "departmentCode": "",
       "tabId": ""
     },
-    "department-sidebar-1778703072858": {
+    "department-sidebar": {
       "departmentName": "",
       "departmentCode": ""
     },
-    "teacher-directory-1778702939443": {
-      "title": "Đội ngũ giảng viên",
+    "teacher-directory": {
+      "title": "Đội ngũ cán bộ",
       "departmentSlug": "",
       "nameFontWeight": "medium",
       "nameFontSize": "xs",
@@ -281,12 +281,6 @@
     },
     "major-list": {
       "title": "Tuyển sinh Ngành học theo khoa"
-    },
-    "teacher-directory": {
-      "departmentSlug": "",
-      "columns": "3",
-      "nameFontWeight": "semibold",
-      "title": "Đội ngũ cán bộ"
     }
   },
   "customPageTypes": [
@@ -296,5 +290,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T19:40:51.352Z"
+  "updatedAt": "2026-05-15T20:09:36.647Z"
 }
