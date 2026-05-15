@@ -196,6 +196,12 @@
           "type": "department-sidebar",
           "label": "Menu Khoa/Phòng",
           "visible": true
+        },
+        {
+          "id": "teacher-directory-1778876121494",
+          "type": "teacher-directory",
+          "label": "Đội Ngũ Giảng Viên / Cán bộ",
+          "visible": true
         }
       ]
     }
@@ -285,5 +291,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T20:13:53.506Z"
+  "updatedAt": "2026-05-15T20:15:27.310Z"
 }
