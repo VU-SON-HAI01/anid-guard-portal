@@ -12,10 +12,8 @@ location: "Cơ sở chính"
 coverImage: "/image_content/024/024_1.jpg"
 postId: "024"
 idArticleWriter: "CMS26001"
-departmentCode: "PDT"
 ---
 
-<p style="text-align: justify; font-size: 12px;">&nbsp;</p>
 <div><!--StartFragment--><!-- x-tinymce/html --><img src="/image_content/024/024_1.jpg" alt="024_1" width="800"><!--EndFragment--></div>
 <div class="highlight-note"><strong>I. CHỨC NĂNG</strong></div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Phòng Đào tạo – Hợp tác Quốc tế có các chức năng tham mưu và hỗ trợ trọng yếu sau:</span></p>
