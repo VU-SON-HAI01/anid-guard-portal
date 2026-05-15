@@ -245,7 +245,8 @@
       "nameFontWeight": "medium",
       "nameFontSize": "xs",
       "columns": "3",
-      "showPhone": "false"
+      "showPhone": "false",
+      "showEyeButton": "false"
     },
     "news-carousel": {
       "dataSource": "thong-bao",
@@ -290,5 +291,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T20:10:30.480Z"
+  "updatedAt": "2026-05-15T20:11:08.775Z"
 }
