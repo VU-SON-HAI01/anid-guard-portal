@@ -188,6 +188,12 @@
           "type": "department-article",
           "label": "Bài Viết Khoa",
           "visible": true
+        },
+        {
+          "id": "teacher-directory-1778878309140",
+          "type": "teacher-directory",
+          "label": "Đội Ngũ Giảng Viên / Cán bộ",
+          "visible": true
         }
       ],
       "sidebarBlocks": [
@@ -195,12 +201,6 @@
           "id": "department-sidebar-1778703072858",
           "type": "department-sidebar",
           "label": "Menu Khoa/Phòng",
-          "visible": true
-        },
-        {
-          "id": "teacher-directory-1778876121494",
-          "type": "teacher-directory",
-          "label": "Đội Ngũ Giảng Viên / Cán bộ",
           "visible": true
         }
       ]
@@ -240,7 +240,7 @@
       "departmentCode": ""
     },
     "teacher-directory": {
-      "title": "Đội ngũ cán bộ",
+      "title": "Khoa CNTT",
       "departmentSlug": "",
       "nameFontWeight": "medium",
       "nameFontSize": "xs",
@@ -291,5 +291,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T20:15:27.310Z"
+  "updatedAt": "2026-05-15T20:52:17.580Z"
 }
