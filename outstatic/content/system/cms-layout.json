@@ -281,6 +281,9 @@
     },
     "major-list": {
       "title": "Tuyển sinh Ngành học theo khoa"
+    },
+    "teacher-directory": {
+      "departmentSlug": ""
     }
   },
   "customPageTypes": [
@@ -290,5 +293,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-14T15:20:33.792Z"
+  "updatedAt": "2026-05-15T12:26:07.295Z"
 }
