@@ -235,6 +235,25 @@
     "thumbnail": ""
   },
   {
+    "title": "Giới thiệu chung",
+    "name": "Giới thiệu chung",
+    "slug": "gioi-thieu-chung",
+    "path": "outstatic/content/gioi-thieu-chung",
+    "imageFolder": "Article/gioi-thieu-chung",
+    "children": [],
+    "parentId": null,
+    "sortOrder": 7,
+    "type": "post",
+    "icon": "BulbOutlined",
+    "description": "",
+    "seo": {
+      "title": "Giới thiệu chung",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Phòng CT HSSV & Hợp tác DN",
     "name": "Phòng CT HSSV & Hợp tác DN",
     "slug": "PCT",
@@ -253,25 +272,6 @@
     "description": "",
     "seo": {
       "title": "Phòng đào tạo",
-      "description": "",
-      "keywords": ""
-    },
-    "thumbnail": ""
-  },
-  {
-    "title": "Giới thiệu chung",
-    "name": "Giới thiệu chung",
-    "slug": "gioi-thieu-chung",
-    "path": "outstatic/content/gioi-thieu-chung",
-    "imageFolder": "Article/gioi-thieu-chung",
-    "children": [],
-    "parentId": null,
-    "sortOrder": 8,
-    "type": "post",
-    "icon": "BulbOutlined",
-    "description": "",
-    "seo": {
-      "title": "Giới thiệu chung",
       "description": "",
       "keywords": ""
     },
