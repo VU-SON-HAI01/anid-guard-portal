@@ -244,7 +244,7 @@
       "departmentSlug": "",
       "nameFontWeight": "medium",
       "nameFontSize": "xs",
-      "columns": "3",
+      "columns": "4",
       "showPhone": "false",
       "showEyeButton": "false"
     },
@@ -291,5 +291,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T21:15:09.957Z"
+  "updatedAt": "2026-05-15T21:15:37.046Z"
 }
