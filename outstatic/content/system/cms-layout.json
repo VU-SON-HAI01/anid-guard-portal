@@ -284,7 +284,9 @@
     },
     "teacher-directory": {
       "departmentSlug": "",
-      "columns": "3"
+      "columns": "3",
+      "nameFontWeight": "semibold",
+      "title": "Đội ngũ cán bộ"
     }
   },
   "customPageTypes": [
@@ -294,5 +296,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T14:33:36.431Z"
+  "updatedAt": "2026-05-15T19:40:51.352Z"
 }
