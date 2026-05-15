@@ -283,7 +283,8 @@
       "title": "Tuyển sinh Ngành học theo khoa"
     },
     "teacher-directory": {
-      "departmentSlug": ""
+      "departmentSlug": "",
+      "columns": "3"
     }
   },
   "customPageTypes": [
@@ -293,5 +294,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T12:26:07.295Z"
+  "updatedAt": "2026-05-15T14:33:36.431Z"
 }
