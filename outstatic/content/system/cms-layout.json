@@ -249,7 +249,7 @@
       "title": "Giới thiệu",
       "departmentSlug": "",
       "nameFontWeight": "medium",
-      "nameFontSize": "xs",
+      "nameFontSize": "base",
       "columns": "3",
       "showPhone": "false",
       "showEyeButton": "false"
@@ -297,5 +297,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T08:20:59.861Z"
+  "updatedAt": "2026-05-16T08:21:40.241Z"
 }
