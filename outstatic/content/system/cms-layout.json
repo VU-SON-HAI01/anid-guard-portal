@@ -126,7 +126,7 @@
           "id": "media-gallery",
           "type": "media-gallery",
           "label": "Thư Viện Hình Ảnh / Video",
-          "visible": true
+          "visible": false
         },
         {
           "id": "quick-action-bar-mp8mxk80",
@@ -315,5 +315,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T18:06:57.658Z"
+  "updatedAt": "2026-05-16T18:07:38.143Z"
 }
