@@ -250,7 +250,7 @@
       "departmentSlug": "",
       "nameFontWeight": "medium",
       "nameFontSize": "xs",
-      "columns": "4",
+      "columns": "3",
       "showPhone": "false",
       "showEyeButton": "false"
     },
@@ -297,5 +297,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-15T21:15:44.301Z"
+  "updatedAt": "2026-05-16T08:20:59.861Z"
 }
