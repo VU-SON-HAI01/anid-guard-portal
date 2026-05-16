@@ -310,7 +310,8 @@
       "autoplayDelay": 5000,
       "transitionSpeed": 2000,
       "mobileAspectRatio": "16:9",
-      "slide1MobileImage": "/data/data/banner_mobile_1.jpg"
+      "slide1MobileImage": "/data/data/banner_mobile_2_1.jpg",
+      "slide2MobileImage": "/data/data/banner_mobile_1_1.jpg"
     }
   },
   "customPageTypes": [
@@ -320,5 +321,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T21:32:43.690Z"
+  "updatedAt": "2026-05-16T21:43:29.459Z"
 }
