@@ -303,7 +303,7 @@
       "btn3Href": "https://chatgpt.com/g/g-682d326f6f1481919140b0f9a4bdf857-chuyen-gia-tu-van-cao-dang-nghe-phu-yen"
     },
     "hero-banner": {
-      "transitionEffect": "slide",
+      "transitionEffect": "coverflow",
       "slide1Image": "/data/data/banner_1b_1.jpg",
       "slide2Image": "/data/data/banner_1a_1.jpg",
       "maxWidth": "full",
@@ -320,5 +320,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T21:30:51.157Z"
+  "updatedAt": "2026-05-16T21:32:43.690Z"
 }
