@@ -133,6 +133,12 @@
           "type": "banner-ads",
           "label": "Banner Quảng cáo",
           "visible": true
+        },
+        {
+          "id": "quick-action-bar-mp8mxk80",
+          "type": "quick-action-bar",
+          "label": "Thanh Hành Động (Sticky)",
+          "visible": true
         }
       ],
       "sidebarBlocks": []
@@ -294,6 +300,10 @@
     },
     "major-list": {
       "title": "Tuyển sinh Ngành học theo khoa"
+    },
+    "quick-action-bar": {
+      "btn2Href": "https://cddaklak.phanmemdaotao.edu.vn/",
+      "btn2Label": "Đăng ký tuyển sinh"
     }
   },
   "customPageTypes": [
@@ -303,5 +313,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T17:13:59.954Z"
+  "updatedAt": "2026-05-16T17:45:06.363Z"
 }
