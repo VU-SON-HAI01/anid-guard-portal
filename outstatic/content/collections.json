@@ -84,7 +84,7 @@
     "path": "outstatic/content/gioi-thieu",
     "imageFolder": "Article/gioi-thieu",
     "children": [],
-    "parentId": "pdt-copy",
+    "parentId": "pdt",
     "sortOrder": 0,
     "type": "post",
     "icon": "BellOutlined",
@@ -143,7 +143,7 @@
     "path": "outstatic/content/chuc-nang",
     "imageFolder": "Article/chuc-nang",
     "children": [],
-    "parentId": "pdt-copy",
+    "parentId": "pdt",
     "sortOrder": 1,
     "type": "post",
     "icon": "FileTextOutlined",
@@ -215,9 +215,9 @@
   {
     "title": "Phòng đào tạo (Copy)",
     "name": "Phòng đào tạo (Copy)",
-    "slug": "pdt-copy",
-    "path": "outstatic/content/pdt-copy",
-    "imageFolder": "Article/pdt-copy",
+    "slug": "pdt",
+    "path": "outstatic/content/pdt",
+    "imageFolder": "Article/pdt",
     "children": [
       "gioi-thieu",
       "chuc-nang"
