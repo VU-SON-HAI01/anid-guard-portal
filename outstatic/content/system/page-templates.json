@@ -7,7 +7,7 @@
       "displayConditions": [
         {
           "type": "group",
-          "value": "don-vi/"
+          "value": "don-vi/pdt"
         }
       ],
       "blocks": [],
@@ -32,11 +32,18 @@
           "iconKey": "Users",
           "moduleType": "TEAM_DIRECTORY",
           "visible": true
+        },
+        {
+          "id": "co-so-vat-chat",
+          "label": "Cơ sở vật chất",
+          "iconKey": "Building2",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
         }
       ],
       "createdAt": "2026-05-16T11:51:20.566Z",
       "updatedAt": "2026-05-16T11:51:20.566Z"
     }
   ],
-  "updatedAt": "2026-05-16T11:54:05.131Z"
+  "updatedAt": "2026-05-16T11:55:20.211Z"
 }
