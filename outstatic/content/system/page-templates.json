@@ -153,7 +153,12 @@
           "label": "Đội ngũ cán bộ",
           "iconKey": "Users",
           "moduleType": "TEAM_DIRECTORY",
-          "visible": true
+          "visible": true,
+          "moduleSettings": {
+            "showPhone": false,
+            "showLeaderPhone": false,
+            "columns": 2
+          }
         },
         {
           "id": "gioi-thieu",
@@ -167,5 +172,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T14:47:16.681Z"
+  "updatedAt": "2026-05-16T14:48:44.538Z"
 }
