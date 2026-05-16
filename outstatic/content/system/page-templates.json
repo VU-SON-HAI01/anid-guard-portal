@@ -72,7 +72,11 @@
           "label": "Đội ngũ cán bộ",
           "iconKey": "Users",
           "moduleType": "TEAM_DIRECTORY",
-          "visible": true
+          "visible": true,
+          "moduleSettings": {
+            "columns": 3,
+            "title": "Đội ngũ Quản lý - Chuyên viên phòng"
+          }
         },
         {
           "id": "gioi-thieu",
@@ -160,5 +164,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T13:59:32.918Z"
+  "updatedAt": "2026-05-16T14:00:40.344Z"
 }
