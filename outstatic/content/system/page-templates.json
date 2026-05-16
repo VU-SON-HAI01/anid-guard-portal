@@ -76,7 +76,9 @@
           "visible": true,
           "moduleSettings": {
             "columns": 2,
-            "title": "Đội ngũ Quản lý - Chuyên viên phòng"
+            "title": "Đội ngũ Quản lý - Chuyên viên phòng",
+            "showPhone": false,
+            "leaderColumns": 2
           }
         },
         {
@@ -165,5 +167,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T14:46:10.319Z"
+  "updatedAt": "2026-05-16T14:46:47.910Z"
 }
