@@ -36,7 +36,58 @@
       ],
       "createdAt": "2026-05-16T11:51:20.566Z",
       "updatedAt": "2026-05-16T11:51:20.566Z"
+    },
+    {
+      "id": "minisite-khoa-copy-6p9oeeti",
+      "name": "Khoa",
+      "templateType": "MINISITE_LAYOUT",
+      "displayConditions": [
+        {
+          "type": "group",
+          "value": "khoa"
+        }
+      ],
+      "blocks": [],
+      "tabs": [
+        {
+          "id": "doi-ngu",
+          "label": "Đội ngũ cán bộ",
+          "iconKey": "Users",
+          "moduleType": "TEAM_DIRECTORY",
+          "visible": true
+        },
+        {
+          "id": "gioi-thieu",
+          "label": "Giới thiệu",
+          "iconKey": "BookOpen",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "chuc-nang",
+          "label": "Chức năng nhiệm vụ",
+          "iconKey": "ListChecks",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "co-so-vat-chat",
+          "label": "Cơ sở vật chất",
+          "iconKey": "Building2",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "nckh",
+          "label": "Hoạt động NCKH",
+          "iconKey": "FlaskConical",
+          "moduleType": "ARTICLE_LIST",
+          "visible": true
+        }
+      ],
+      "createdAt": "2026-05-16T13:31:16.672Z",
+      "updatedAt": "2026-05-16T13:31:16.672Z"
     }
   ],
-  "updatedAt": "2026-05-16T13:30:46.993Z"
+  "updatedAt": "2026-05-16T13:32:27.143Z"
 }
