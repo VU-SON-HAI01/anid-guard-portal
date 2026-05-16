@@ -52,28 +52,14 @@
           "label": "Hoạt động NCKH",
           "iconKey": "FlaskConical",
           "moduleType": "ARTICLE_LIST",
-          "visible": true
+          "visible": false
         },
         {
           "id": "tin-tuc",
           "label": "Các thông báo",
           "iconKey": "Newspaper",
           "moduleType": "ARTICLE_LIST",
-          "visible": true
-        },
-        {
-          "id": "thong-bao",
-          "label": "Tài liệu / Biểu mẫu",
-          "iconKey": "BellRing",
-          "moduleType": "ARTICLE_LIST",
-          "visible": true
-        },
-        {
-          "id": "ew",
-          "label": "ew",
-          "iconKey": "FlaskConical",
-          "moduleType": "SINGLE_ARTICLE",
-          "visible": true
+          "visible": false
         }
       ],
       "createdAt": "2026-05-16T13:39:21.306Z",
@@ -197,5 +183,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T16:31:55.595Z"
+  "updatedAt": "2026-05-16T19:13:39.846Z"
 }
