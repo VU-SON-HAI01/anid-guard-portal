@@ -309,7 +309,8 @@
       "maxWidth": "full",
       "autoplayDelay": 5000,
       "transitionSpeed": 2000,
-      "mobileAspectRatio": "16:9"
+      "mobileAspectRatio": "16:9",
+      "slide1MobileImage": "/data/data/banner_mobile_1.jpg"
     }
   },
   "customPageTypes": [
@@ -319,5 +320,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T20:51:20.277Z"
+  "updatedAt": "2026-05-16T21:30:51.157Z"
 }
