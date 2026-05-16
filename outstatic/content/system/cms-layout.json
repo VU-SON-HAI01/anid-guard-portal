@@ -306,7 +306,7 @@
       "transitionEffect": "slide",
       "slide1Image": "/data/data/banner_1b_1.jpg",
       "slide2Image": "/data/data/banner_1a_1.jpg",
-      "maxWidth": "1280px"
+      "maxWidth": "full"
     }
   },
   "customPageTypes": [
@@ -316,5 +316,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T19:19:26.181Z"
+  "updatedAt": "2026-05-16T19:19:54.585Z"
 }
