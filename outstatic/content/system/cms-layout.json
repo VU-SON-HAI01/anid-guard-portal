@@ -300,11 +300,12 @@
       "btn2Label": "Đăng ký tuyển sinh",
       "searchLabel": "Học sinh tra cứu điểm",
       "btn1Label": "Thông tin tuyển sinh",
-      "btn3Label": "Đăng ký học lái xe",
+      "btn3Label": "Giải đáp online",
       "btn4Label": "Học phí & thủ tục nhập học",
-      "searchHref": "",
+      "searchHref": "https://cddaklak.phanmemdaotao.edu.vn/",
       "btn1Href": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026",
-      "btn4Href": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-tin-lien-he-tu-van-va-mau-dang-ky-tuyen-sinh"
+      "btn4Href": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-tin-lien-he-tu-van-va-mau-dang-ky-tuyen-sinh",
+      "btn3Href": "https://chatgpt.com/g/g-682d326f6f1481919140b0f9a4bdf857-chuyen-gia-tu-van-cao-dang-nghe-phu-yen"
     }
   },
   "customPageTypes": [
@@ -314,5 +315,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T18:04:58.264Z"
+  "updatedAt": "2026-05-16T18:06:25.954Z"
 }
