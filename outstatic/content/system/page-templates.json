@@ -13,6 +13,18 @@
       "blocks": [],
       "tabs": [
         {
+          "id": "doi-ngu",
+          "label": "Đội ngũ cán bộ",
+          "iconKey": "Users",
+          "moduleType": "TEAM_DIRECTORY",
+          "visible": true,
+          "moduleSettings": {
+            "title": "Đội ngũ cán bộ",
+            "columns": 4,
+            "showPhone": false
+          }
+        },
+        {
           "id": "gioi-thieu",
           "label": "Giới thiệu",
           "iconKey": "BookOpen",
@@ -25,18 +37,6 @@
           "iconKey": "ListChecks",
           "moduleType": "SINGLE_ARTICLE",
           "visible": true
-        },
-        {
-          "id": "doi-ngu",
-          "label": "Đội ngũ cán bộ",
-          "iconKey": "Users",
-          "moduleType": "TEAM_DIRECTORY",
-          "visible": true,
-          "moduleSettings": {
-            "title": "Đội ngũ cán bộ",
-            "columns": 4,
-            "showPhone": false
-          }
         },
         {
           "id": "co-so-vat-chat",
@@ -174,5 +174,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T14:50:31.873Z"
+  "updatedAt": "2026-05-16T14:51:22.894Z"
 }
