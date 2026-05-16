@@ -64,6 +64,13 @@
       "blocks": [],
       "tabs": [
         {
+          "id": "doi-ngu",
+          "label": "Đội ngũ cán bộ",
+          "iconKey": "Users",
+          "moduleType": "TEAM_DIRECTORY",
+          "visible": true
+        },
+        {
           "id": "gioi-thieu",
           "label": "Giới thiệu",
           "iconKey": "BookOpen",
@@ -75,13 +82,6 @@
           "label": "Chức năng nhiệm vụ",
           "iconKey": "ListChecks",
           "moduleType": "SINGLE_ARTICLE",
-          "visible": true
-        },
-        {
-          "id": "doi-ngu",
-          "label": "Đội ngũ cán bộ",
-          "iconKey": "Users",
-          "moduleType": "TEAM_DIRECTORY",
           "visible": true
         }
       ],
@@ -156,5 +156,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T13:43:22.868Z"
+  "updatedAt": "2026-05-16T13:57:21.066Z"
 }
