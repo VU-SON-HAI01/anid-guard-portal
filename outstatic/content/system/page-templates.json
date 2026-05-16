@@ -19,9 +19,11 @@
           "moduleType": "TEAM_DIRECTORY",
           "visible": true,
           "moduleSettings": {
-            "title": "Đội ngũ cán bộ",
-            "columns": 4,
-            "showPhone": false
+            "title": "Đội ngũ Giảng viên - Thư ký khoa",
+            "columns": 3,
+            "showPhone": false,
+            "leaderColumns": 2,
+            "leaderSectionTitle": "Quản lý Khoa"
           }
         },
         {
@@ -174,5 +176,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T14:51:22.894Z"
+  "updatedAt": "2026-05-16T14:53:14.700Z"
 }
