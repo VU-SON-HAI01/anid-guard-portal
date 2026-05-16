@@ -129,12 +129,6 @@
           "visible": true
         },
         {
-          "id": "banner-ads-1778951635205",
-          "type": "banner-ads",
-          "label": "Banner Quảng cáo",
-          "visible": true
-        },
-        {
           "id": "quick-action-bar-mp8mxk80",
           "type": "quick-action-bar",
           "label": "Thanh Hành Động (Sticky)",
@@ -313,5 +307,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T17:45:06.363Z"
+  "updatedAt": "2026-05-16T17:46:32.956Z"
 }
