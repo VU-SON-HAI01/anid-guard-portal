@@ -75,7 +75,7 @@
           "moduleType": "TEAM_DIRECTORY",
           "visible": true,
           "moduleSettings": {
-            "columns": 2,
+            "columns": 4,
             "title": "Đội ngũ Quản lý - Chuyên viên phòng",
             "showPhone": false,
             "leaderColumns": 2
@@ -167,5 +167,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T14:46:47.910Z"
+  "updatedAt": "2026-05-16T14:47:05.260Z"
 }
