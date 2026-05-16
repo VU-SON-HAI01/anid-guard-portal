@@ -127,6 +127,12 @@
           "type": "media-gallery",
           "label": "Thư Viện Hình Ảnh / Video",
           "visible": true
+        },
+        {
+          "id": "banner-ads-1778951635205",
+          "type": "banner-ads",
+          "label": "Banner Quảng cáo",
+          "visible": true
         }
       ],
       "sidebarBlocks": []
@@ -297,5 +303,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T08:40:01.341Z"
+  "updatedAt": "2026-05-16T17:13:59.954Z"
 }
