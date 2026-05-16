@@ -1,45 +1,8 @@
 {
   "templates": [
     {
-      "id": "minisite-khoa",
-      "name": "Phòng ban",
-      "templateType": "MINISITE_LAYOUT",
-      "displayConditions": [
-        {
-          "type": "group",
-          "value": "phong"
-        }
-      ],
-      "blocks": [],
-      "tabs": [
-        {
-          "id": "doi-ngu",
-          "label": "Đội ngũ cán bộ",
-          "iconKey": "Users",
-          "moduleType": "TEAM_DIRECTORY",
-          "visible": true
-        },
-        {
-          "id": "gioi-thieu",
-          "label": "Giới thiệu",
-          "iconKey": "BookOpen",
-          "moduleType": "SINGLE_ARTICLE",
-          "visible": true
-        },
-        {
-          "id": "chuc-nang",
-          "label": "Chức năng nhiệm vụ",
-          "iconKey": "ListChecks",
-          "moduleType": "SINGLE_ARTICLE",
-          "visible": true
-        }
-      ],
-      "createdAt": "2026-05-16T11:51:20.566Z",
-      "updatedAt": "2026-05-16T11:51:20.566Z"
-    },
-    {
-      "id": "minisite-khoa-copy-6p9oeeti",
-      "name": "Khoa",
+      "id": "minisite-on-vi-khoa-5lkl",
+      "name": "Đơn vị Khoa",
       "templateType": "MINISITE_LAYOUT",
       "displayConditions": [
         {
@@ -50,12 +13,42 @@
       "blocks": [],
       "tabs": [
         {
+          "id": "gioi-thieu",
+          "label": "Giới thiệu",
+          "iconKey": "BookOpen",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "chuc-nang",
+          "label": "Chức năng nhiệm vụ",
+          "iconKey": "ListChecks",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
           "id": "doi-ngu",
           "label": "Đội ngũ cán bộ",
           "iconKey": "Users",
           "moduleType": "TEAM_DIRECTORY",
           "visible": true
-        },
+        }
+      ],
+      "createdAt": "2026-05-16T13:39:21.306Z",
+      "updatedAt": "2026-05-16T13:39:21.306Z"
+    },
+    {
+      "id": "minisite-on-vi-phong-o98g",
+      "name": "Đơn vị phòng",
+      "templateType": "MINISITE_LAYOUT",
+      "displayConditions": [
+        {
+          "type": "group",
+          "value": "phong"
+        }
+      ],
+      "blocks": [],
+      "tabs": [
         {
           "id": "gioi-thieu",
           "label": "Giới thiệu",
@@ -71,23 +64,90 @@
           "visible": true
         },
         {
-          "id": "co-so-vat-chat",
-          "label": "Cơ sở vật chất",
-          "iconKey": "Building2",
+          "id": "doi-ngu",
+          "label": "Đội ngũ cán bộ",
+          "iconKey": "Users",
+          "moduleType": "TEAM_DIRECTORY",
+          "visible": true
+        }
+      ],
+      "createdAt": "2026-05-16T13:39:35.971Z",
+      "updatedAt": "2026-05-16T13:39:35.971Z"
+    },
+    {
+      "id": "minisite-on-vi-trung-tam-lyl0",
+      "name": "Đơn vị Trung tâm",
+      "templateType": "MINISITE_LAYOUT",
+      "displayConditions": [
+        {
+          "type": "group",
+          "value": "trung-tam"
+        }
+      ],
+      "blocks": [],
+      "tabs": [
+        {
+          "id": "gioi-thieu",
+          "label": "Giới thiệu",
+          "iconKey": "BookOpen",
           "moduleType": "SINGLE_ARTICLE",
           "visible": true
         },
         {
-          "id": "nckh",
-          "label": "Hoạt động NCKH",
-          "iconKey": "FlaskConical",
-          "moduleType": "ARTICLE_LIST",
+          "id": "chuc-nang",
+          "label": "Chức năng nhiệm vụ",
+          "iconKey": "ListChecks",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "doi-ngu",
+          "label": "Đội ngũ cán bộ",
+          "iconKey": "Users",
+          "moduleType": "TEAM_DIRECTORY",
           "visible": true
         }
       ],
-      "createdAt": "2026-05-16T13:31:16.672Z",
-      "updatedAt": "2026-05-16T13:31:16.672Z"
+      "createdAt": "2026-05-16T13:40:28.830Z",
+      "updatedAt": "2026-05-16T13:40:28.830Z"
+    },
+    {
+      "id": "minisite-ban-giam-hieu-5r2h",
+      "name": "Ban giám hiệu",
+      "templateType": "MINISITE_LAYOUT",
+      "displayConditions": [
+        {
+          "type": "group",
+          "value": "ban"
+        }
+      ],
+      "blocks": [],
+      "tabs": [
+        {
+          "id": "gioi-thieu",
+          "label": "Giới thiệu",
+          "iconKey": "BookOpen",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "chuc-nang",
+          "label": "Chức năng nhiệm vụ",
+          "iconKey": "ListChecks",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "doi-ngu",
+          "label": "Đội ngũ cán bộ",
+          "iconKey": "Users",
+          "moduleType": "TEAM_DIRECTORY",
+          "visible": true
+        }
+      ],
+      "createdAt": "2026-05-16T13:40:39.738Z",
+      "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T13:34:48.986Z"
+  "updatedAt": "2026-05-16T13:42:14.054Z"
 }
