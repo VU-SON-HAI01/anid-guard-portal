@@ -1,0 +1,37 @@
+{
+  "templates": [
+    {
+      "id": "minisite-khoa",
+      "name": "Khoa",
+      "templateType": "MINISITE_LAYOUT",
+      "displayConditions": [],
+      "blocks": [],
+      "tabs": [
+        {
+          "id": "gioi-thieu",
+          "label": "Giới thiệu",
+          "iconKey": "BookOpen",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "chuc-nang",
+          "label": "Chức năng nhiệm vụ",
+          "iconKey": "ListChecks",
+          "moduleType": "SINGLE_ARTICLE",
+          "visible": true
+        },
+        {
+          "id": "doi-ngu",
+          "label": "Đội ngũ cán bộ",
+          "iconKey": "Users",
+          "moduleType": "TEAM_DIRECTORY",
+          "visible": true
+        }
+      ],
+      "createdAt": "2026-05-16T11:51:20.566Z",
+      "updatedAt": "2026-05-16T11:51:20.566Z"
+    }
+  ],
+  "updatedAt": "2026-05-16T11:53:17.574Z"
+}
