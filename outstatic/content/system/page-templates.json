@@ -31,7 +31,11 @@
           "label": "Đội ngũ cán bộ",
           "iconKey": "Users",
           "moduleType": "TEAM_DIRECTORY",
-          "visible": true
+          "visible": true,
+          "moduleSettings": {
+            "title": "Đội ngũ cán bộ",
+            "columns": 2
+          }
         },
         {
           "id": "co-so-vat-chat",
@@ -156,5 +160,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T13:57:21.066Z"
+  "updatedAt": "2026-05-16T13:59:32.918Z"
 }
