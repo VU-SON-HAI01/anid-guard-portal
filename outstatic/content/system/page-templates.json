@@ -34,7 +34,7 @@
           "visible": true,
           "moduleSettings": {
             "title": "Đội ngũ cán bộ",
-            "columns": 2,
+            "columns": 4,
             "showPhone": false
           }
         },
@@ -165,5 +165,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T14:45:42.719Z"
+  "updatedAt": "2026-05-16T14:46:10.319Z"
 }
