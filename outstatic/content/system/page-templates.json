@@ -176,12 +176,12 @@
           "label": "Giới thiệu",
           "iconKey": "BookOpen",
           "moduleType": "SINGLE_ARTICLE",
-          "visible": true
+          "visible": false
         }
       ],
       "createdAt": "2026-05-16T13:40:39.738Z",
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T19:13:39.846Z"
+  "updatedAt": "2026-05-16T19:13:56.475Z"
 }
