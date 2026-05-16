@@ -157,7 +157,8 @@
           "moduleSettings": {
             "showPhone": false,
             "showLeaderPhone": false,
-            "columns": 2
+            "columns": 2,
+            "leaderSectionTitle": "BAN GIÁM HIỆU"
           }
         },
         {
@@ -172,5 +173,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T14:49:03.848Z"
+  "updatedAt": "2026-05-16T14:49:22.989Z"
 }
