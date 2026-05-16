@@ -79,12 +79,7 @@
           "id": "hero-banner",
           "type": "hero-banner",
           "label": "Banner Slider (Hero)",
-          "visible": true,
-          "locked": true,
-          "badge": {
-            "text": "Bắt buộc",
-            "color": "navy"
-          }
+          "visible": true
         },
         {
           "id": "stats-bar",
@@ -320,5 +315,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T18:56:14.654Z"
+  "updatedAt": "2026-05-16T19:18:31.108Z"
 }
