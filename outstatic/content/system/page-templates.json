@@ -158,7 +158,8 @@
             "showPhone": false,
             "showLeaderPhone": false,
             "columns": 2,
-            "leaderSectionTitle": "BAN GIÁM HIỆU"
+            "leaderSectionTitle": "HIỆU TRƯỞNG - PHÓ HIỆU TRƯỞNG",
+            "title": "THÀNH VIÊN BAN GIÁM HIỆU"
           }
         },
         {
@@ -173,5 +174,5 @@
       "updatedAt": "2026-05-16T13:40:39.738Z"
     }
   ],
-  "updatedAt": "2026-05-16T14:49:22.989Z"
+  "updatedAt": "2026-05-16T14:50:31.873Z"
 }
