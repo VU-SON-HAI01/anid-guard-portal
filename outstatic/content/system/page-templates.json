@@ -13,6 +13,13 @@
       "blocks": [],
       "tabs": [
         {
+          "id": "doi-ngu",
+          "label": "Đội ngũ cán bộ",
+          "iconKey": "Users",
+          "moduleType": "TEAM_DIRECTORY",
+          "visible": true
+        },
+        {
           "id": "gioi-thieu",
           "label": "Giới thiệu",
           "iconKey": "BookOpen",
@@ -25,25 +32,11 @@
           "iconKey": "ListChecks",
           "moduleType": "SINGLE_ARTICLE",
           "visible": true
-        },
-        {
-          "id": "doi-ngu",
-          "label": "Đội ngũ cán bộ",
-          "iconKey": "Users",
-          "moduleType": "TEAM_DIRECTORY",
-          "visible": true
-        },
-        {
-          "id": "co-so-vat-chat",
-          "label": "Cơ sở vật chất",
-          "iconKey": "Building2",
-          "moduleType": "SINGLE_ARTICLE",
-          "visible": true
         }
       ],
       "createdAt": "2026-05-16T11:51:20.566Z",
       "updatedAt": "2026-05-16T11:51:20.566Z"
     }
   ],
-  "updatedAt": "2026-05-16T13:26:52.686Z"
+  "updatedAt": "2026-05-16T13:27:47.069Z"
 }
