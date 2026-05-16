@@ -301,7 +301,10 @@
       "searchLabel": "Học sinh tra cứu điểm",
       "btn1Label": "Thông tin tuyển sinh",
       "btn3Label": "Đăng ký học lái xe",
-      "btn4Label": "Học phí & thủ tục nhập học"
+      "btn4Label": "Học phí & thủ tục nhập học",
+      "searchHref": "",
+      "btn1Href": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026",
+      "btn4Href": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-tin-lien-he-tu-van-va-mau-dang-ky-tuyen-sinh"
     }
   },
   "customPageTypes": [
@@ -311,5 +314,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T17:49:08.504Z"
+  "updatedAt": "2026-05-16T18:04:58.264Z"
 }
