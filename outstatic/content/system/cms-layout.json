@@ -288,7 +288,13 @@
       "item5Label": ""
     },
     "major-list": {
-      "title": "Tuyển sinh Ngành học theo khoa"
+      "title": "Tuyển sinh Ngành học theo khoa",
+      "item1Image": "/data/data/khoa_6.jpg",
+      "item2Image": "/data/data/khoa_5.jpg",
+      "item3Image": "/data/data/khoa_4.jpg",
+      "item4Image": "/data/data/khoa_3.jpg",
+      "item5Image": "/data/data/khoa_2.jpg",
+      "item6Image": "/data/data/khoa_1.jpg"
     },
     "quick-action-bar": {
       "btn2Href": "https://cddaklak.phanmemdaotao.edu.vn/",
@@ -321,5 +327,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-16T21:43:29.459Z"
+  "updatedAt": "2026-05-17T08:06:04.991Z"
 }
