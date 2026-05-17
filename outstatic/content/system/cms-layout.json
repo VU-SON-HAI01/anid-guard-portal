@@ -326,7 +326,7 @@
       "slide2MobileImage": "/data/data/banner_mobile_1_1.jpg"
     },
     "banner-note": {
-      "theme": "blue",
+      "theme": "amber",
       "perspective": 1200,
       "tiltX": 4,
       "tiltY": -18,
@@ -390,5 +390,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T13:10:50.748Z"
+  "updatedAt": "2026-05-17T13:11:49.060Z"
 }
