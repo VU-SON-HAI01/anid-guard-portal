@@ -326,8 +326,8 @@
       "slide2MobileImage": "/data/data/banner_mobile_1_1.jpg"
     },
     "banner-note": {
-      "theme": "blue",
-      "perspective": 1850,
+      "theme": "emerald",
+      "perspective": 2000,
       "tiltX": 5,
       "tiltY": -2,
       "cardScale": 1.8,
@@ -344,8 +344,8 @@
       "bannerCtaSize": 11,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": -349,
-      "note1PosY": -244,
+      "note1PosX": 77,
+      "note1PosY": -261,
       "note1MiniPosX": -307,
       "note1MiniPosY": -207,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -388,
-      "note2PosY": -247,
+      "note2PosX": -763,
+      "note2PosY": -254,
       "note2MiniPosX": -124,
       "note2MiniPosY": -69,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": -311,
-      "note3PosY": -244,
+      "note3PosX": -351,
+      "note3PosY": -255,
       "note3MiniPosX": -494,
       "note3MiniPosY": -24,
       "note3Name": "Lớp ngắn hạn thường xuyên",
@@ -452,5 +452,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T18:59:26.887Z"
+  "updatedAt": "2026-05-17T19:00:39.713Z"
 }
