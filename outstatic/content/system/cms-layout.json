@@ -344,8 +344,8 @@
       "bannerCtaSize": 11,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": 11,
-      "note1PosY": -224,
+      "note1PosX": -86,
+      "note1PosY": -232,
       "note1MiniPosX": -663,
       "note1MiniPosY": 41,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -797,
-      "note2PosY": -226,
+      "note2PosX": -855,
+      "note2PosY": -236,
       "note2MiniPosX": -221,
       "note2MiniPosY": 25,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": -421,
-      "note3PosY": -217,
+      "note3PosX": -470,
+      "note3PosY": -239,
       "note3MiniPosX": -413,
       "note3MiniPosY": -187,
       "note3Name": "Lớp ngắn hạn",
@@ -452,5 +452,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T19:20:54.533Z"
+  "updatedAt": "2026-05-17T19:21:53.424Z"
 }
