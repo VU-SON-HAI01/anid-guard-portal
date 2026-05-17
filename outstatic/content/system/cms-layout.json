@@ -82,6 +82,12 @@
           "visible": false
         },
         {
+          "id": "banner-note-mp9q8xfr",
+          "type": "banner-note",
+          "label": "Banner Note 3D",
+          "visible": true
+        },
+        {
           "id": "stats-bar",
           "type": "stats-bar",
           "label": "Thanh Thống Kê",
@@ -380,5 +386,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T11:52:03.065Z"
+  "updatedAt": "2026-05-17T12:04:15.482Z"
 }
