@@ -330,7 +330,7 @@
       "perspective": 1200,
       "tiltX": 4,
       "tiltY": -18,
-      "cardScale": 1.4,
+      "cardScale": 1.92,
       "bannerTitle": "Thông tin tuyển sinh",
       "bannerSubtitle": "Cao Đẳng Đắk Lắk",
       "bannerHighlight": "DAK LAK COLLEGE",
@@ -378,7 +378,7 @@
       "footerStat3Value": "100%",
       "footerStat3Label": "Học xong được giới thiệu việc làm",
       "baseHeadingSize": 52,
-      "baseNoteScale": 80,
+      "baseNoteScale": 110,
       "bannerTitleSize": 25,
       "bannerSubtitleSize": 32,
       "bannerHighlightSize": 25,
@@ -434,5 +434,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T16:07:14.114Z"
+  "updatedAt": "2026-05-17T16:07:46.910Z"
 }
