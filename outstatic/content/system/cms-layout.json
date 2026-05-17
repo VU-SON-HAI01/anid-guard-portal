@@ -79,7 +79,7 @@
           "id": "hero-banner-mp9pqyh4",
           "type": "hero-banner",
           "label": "Banner Slider (Hero)",
-          "visible": true
+          "visible": false
         },
         {
           "id": "stats-bar",
@@ -380,5 +380,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T11:51:00.962Z"
+  "updatedAt": "2026-05-17T11:52:03.065Z"
 }
