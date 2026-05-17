@@ -364,10 +364,10 @@
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
       "note2Title": "TUYỂN SINH HỆ CAO ĐẲNG CHÍNH QUY",
       "note2Subtitle": "Miễn 100% học phí đăng ký Trung cấp",
-      "note2Stat1Value": "1200+ Chỉ tiêu",
-      "note2Stat1Label": "Toàn khóa 2026",
-      "note2Stat2Value": "24 NGÀNH",
-      "note2Stat2Label": "Cao đẳng",
+      "note2Stat1Value": "2.705",
+      "note2Stat1Label": "Chỉ tiêu",
+      "note2Stat2Value": "34 NGÀNH",
+      "note2Stat2Label": "Trung cấp - Cao đẳng",
       "note2Tag1": "Công nghệ Ô tô",
       "note2Tag2": "Điện công nghiệp",
       "note2Tag3": "Chế biến món ăn",
@@ -401,5 +401,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T15:00:07.370Z"
+  "updatedAt": "2026-05-17T15:04:15.527Z"
 }
