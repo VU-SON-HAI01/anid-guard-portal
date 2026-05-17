@@ -311,7 +311,7 @@
     "hero-banner": {
       "transitionEffect": "coverflow",
       "slide1Image": "/data/data/banner_1b_1.jpg",
-      "slide2Image": "/data/data/banner_1a_1.jpg",
+      "slide2Image": "/data/data/banner_mobile_2_1.jpg",
       "maxWidth": "full",
       "autoplayDelay": 5000,
       "transitionSpeed": 2000,
@@ -327,5 +327,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T08:06:04.991Z"
+  "updatedAt": "2026-05-17T08:08:09.887Z"
 }
