@@ -380,7 +380,7 @@
       "textScale2190": 120,
       "textScale1920": 100,
       "textScale1366": 80,
-      "textScale430": 50
+      "textScale430": 30
     }
   },
   "customPageTypes": [
@@ -390,5 +390,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T12:49:53.303Z"
+  "updatedAt": "2026-05-17T12:50:55.501Z"
 }
