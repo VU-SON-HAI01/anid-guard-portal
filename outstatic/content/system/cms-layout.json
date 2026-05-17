@@ -350,7 +350,7 @@
       "note1Stat2Value": "34",
       "note1Stat2Label": "Ngành",
       "note1Stat3Value": "94%",
-      "note1Stat3Label": "Việc làm",
+      "note1Stat3Label": "Có việc làm",
       "note1Task1Label": "Đăng ký tuyển sinh",
       "note1Task1Status": "pending",
       "note1Task2Label": "Xác nhận đăng ký thành công",
@@ -377,6 +377,13 @@
       "footerStat2Label": "HSSV đang học",
       "footerStat3Value": "100%",
       "footerStat3Label": "Học xong được giới thiệu việc làm",
+      "baseHeadingSize": 52,
+      "baseNoteScale": 100,
+      "bannerTitleSize": 25,
+      "bannerSubtitleSize": 32,
+      "bannerHighlightSize": 25,
+      "bannerDescSize": 12,
+      "bannerCtaSize": 11,
       "textScale2190": 120,
       "textScale1920": 100,
       "textScale1366": 80,
@@ -394,5 +401,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T13:18:20.829Z"
+  "updatedAt": "2026-05-17T14:55:53.246Z"
 }
