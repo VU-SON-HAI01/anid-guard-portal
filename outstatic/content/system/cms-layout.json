@@ -339,9 +339,9 @@
       "bannerCtaUrl": "#",
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": -50,
-      "note1PosY": -20,
-      "note1MiniPosX": 140,
+      "note1PosX": -200,
+      "note1PosY": -116,
+      "note1MiniPosX": 68,
       "note1MiniPosY": -120,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
       "note1HeaderYear": "NĂM HỌC MỚI 2026 - 2027",
@@ -357,10 +357,10 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": 60,
-      "note2PosY": 40,
-      "note2MiniPosX": 140,
-      "note2MiniPosY": -10,
+      "note2PosX": -32,
+      "note2PosY": -71,
+      "note2MiniPosX": 116,
+      "note2MiniPosY": -18,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
       "note2Title": "TUYỂN SINH HỆ CAO ĐẲNG CHÍNH QUY",
       "note2Subtitle": "Miễn 100% học phí đăng ký Trung cấp",
@@ -390,5 +390,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T13:08:46.501Z"
+  "updatedAt": "2026-05-17T13:10:45.778Z"
 }
