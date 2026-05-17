@@ -331,15 +331,15 @@
       "tiltX": -2,
       "tiltY": 22,
       "cardScale": 1.18,
-      "bannerTitle": "Đăng ký tuyển sinh",
+      "bannerTitle": "Trung cấp - Cao đẳng",
       "bannerSubtitle": "Tin tức - thông báo",
-      "bannerHighlight": "Thông tin nhà trường",
+      "bannerHighlight": "Đăng ký tuyển sinh online",
       "bannerDesc": "Cổng thông tin điện tử nhà trường - Giới thiệu về nhà trường, Cung cấp thông tin tuyển sinh, Đăng ký tuyển sinh",
       "bannerCtaLabel": "Xem Thông báo tuyển sinh",
       "bannerCtaUrl": "#",
       "bannerTitleSize": 26,
-      "bannerSubtitleSize": 31,
-      "bannerHighlightSize": 25,
+      "bannerSubtitleSize": 33,
+      "bannerHighlightSize": 24,
       "bannerDescSize": 12,
       "bannerCtaSize": 10,
       "note1Enabled": true,
@@ -427,17 +427,17 @@
         "note3",
         "note1"
       ],
-      "footerStat1Value": "34",
+      "footerStat1Value": "34+",
       "footerStat1Label": "Ngành học",
       "footerStat2Value": "2809",
       "footerStat2Label": "HSSV đang học",
-      "footerStat3Value": "100%",
-      "footerStat3Label": "Học xong được giới thiệu việc làm",
+      "footerStat3Value": "4",
+      "footerStat3Label": "cớ sơ học tập",
       "baseHeadingSize": 53,
       "baseNoteScale": 80,
       "cardOpacity": 90,
       "bannerVersionTag": "Tương tác trực tiếp với các ghi chú bên cạnh >>",
-      "footerStatSize": 13,
+      "footerStatSize": 16,
       "textScale2190": 120,
       "textScale1920": 100,
       "textScale1366": 80,
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T20:43:14.630Z"
+  "updatedAt": "2026-05-17T20:47:56.331Z"
 }
