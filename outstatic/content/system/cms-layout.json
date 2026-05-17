@@ -436,7 +436,7 @@
       "baseHeadingSize": 53,
       "baseNoteScale": 80,
       "cardOpacity": 90,
-      "bannerVersionTag": "Tương tác trực tiếp với các ghi chú bên cạnh",
+      "bannerVersionTag": "Tương tác trực tiếp với các ghi chú bên cạnh >>",
       "footerStatSize": 13,
       "textScale2190": 120,
       "textScale1920": 100,
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T20:42:05.698Z"
+  "updatedAt": "2026-05-17T20:42:18.739Z"
 }
