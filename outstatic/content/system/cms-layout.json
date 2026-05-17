@@ -330,7 +330,7 @@
       "perspective": 1100,
       "tiltX": 0,
       "tiltY": -13,
-      "cardScale": 1.81,
+      "cardScale": 1.86,
       "bannerTitle": "Thông tin tuyển sinh",
       "bannerSubtitle": "Cao Đẳng Đắk Lắk",
       "bannerHighlight": "DAK LAK COLLEGE",
@@ -346,8 +346,8 @@
       "note1DefaultMinimized": false,
       "note1PosX": -78,
       "note1PosY": -252,
-      "note1MiniPosX": -307,
-      "note1MiniPosY": -207,
+      "note1MiniPosX": -336,
+      "note1MiniPosY": -190,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
       "note1HeaderYear": "NĂM HỌC MỚI 2026 - 2027",
       "note1Stat1Value": "2.705",
@@ -364,8 +364,8 @@
       "note2DefaultMinimized": false,
       "note2PosX": -1006,
       "note2PosY": -248,
-      "note2MiniPosX": -124,
-      "note2MiniPosY": -69,
+      "note2MiniPosX": -85,
+      "note2MiniPosY": -31,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
       "note2Title": "TUYỂN SINH HỆ CAO ĐẲNG CHÍNH QUY",
       "note2Subtitle": "Miễn 100% học phí đăng ký Trung cấp",
@@ -384,8 +384,8 @@
       "note3DefaultMinimized": false,
       "note3PosX": -533,
       "note3PosY": -252,
-      "note3MiniPosX": -494,
-      "note3MiniPosY": -24,
+      "note3MiniPosX": -554,
+      "note3MiniPosY": -16,
       "note3Name": "Lớp ngắn hạn thường xuyên",
       "note3Type": "image",
       "note3Title": "Thông báo tuyển sinh 2026",
@@ -434,7 +434,7 @@
       "footerStat3Value": "100%",
       "footerStat3Label": "Học xong được giới thiệu việc làm",
       "baseHeadingSize": 53,
-      "baseNoteScale": 70,
+      "baseNoteScale": 79,
       "textScale2190": 120,
       "textScale1920": 100,
       "textScale1366": 80,
@@ -452,5 +452,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T19:03:09.949Z"
+  "updatedAt": "2026-05-17T19:04:59.112Z"
 }
