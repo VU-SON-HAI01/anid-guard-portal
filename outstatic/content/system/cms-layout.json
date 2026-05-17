@@ -329,7 +329,7 @@
       "theme": "purple",
       "perspective": 900,
       "tiltX": 2,
-      "tiltY": -9,
+      "tiltY": 9,
       "cardScale": 0.92,
       "bannerTitle": "Đăng ký tuyển sinh",
       "bannerSubtitle": "Tin tức - thông báo",
@@ -344,8 +344,8 @@
       "bannerCtaSize": 10,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": 18,
-      "note1PosY": -191,
+      "note1PosX": 120,
+      "note1PosY": -212,
       "note1MiniPosX": -569,
       "note1MiniPosY": 19,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -740,
-      "note2PosY": -192,
+      "note2PosX": -661,
+      "note2PosY": -215,
       "note2MiniPosX": -137,
       "note2MiniPosY": 20,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": -358,
-      "note3PosY": -195,
+      "note3PosX": -268,
+      "note3PosY": -208,
       "note3MiniPosX": -376,
       "note3MiniPosY": -201,
       "note3Name": "Lớp ngắn hạn",
@@ -434,7 +434,7 @@
       "footerStat3Value": "100%",
       "footerStat3Label": "Học xong được giới thiệu việc làm",
       "baseHeadingSize": 53,
-      "baseNoteScale": 73,
+      "baseNoteScale": 74,
       "cardOpacity": 95,
       "textScale2190": 120,
       "textScale1920": 100,
@@ -453,5 +453,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T20:15:13.410Z"
+  "updatedAt": "2026-05-17T20:16:53.407Z"
 }
