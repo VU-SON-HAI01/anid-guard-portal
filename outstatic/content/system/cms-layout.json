@@ -339,8 +339,8 @@
       "bannerCtaUrl": "#",
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": -200,
-      "note1PosY": -116,
+      "note1PosX": -189,
+      "note1PosY": -13,
       "note1MiniPosX": 68,
       "note1MiniPosY": -120,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -357,8 +357,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -32,
-      "note2PosY": -71,
+      "note2PosX": -68,
+      "note2PosY": 6,
       "note2MiniPosX": 116,
       "note2MiniPosY": -18,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -381,8 +381,8 @@
       "textScale1920": 100,
       "textScale1366": 80,
       "textScale430": 30,
-      "noteScale2190": 189,
-      "noteScale1920": 148,
+      "noteScale2190": 166,
+      "noteScale1920": 132,
       "noteScale1366": 100,
       "noteScale430": 50
     }
@@ -394,5 +394,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T13:16:45.204Z"
+  "updatedAt": "2026-05-17T13:18:15.964Z"
 }
