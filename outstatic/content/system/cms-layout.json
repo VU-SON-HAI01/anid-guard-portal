@@ -327,10 +327,10 @@
     },
     "banner-note": {
       "theme": "emerald",
-      "perspective": 2000,
-      "tiltX": 5,
-      "tiltY": -2,
-      "cardScale": 1.8,
+      "perspective": 1100,
+      "tiltX": 0,
+      "tiltY": -13,
+      "cardScale": 1.81,
       "bannerTitle": "Thông tin tuyển sinh",
       "bannerSubtitle": "Cao Đẳng Đắk Lắk",
       "bannerHighlight": "DAK LAK COLLEGE",
@@ -344,8 +344,8 @@
       "bannerCtaSize": 11,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": 77,
-      "note1PosY": -261,
+      "note1PosX": -78,
+      "note1PosY": -252,
       "note1MiniPosX": -307,
       "note1MiniPosY": -207,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -763,
-      "note2PosY": -254,
+      "note2PosX": -1006,
+      "note2PosY": -248,
       "note2MiniPosX": -124,
       "note2MiniPosY": -69,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": -351,
-      "note3PosY": -255,
+      "note3PosX": -533,
+      "note3PosY": -252,
       "note3MiniPosX": -494,
       "note3MiniPosY": -24,
       "note3Name": "Lớp ngắn hạn thường xuyên",
@@ -434,7 +434,7 @@
       "footerStat3Value": "100%",
       "footerStat3Label": "Học xong được giới thiệu việc làm",
       "baseHeadingSize": 53,
-      "baseNoteScale": 76,
+      "baseNoteScale": 70,
       "textScale2190": 120,
       "textScale1920": 100,
       "textScale1366": 80,
@@ -452,5 +452,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T19:00:39.713Z"
+  "updatedAt": "2026-05-17T19:03:09.949Z"
 }
