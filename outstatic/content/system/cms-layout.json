@@ -378,7 +378,7 @@
       "footerStat3Value": "100%",
       "footerStat3Label": "Học xong được giới thiệu việc làm",
       "baseHeadingSize": 52,
-      "baseNoteScale": 100,
+      "baseNoteScale": 80,
       "bannerTitleSize": 25,
       "bannerSubtitleSize": 32,
       "bannerHighlightSize": 25,
@@ -434,5 +434,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T16:06:24.055Z"
+  "updatedAt": "2026-05-17T16:07:14.114Z"
 }
