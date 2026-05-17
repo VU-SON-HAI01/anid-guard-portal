@@ -346,8 +346,8 @@
       "note1DefaultMinimized": false,
       "note1PosX": 11,
       "note1PosY": -224,
-      "note1MiniPosX": -785,
-      "note1MiniPosY": 18,
+      "note1MiniPosX": -663,
+      "note1MiniPosY": 41,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
       "note1HeaderYear": "NĂM HỌC MỚI 2026 - 2027",
       "note1Stat1Value": "2.705",
@@ -364,8 +364,8 @@
       "note2DefaultMinimized": false,
       "note2PosX": -797,
       "note2PosY": -226,
-      "note2MiniPosX": -499,
-      "note2MiniPosY": 53,
+      "note2MiniPosX": -221,
+      "note2MiniPosY": 25,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
       "note2Title": "TUYỂN SINH HỆ CAO ĐẲNG CHÍNH QUY",
       "note2Subtitle": "Miễn 100% học phí đăng ký Trung cấp",
@@ -382,10 +382,10 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": -396,
-      "note3PosY": -223,
-      "note3MiniPosX": -664,
-      "note3MiniPosY": -212,
+      "note3PosX": -421,
+      "note3PosY": -217,
+      "note3MiniPosX": -413,
+      "note3MiniPosY": -187,
       "note3Name": "Lớp ngắn hạn",
       "note3Type": "lop-ngan-han",
       "note3Title": "Thông báo tuyển sinh 2026",
@@ -452,5 +452,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T19:17:21.999Z"
+  "updatedAt": "2026-05-17T19:20:54.533Z"
 }
