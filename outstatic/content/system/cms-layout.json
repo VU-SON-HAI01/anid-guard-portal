@@ -327,8 +327,8 @@
     },
     "banner-note": {
       "theme": "purple",
-      "perspective": 1300,
-      "tiltX": 0,
+      "perspective": 2000,
+      "tiltX": 2,
       "tiltY": 13,
       "cardScale": 0.94,
       "bannerTitle": "Trung cấp - Cao đẳng",
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T21:00:18.244Z"
+  "updatedAt": "2026-05-17T21:02:27.901Z"
 }
