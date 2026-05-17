@@ -327,10 +327,10 @@
     },
     "banner-note": {
       "theme": "purple",
-      "perspective": 2000,
-      "tiltX": -2,
-      "tiltY": 22,
-      "cardScale": 1.18,
+      "perspective": 1300,
+      "tiltX": 0,
+      "tiltY": 13,
+      "cardScale": 0.94,
       "bannerTitle": "Trung cấp - Cao đẳng",
       "bannerSubtitle": "Tin tức - thông báo",
       "bannerHighlight": "Đăng ký tuyển sinh online",
@@ -344,8 +344,8 @@
       "bannerCtaSize": 10,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": 758,
-      "note1PosY": -407,
+      "note1PosX": 440,
+      "note1PosY": -287,
       "note1MiniPosX": 318,
       "note1MiniPosY": -163,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -121,
-      "note2PosY": -396,
+      "note2PosX": -142,
+      "note2PosY": -280,
       "note2MiniPosX": -166,
       "note2MiniPosY": -159,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": 319,
-      "note3PosY": -405,
+      "note3PosX": 149,
+      "note3PosY": -288,
       "note3MiniPosX": 84,
       "note3MiniPosY": -388,
       "note3Name": "Lớp ngắn hạn",
@@ -434,7 +434,7 @@
       "footerStat3Value": "4",
       "footerStat3Label": "cớ sơ học tập",
       "baseHeadingSize": 53,
-      "baseNoteScale": 80,
+      "baseNoteScale": 100,
       "cardOpacity": 90,
       "bannerVersionTag": "Tương tác trực tiếp với các ghi chú bên cạnh >>",
       "footerStatSize": 16,
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T20:56:42.991Z"
+  "updatedAt": "2026-05-17T21:00:18.244Z"
 }
