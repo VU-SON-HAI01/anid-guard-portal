@@ -327,9 +327,9 @@
     },
     "banner-note": {
       "theme": "emerald",
-      "perspective": 1650,
+      "perspective": 800,
       "tiltX": 2,
-      "tiltY": -11,
+      "tiltY": -8,
       "cardScale": 0.92,
       "bannerTitle": "Thông tin tuyển sinh",
       "bannerSubtitle": "Cao Đẳng Đắk Lắk",
@@ -344,8 +344,8 @@
       "bannerCtaSize": 11,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": -245,
-      "note1PosY": -239,
+      "note1PosX": -141,
+      "note1PosY": -240,
       "note1MiniPosX": -569,
       "note1MiniPosY": 19,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -627,
-      "note2PosY": -237,
+      "note2PosX": -802,
+      "note2PosY": -244,
       "note2MiniPosX": -137,
       "note2MiniPosY": 20,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": -470,
-      "note3PosY": -239,
+      "note3PosX": -478,
+      "note3PosY": -243,
       "note3MiniPosX": -376,
       "note3MiniPosY": -201,
       "note3Name": "Lớp ngắn hạn",
@@ -453,5 +453,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T19:51:16.852Z"
+  "updatedAt": "2026-05-17T19:52:38.636Z"
 }
