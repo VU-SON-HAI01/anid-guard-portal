@@ -330,7 +330,7 @@
       "perspective": 1100,
       "tiltX": 0,
       "tiltY": -13,
-      "cardScale": 1.86,
+      "cardScale": 1.8,
       "bannerTitle": "Thông tin tuyển sinh",
       "bannerSubtitle": "Cao Đẳng Đắk Lắk",
       "bannerHighlight": "DAK LAK COLLEGE",
@@ -344,8 +344,8 @@
       "bannerCtaSize": 11,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": -78,
-      "note1PosY": -252,
+      "note1PosX": 11,
+      "note1PosY": -224,
       "note1MiniPosX": -336,
       "note1MiniPosY": -190,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -1006,
-      "note2PosY": -248,
+      "note2PosX": -797,
+      "note2PosY": -226,
       "note2MiniPosX": -85,
       "note2MiniPosY": -31,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": -533,
-      "note3PosY": -252,
+      "note3PosX": -396,
+      "note3PosY": -223,
       "note3MiniPosX": -554,
       "note3MiniPosY": -16,
       "note3Name": "Lớp ngắn hạn thường xuyên",
@@ -452,5 +452,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T19:04:59.112Z"
+  "updatedAt": "2026-05-17T19:11:24.395Z"
 }
