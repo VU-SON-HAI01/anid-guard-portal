@@ -331,17 +331,17 @@
       "tiltX": 2,
       "tiltY": -9,
       "cardScale": 0.92,
-      "bannerTitle": "Thông tin tuyển sinh",
-      "bannerSubtitle": "Cao Đẳng Đắk Lắk",
-      "bannerHighlight": "DAK LAK COLLEGE",
+      "bannerTitle": "Đăng ký tuyển sinh",
+      "bannerSubtitle": "Tin tức - thông báo",
+      "bannerHighlight": "Thông tin nhà trường",
       "bannerDesc": "Cổng thông tin điện tử nhà trường - Giới thiệu về nhà trường, Cung cấp thông tin tuyển sinh, Đăng ký tuyển sinh",
       "bannerCtaLabel": "Xem Thông báo tuyển sinh",
       "bannerCtaUrl": "#",
       "bannerTitleSize": 25,
-      "bannerSubtitleSize": 32,
+      "bannerSubtitleSize": 31,
       "bannerHighlightSize": 25,
       "bannerDescSize": 12,
-      "bannerCtaSize": 11,
+      "bannerCtaSize": 10,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
       "note1PosX": 18,
@@ -434,7 +434,7 @@
       "footerStat3Value": "100%",
       "footerStat3Label": "Học xong được giới thiệu việc làm",
       "baseHeadingSize": 53,
-      "baseNoteScale": 78,
+      "baseNoteScale": 73,
       "cardOpacity": 95,
       "textScale2190": 120,
       "textScale1920": 100,
@@ -453,5 +453,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T20:08:19.288Z"
+  "updatedAt": "2026-05-17T20:13:15.662Z"
 }
