@@ -376,7 +376,11 @@
       "footerStat2Value": "2809",
       "footerStat2Label": "HSSV đang học",
       "footerStat3Value": "100%",
-      "footerStat3Label": "Học xong được giới thiệu việc làm"
+      "footerStat3Label": "Học xong được giới thiệu việc làm",
+      "textScale2190": 120,
+      "textScale1920": 100,
+      "textScale1366": 80,
+      "textScale430": 50
     }
   },
   "customPageTypes": [
@@ -386,5 +390,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T12:04:15.482Z"
+  "updatedAt": "2026-05-17T12:49:48.059Z"
 }
