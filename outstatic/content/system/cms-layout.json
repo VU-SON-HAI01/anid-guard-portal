@@ -330,7 +330,7 @@
       "perspective": 1100,
       "tiltX": 7,
       "tiltY": -15,
-      "cardScale": 1.51,
+      "cardScale": 1.7,
       "bannerTitle": "Thông tin tuyển sinh",
       "bannerSubtitle": "Cao Đẳng Đắk Lắk",
       "bannerHighlight": "DAK LAK COLLEGE",
@@ -434,5 +434,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T16:17:58.396Z"
+  "updatedAt": "2026-05-17T16:18:23.862Z"
 }
