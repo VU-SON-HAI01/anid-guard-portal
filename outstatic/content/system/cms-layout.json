@@ -344,8 +344,8 @@
       "bannerCtaSize": 10,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": 120,
-      "note1PosY": -212,
+      "note1PosX": 566,
+      "note1PosY": -496,
       "note1MiniPosX": -221,
       "note1MiniPosY": 37,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -661,
-      "note2PosY": -215,
+      "note2PosX": -229,
+      "note2PosY": -479,
       "note2MiniPosX": -507,
       "note2MiniPosY": 35,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": -268,
-      "note3PosY": -208,
+      "note3PosX": 164,
+      "note3PosY": -488,
       "note3MiniPosX": -381,
       "note3MiniPosY": -141,
       "note3Name": "Lớp ngắn hạn",
@@ -436,6 +436,8 @@
       "baseHeadingSize": 53,
       "baseNoteScale": 74,
       "cardOpacity": 95,
+      "bannerVersionTag": "Phiên bản 2026 • Kỹ thuật số hóa",
+      "footerStatSize": 16,
       "textScale2190": 120,
       "textScale1920": 100,
       "textScale1366": 80,
@@ -453,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T20:19:57.385Z"
+  "updatedAt": "2026-05-17T20:33:16.584Z"
 }
