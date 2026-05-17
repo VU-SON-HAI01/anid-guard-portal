@@ -327,8 +327,8 @@
     },
     "banner-note": {
       "theme": "purple",
-      "perspective": 1400,
-      "tiltX": -6,
+      "perspective": 2000,
+      "tiltX": -2,
       "tiltY": 22,
       "cardScale": 1.18,
       "bannerTitle": "Đăng ký tuyển sinh",
@@ -344,8 +344,8 @@
       "bannerCtaSize": 10,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": 540,
-      "note1PosY": -398,
+      "note1PosX": 677,
+      "note1PosY": -406,
       "note1MiniPosX": 318,
       "note1MiniPosY": -163,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -243,
-      "note2PosY": -396,
+      "note2PosX": -222,
+      "note2PosY": -390,
       "note2MiniPosX": -166,
       "note2MiniPosY": -159,
       "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": 148,
-      "note3PosY": -397,
+      "note3PosX": 226,
+      "note3PosY": -395,
       "note3MiniPosX": 84,
       "note3MiniPosY": -388,
       "note3Name": "Lớp ngắn hạn",
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T20:42:18.739Z"
+  "updatedAt": "2026-05-17T20:43:14.630Z"
 }
