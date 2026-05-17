@@ -330,14 +330,14 @@
       "perspective": 1400,
       "tiltX": -6,
       "tiltY": 22,
-      "cardScale": 1.06,
+      "cardScale": 1.18,
       "bannerTitle": "Đăng ký tuyển sinh",
       "bannerSubtitle": "Tin tức - thông báo",
       "bannerHighlight": "Thông tin nhà trường",
       "bannerDesc": "Cổng thông tin điện tử nhà trường - Giới thiệu về nhà trường, Cung cấp thông tin tuyển sinh, Đăng ký tuyển sinh",
       "bannerCtaLabel": "Xem Thông báo tuyển sinh",
       "bannerCtaUrl": "#",
-      "bannerTitleSize": 25,
+      "bannerTitleSize": 26,
       "bannerSubtitleSize": 31,
       "bannerHighlightSize": 25,
       "bannerDescSize": 12,
@@ -435,8 +435,8 @@
       "footerStat3Label": "Học xong được giới thiệu việc làm",
       "baseHeadingSize": 53,
       "baseNoteScale": 80,
-      "cardOpacity": 95,
-      "bannerVersionTag": "Phiên bản 2026 • Kỹ thuật số hóa",
+      "cardOpacity": 90,
+      "bannerVersionTag": "Tương tác trực tiếp với các ghi chú bên cạnh",
       "footerStatSize": 13,
       "textScale2190": 120,
       "textScale1920": 100,
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T20:37:11.327Z"
+  "updatedAt": "2026-05-17T20:42:05.698Z"
 }
