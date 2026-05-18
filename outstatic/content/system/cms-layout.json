@@ -327,9 +327,9 @@
     },
     "banner-note": {
       "theme": "purple",
-      "perspective": 2000,
-      "tiltX": 2,
-      "tiltY": 13,
+      "perspective": 750,
+      "tiltX": 3,
+      "tiltY": 10,
       "cardScale": 0.94,
       "bannerTitle": "Trung cấp - Cao đẳng",
       "bannerSubtitle": "Tin tức - thông báo",
@@ -344,8 +344,8 @@
       "bannerCtaSize": 10,
       "note1Enabled": true,
       "note1DefaultMinimized": false,
-      "note1PosX": 440,
-      "note1PosY": -287,
+      "note1PosX": -159,
+      "note1PosY": -288,
       "note1MiniPosX": 318,
       "note1MiniPosY": -163,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
@@ -362,8 +362,8 @@
       "note1Task2Status": "done",
       "note2Enabled": true,
       "note2DefaultMinimized": false,
-      "note2PosX": -142,
-      "note2PosY": -280,
+      "note2PosX": 132,
+      "note2PosY": -290,
       "note2MiniPosX": -166,
       "note2MiniPosY": -159,
       "note2TagLine": " Trung tâm Đào tạo lái xe",
@@ -382,8 +382,8 @@
       "note2CtaUrl": "#",
       "note3Enabled": true,
       "note3DefaultMinimized": false,
-      "note3PosX": 149,
-      "note3PosY": -288,
+      "note3PosX": 424,
+      "note3PosY": -297,
       "note3MiniPosX": 84,
       "note3MiniPosY": -388,
       "note3Name": "Lớp ngắn hạn",
@@ -423,9 +423,9 @@
       "note3HcTask2Badge": "TẢI VỀ",
       "note3HcTask2Url": "#",
       "notesOrder": [
+        "note1",
         "note2",
-        "note3",
-        "note1"
+        "note3"
       ],
       "footerStat1Value": "34+",
       "footerStat1Label": "Ngành học",
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-18T18:30:12.059Z"
+  "updatedAt": "2026-05-18T18:32:13.814Z"
 }
