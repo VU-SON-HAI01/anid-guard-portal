@@ -295,12 +295,13 @@
     },
     "major-list": {
       "title": "Tuyển sinh Ngành học theo khoa",
-      "item1Image": "/data/data/khoa_6.jpg",
+      "item1Image": "/data/data/khoa_1.jpg",
       "item2Image": "/data/data/khoa_5.jpg",
       "item3Image": "/data/data/khoa_4.jpg",
       "item4Image": "/data/data/khoa_3.jpg",
       "item5Image": "/data/data/khoa_2.jpg",
-      "item6Image": "/data/data/khoa_1.jpg"
+      "item6Image": "/data/data/khoa_1.jpg",
+      "item1KhoaName": "Khoa Cơ - Điện - Xây dựng"
     },
     "quick-action-bar": {
       "btn2Href": "https://cddaklak.phanmemdaotao.edu.vn/",
@@ -455,5 +456,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-18T18:43:32.530Z"
+  "updatedAt": "2026-05-18T19:24:14.018Z"
 }
