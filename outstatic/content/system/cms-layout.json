@@ -366,18 +366,18 @@
       "note2PosY": -280,
       "note2MiniPosX": -166,
       "note2MiniPosY": -159,
-      "note2TagLine": "XÉT TUYỂN TRỰC TUYẾN",
-      "note2Title": "TUYỂN SINH HỆ CAO ĐẲNG CHÍNH QUY",
+      "note2TagLine": " Trung tâm Đào tạo lái xe",
+      "note2Title": "BẰNG LÁI MÔ TÔ, Ô TÔ B,C,D,D1, MÁY XÚC, ĐÀO",
       "note2Subtitle": "Miễn 100% học phí đăng ký Trung cấp",
-      "note2Stat1Value": "2.705",
-      "note2Stat1Label": "Chỉ tiêu",
-      "note2Stat2Value": "34 NGÀNH",
-      "note2Stat2Label": "Trung cấp - Cao đẳng",
-      "note2Tag1": "Công nghệ Ô tô <> Công nghệ kỹ thuật ô tô",
-      "note2Tag2": "Điện công nghiệp",
-      "note2Tag3": "Công nghệ thông tin <> Quản trị mạng máy tính <>Kế toán doanh nghiệp",
+      "note2Stat1Value": "4 ĐỊA ĐIỂM",
+      "note2Stat1Label": "ĐĂNG KÝ VÀ HỌC",
+      "note2Stat2Value": "0795 561 865",
+      "note2Stat2Label": "TƯ VẤN NHANH",
+      "note2Tag1": "Khai giảng thường xuyên hàng tháng",
+      "note2Tag2": "Lịch học được sắp xếp linh hoạt phù hợp với nhu cầu của học viên",
+      "note2Tag3": "Hạng B và C1: Thời gian đào tạo nhanh, ≤90 ngày; Tỷ lệ đậu cao, ",
       "note1Name": "Thông tin tuyển sinh",
-      "note2Name": "Đăng ký tuyển sinh",
+      "note2Name": "tuyển sinh thường xuyên",
       "note2CtaLabel": "Đăng ký ngay",
       "note2CtaUrl": "#",
       "note3Enabled": true,
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-17T21:02:27.901Z"
+  "updatedAt": "2026-05-18T18:30:12.059Z"
 }
