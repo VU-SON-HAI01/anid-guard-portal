@@ -296,12 +296,17 @@
     "major-list": {
       "title": "Tuyển sinh Ngành học theo khoa",
       "item1Image": "/data/data/khoa_1.jpg",
-      "item2Image": "/data/data/khoa_5.jpg",
-      "item3Image": "/data/data/khoa_4.jpg",
-      "item4Image": "/data/data/khoa_3.jpg",
-      "item5Image": "/data/data/khoa_2.jpg",
-      "item6Image": "/data/data/khoa_1.jpg",
-      "item1KhoaName": "Khoa Cơ - Điện - Xây dựng"
+      "item2Image": "/data/data/khoa_2.jpg",
+      "item3Image": "/data/data/khoa_3.jpg",
+      "item4Image": "/data/data/khoa_4.jpg",
+      "item5Image": "/data/data/khoa_5.jpg",
+      "item6Image": "/data/data/khoa_6.jpg",
+      "item1KhoaName": "Khoa Cơ - Điện - Xây dựng",
+      "item2KhoaName": "Khoa Công nghệ ô tô",
+      "item3KhoaName": "Khoa Công nghệ thông tin - Kế toán",
+      "item4KhoaName": "Khoa Sư phạm - Xã hội",
+      "item5KhoaName": "Khoa Nông - Lâm - Thú y - Thủy sản",
+      "item6KhoaName": "Khoa Du lịch - Thời trang"
     },
     "quick-action-bar": {
       "btn2Href": "https://cddaklak.phanmemdaotao.edu.vn/",
@@ -456,5 +461,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-18T19:25:55.708Z"
+  "updatedAt": "2026-05-18T19:29:10.040Z"
 }
