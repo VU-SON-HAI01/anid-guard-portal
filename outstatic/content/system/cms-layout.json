@@ -329,7 +329,7 @@
       "theme": "purple",
       "perspective": 750,
       "tiltX": 3,
-      "tiltY": 10,
+      "tiltY": 15,
       "cardScale": 0.94,
       "bannerTitle": "Trung cấp - Cao đẳng",
       "bannerSubtitle": "Tin tức - thông báo",
@@ -434,7 +434,7 @@
       "footerStat3Value": "07/10/2026",
       "footerStat3Label": "Xết tuyển đợt 3",
       "baseHeadingSize": 53,
-      "baseNoteScale": 100,
+      "baseNoteScale": 96,
       "cardOpacity": 90,
       "bannerVersionTag": "Tương tác trực tiếp với các ghi chú bên cạnh >>",
       "footerStatSize": 16,
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-18T18:38:35.810Z"
+  "updatedAt": "2026-05-18T18:43:32.530Z"
 }
