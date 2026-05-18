@@ -346,8 +346,8 @@
       "note1DefaultMinimized": false,
       "note1PosX": -159,
       "note1PosY": -288,
-      "note1MiniPosX": 318,
-      "note1MiniPosY": -163,
+      "note1MiniPosX": -53,
+      "note1MiniPosY": -128,
       "note1HeaderLabel": "THÔNG TIN TUYỂN SINH",
       "note1HeaderYear": "NĂM HỌC MỚI 2026 - 2027",
       "note1Stat1Value": "2.705",
@@ -364,8 +364,8 @@
       "note2DefaultMinimized": false,
       "note2PosX": 132,
       "note2PosY": -290,
-      "note2MiniPosX": -166,
-      "note2MiniPosY": -159,
+      "note2MiniPosX": 306,
+      "note2MiniPosY": -155,
       "note2TagLine": " Trung tâm Đào tạo lái xe",
       "note2Title": "BẰNG LÁI MÔ TÔ, Ô TÔ B,C,D,D1, MÁY XÚC, ĐÀO",
       "note2Subtitle": "Miễn 100% học phí đăng ký Trung cấp",
@@ -384,8 +384,8 @@
       "note3DefaultMinimized": false,
       "note3PosX": 424,
       "note3PosY": -297,
-      "note3MiniPosX": 84,
-      "note3MiniPosY": -388,
+      "note3MiniPosX": 130,
+      "note3MiniPosY": -243,
       "note3Name": "Lớp ngắn hạn",
       "note3Type": "lop-ngan-han",
       "note3Title": "Thông báo tuyển sinh 2026",
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-18T18:32:13.814Z"
+  "updatedAt": "2026-05-18T18:33:14.931Z"
 }
