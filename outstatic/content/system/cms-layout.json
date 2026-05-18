@@ -427,12 +427,12 @@
         "note2",
         "note3"
       ],
-      "footerStat1Value": "34+",
-      "footerStat1Label": "Ngành học",
-      "footerStat2Value": "2809",
-      "footerStat2Label": "HSSV đang học",
-      "footerStat3Value": "4",
-      "footerStat3Label": "cớ sơ học tập",
+      "footerStat1Value": "05/08/2026",
+      "footerStat1Label": "Xết tuyển đợt 1",
+      "footerStat2Value": "09/09/2026",
+      "footerStat2Label": "Xết tuyển đợt 2",
+      "footerStat3Value": "07/10/2026",
+      "footerStat3Label": "Xết tuyển đợt 3",
       "baseHeadingSize": 53,
       "baseNoteScale": 100,
       "cardOpacity": 90,
@@ -455,5 +455,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-18T18:33:14.931Z"
+  "updatedAt": "2026-05-18T18:38:35.810Z"
 }
