@@ -337,7 +337,7 @@
       "bannerHighlight": "Đăng ký tuyển sinh online",
       "bannerDesc": "Cổng thông tin điện tử nhà trường - Giới thiệu về nhà trường, Cung cấp thông tin tuyển sinh, Đăng ký tuyển sinh",
       "bannerCtaLabel": "Xem Thông báo tuyển sinh",
-      "bannerCtaUrl": "#",
+      "bannerCtaUrl": "https://tuyensinh.cddaklak.edu.vn/tuyen-sinh/thong-bao-xet-tuyen-cao-dang-trung-cap-so-cap-nam-2026",
       "bannerTitleSize": 26,
       "bannerSubtitleSize": 33,
       "bannerHighlightSize": 24,
@@ -456,5 +456,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-18T19:24:14.018Z"
+  "updatedAt": "2026-05-18T19:25:52.241Z"
 }
