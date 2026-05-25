@@ -9,7 +9,7 @@ author:
 slug: "to-chuc-tu-van-tuyen-sinh-lien-thong-trinh-do-cao-dang-nam-2026-gan-voi-dinh-huong-nghe-nghiep-va-viec-lam"
 description: "Sáng ngày 25/5/2026, tại Hội trường Cơ sở 4, Trường Cao đẳng Đắk Lắk đã tổ chức thành công chương trình “Tư vấn tuyển sinh liên thông trình độ cao đẳng năm 2026 gắn với định hướng nghề nghiệp và việc làm” dành cho học sinh đã tốt nghiệp trung cấp và học sinh năm cuối đang học tập tại trường."
 location: "Cơ sở chính"
-coverImage: "/image_content/026/026_1.jpg"
+coverImage: "/image_content/026/026_5.jpg"
 postId: "026"
 idArticleWriter: "CMS26001"
 ---
@@ -66,14 +66,16 @@ idArticleWriter: "CMS26001"
  height:253.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/Sumik/AppData/Local/Temp/msohtmlclip1/01/clip_image007.jpg"
   o:title="" croptop="16501f"/>
-</v:shape><![endif]--><!-- [if !vml]--><img width="800" src="/image_content/026/026_3.jpg" v:shapes="Picture_x0020_6"><!--[endif]--></p>
+</v:shape><![endif]--><!-- [if !vml]--></p>
+<p><img src="/image_content/026/026_5.jpg" alt="026_5" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p style="text-align: justify; font-size: 12px;"><br><!--[endif]--></p>
 <p style="text-align: justify; font-size: 12px;">Chương trình cũng góp phần nâng cao nhận thức về học tập suốt đời trong học sinh, sinh viên. Trong xã hội hiện đại, tri thức và kỹ năng nghề nghiệp luôn cần được cập nhật liên tục để thích ứng với sự phát triển nhanh chóng của công nghệ và thị trường lao động. Việc học liên thông vì thế không chỉ là lựa chọn nâng cao bằng cấp mà còn là sự đầu tư nghiêm túc cho tương lai của chính bản thân mỗi người.</p>
 <p style="text-align: justify; font-size: 12px;"><!-- [if gte vml 1]><v:shape
  id="Picture_x0020_7" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:451.5pt;
  height:234.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/Sumik/AppData/Local/Temp/msohtmlclip1/01/clip_image009.jpg"
   o:title="" cropbottom="20103f"/>
-</v:shape><![endif]--><!-- [if !vml]--><img width="800" src="/image_content/026/026_1.jpg" v:shapes="Picture_x0020_7"><!--[endif]--></p>
+</v:shape><![endif]--><!-- [if !vml]--><!--[endif]--></p>
 <p style="text-align: justify; font-size: 12px;">Nhiều học sinh tham dự chương trình chia sẻ rằng trước đây các em từng có ý định đi làm ngay sau khi tốt nghiệp trung cấp, tuy nhiên sau khi được nghe tư vấn từ Nhà trường và doanh nghiệp, các em nhận thấy việc tiếp tục học liên thông sẽ giúp mở rộng cơ hội việc làm, nâng cao thu nhập và có thêm nhiều cơ hội phát triển bản thân trong tương lai.</p>
 <p style="text-align: justify; font-size: 12px;">Có thể thấy, chương trình tư vấn tuyển sinh liên thông trình độ cao đẳng năm 2026 không chỉ là hoạt động cung cấp thông tin tuyển sinh mà còn là cầu nối quan trọng giữa Nhà trường – học sinh – doanh nghiệp trong công tác đào tạo và phát triển nguồn nhân lực chất lượng cao. Thông qua chương trình, Trường Cao đẳng Đắk Lắk tiếp tục khẳng định định hướng đào tạo gắn với thực tiễn, lấy người học làm trung tâm và đồng hành cùng học sinh trên hành trình lập thân, lập nghiệp.</p>
 <p style="text-align: justify; font-size: 12px;">Nhà trường trân trọng cảm ơn sự quan tâm, phối hợp của các doanh nghiệp đồng hành, quý thầy cô cùng toàn thể học sinh đã góp phần tạo nên thành công của chương trình. Chúc các em học sinh sẽ có những lựa chọn đúng đắn cho hành trình học tập và nghề nghiệp phía trước, mạnh dạn tiếp tục học tập, nâng cao trình độ để tự tin chinh phục tương lai bằng chính tri thức và năng lực của mình.<br><br></p>
