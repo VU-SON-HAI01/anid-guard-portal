@@ -2,7 +2,7 @@
 title: "TỔ CHỨC TƯ VẤN TUYỂN SINH LIÊN THÔNG TRÌNH ĐỘ CAO ĐẲNG NĂM 2026 GẮN VỚI ĐỊNH HƯỚNG NGHỀ NGHIỆP VÀ VIỆC LÀM"
 publishedAt: "2026-05-19T12:00:00.000Z"
 publicationDate: "2026-05-19"
-status: "draft"
+status: "published"
 author:
   name: "Admin CMS"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
