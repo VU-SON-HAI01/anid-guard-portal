@@ -2,7 +2,7 @@
 title: "TRƯỜNG CAO ĐẲNG ĐẮK LẮK KÝ KẾT THỎA THUẬN HỢP TÁC VỚI BÁO VÀ PHÁT THANH, TRUYỀN HÌNH ĐẮK LẮK"
 publishedAt: "2026-05-27T12:00:00.000Z"
 publicationDate: "2026-05-27"
-status: "draft"
+status: "published"
 author:
   name: "Admin CMS"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
