@@ -9,12 +9,13 @@ author:
 slug: "truong-cao-dang-dak-lak-ky-ket-thoa-thuan-hop-tac-voi-bao-va-phat-thanh-truyen-hinh-dak-lak"
 description: "Chiều ngày 27/5/2026, tại Hội trường Trường Cao đẳng Đắk Lắk, Báo và Phát thanh, Truyền hình Đắk Lắk đã tổ chức đoàn công tác tham dự Lễ ký kết Thỏa thuận hợp tác với Trường Cao đẳng Đắk Lắk."
 location: "Cơ sở chính"
+coverImage: "/image_content/028/028_6.png"
 postId: "028"
 idArticleWriter: "CMS26001"
 ---
 
 <p><!--StartFragment--></p>
-<p style="text-align: justify; font-size: 12px;"><strong>TRƯỜNG CAO ĐẲNG ĐẮK LẮK KÝ KẾT THỎA THUẬN HỢP TÁC VỚI BÁO VÀ PHÁT THANH, TRUYỀN HÌNH ĐẮK LẮK </strong></p>
+<p style="text-align: justify; font-size: 12px;">&nbsp;</p>
 <p style="text-align: justify; font-size: 12px;"><strong><!-- [if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
  o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
  stroked="f">
@@ -40,7 +41,6 @@ idArticleWriter: "CMS26001"
  <v:imagedata src="file:///C:/Users/Sumik/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
   o:title=""/>
 </v:shape><![endif]--><!-- [if !vml]--><img src="/image_content/028/028_4.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"><br><!--[endif]--></strong></p>
-<p style="text-align: justify; font-size: 12px;">Chiều ngày 27/5/2026, tại Hội trường Trường Cao đẳng Đắk Lắk, Báo và Phát thanh, Truyền hình Đắk Lắk đã tổ chức đoàn công tác tham dự Lễ ký kết Thỏa thuận hợp tác với Trường Cao đẳng Đắk Lắk.</p>
 <p style="text-align: justify; font-size: 12px;">Đây là hoạt động có ý nghĩa quan trọng nhằm tăng cường mối quan hệ phối hợp giữa cơ quan báo chí – truyền thông của tỉnh với cơ sở giáo dục nghề nghiệp trọng điểm trên địa bàn; đồng thời mở ra nhiều cơ hội hợp tác trong công tác truyền thông, quảng bá hình ảnh, định hướng nghề nghiệp và nâng cao hiệu quả tuyển sinh trong giai đoạn mới.</p>
 <p style="text-align: justify; font-size: 12px;"><!-- [if gte vml 1]><v:shape
  id="_x0000_i1030" type="#_x0000_t75" style='width:451.5pt;height:236.25pt;
