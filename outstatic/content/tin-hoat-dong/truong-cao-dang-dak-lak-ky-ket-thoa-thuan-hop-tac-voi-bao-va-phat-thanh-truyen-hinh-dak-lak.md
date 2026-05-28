@@ -23,7 +23,7 @@ idArticleWriter: "CMS26001"
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/Sumik/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png"
   o:title="" croptop="11152f" cropbottom="8732f"/>
-</v:shape><![endif]--><!-- [if !vml]--><img width="800" src="/image_content/028/028_3.png" v:shapes="_x0000_i1030"><!--[endif]--></span></p>
+</v:shape><![endif]--><!-- [if !vml]--><img src="/image_content/028/028_8.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"><br><!--[endif]--></span></p>
 <div class="caption-montserrat"><em>Thầy Đặng Văn Lái – Bí thư Đảng ủy, hiệu trưởng Trường Cao đẳng Đắk Lắk</em><em> phát biểu</em><em> trong buổi lễ</em></div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Tham dự chương trình, về phía Báo và Phát thanh, Truyền hình Đắk Lắk có đồng chí Lê Văn Thế – Phó Giám đốc; đồng chí Đàm Thị Thuần – Phó Giám đốc cùng lãnh đạo các phòng chuyên môn, phóng viên, viên chức của đơn vị.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Về phía Trường Cao đẳng Đắk Lắk có thầy Đặng Văn Lái – Bí thư Đảng ủy, hiệu trưởng nhà trường, lãnh đạo các phòng, khoa, trung tâm cùng cán bộ, giảng viên tham dự.</span></p>
@@ -59,9 +59,7 @@ idArticleWriter: "CMS26001"
   o:title=""/>
 </v:shape><![endif]--><!-- [if !vml]-->&nbsp;</p>
 <p><img src="/image_content/028/028_1.png" alt="028_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
-
 <div class="caption-montserrat">&nbsp;<span style="font-size: 12pt;"><!--[endif]--></span><em>Ký kết hợp tác giữa Trường Cao đẳng Đắk Lắk cùng với Báo và Phát thanh Truyền hình tỉnh Đắk Lắk</em></div>
-
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Không chỉ dừng lại ở công tác tuyên truyền, hai đơn vị còn phối hợp xây dựng cơ chế phân tích dữ liệu truyền thông số (analytics), đo lường hiệu quả tiếp cận và tương tác của người dùng trên các nền tảng số. Đây được xem là bước chuyển đổi hiện đại trong công tác truyền thông giáo dục nghề nghiệp, giúp nhà trường có cơ sở khoa học để điều chỉnh chiến lược truyền thông và tuyển sinh phù hợp với xu hướng tiếp cận của học sinh hiện nay.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Đáng chú ý, chương trình hợp tác cũng đặt mục tiêu phối hợp định hướng dư luận xã hội, xây dựng phương án quản trị rủi ro và xử lý khủng hoảng truyền thông trên không gian mạng nhằm bảo vệ uy tín, thương hiệu của nhà trường trong thời đại số.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Phát biểu tại buổi lễ, đại diện lãnh đạo hai đơn vị khẳng định việc ký kết hợp tác không chỉ góp phần nâng cao chất lượng công tác thông tin tuyên truyền mà còn mở ra cơ hội phát triển bền vững, hiện đại và hội nhập cho giáo dục nghề nghiệp tỉnh Đắk Lắk.</span></p>
