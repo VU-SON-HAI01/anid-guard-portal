@@ -18,12 +18,7 @@ idArticleWriter: "CMS26001"
 <p style="text-align: justify; font-size: 12px;">&nbsp;</p>
 <p><img src="/image_content/028/028_4.png" width="800"></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Đây là hoạt động có ý nghĩa quan trọng nhằm tăng cường mối quan hệ phối hợp giữa cơ quan báo chí – truyền thông của tỉnh với cơ sở giáo dục nghề nghiệp trọng điểm trên địa bàn; đồng thời mở ra nhiều cơ hội hợp tác trong công tác truyền thông, quảng bá hình ảnh, định hướng nghề nghiệp và nâng cao hiệu quả tuyển sinh trong giai đoạn mới.</span></p>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><!-- [if gte vml 1]><v:shape
- id="_x0000_i1030" type="#_x0000_t75" style='width:451.5pt;height:236.25pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:/Users/Sumik/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png"
-  o:title="" croptop="11152f" cropbottom="8732f"/>
-</v:shape><![endif]--><!-- [if !vml]--><img src="/image_content/028/028_8.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"><br><!--[endif]--></span></p>
+<p style="text-align: justify; font-size: 12px;"><img src="/image_content/028/028_8.png" width="800"></p>
 <div class="caption-montserrat"><em>Thầy Đặng Văn Lái – Bí thư Đảng ủy, hiệu trưởng Trường Cao đẳng Đắk Lắk</em><em> phát biểu</em><em> trong buổi lễ</em></div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Tham dự chương trình, về phía Báo và Phát thanh, Truyền hình Đắk Lắk có đồng chí Lê Văn Thế – Phó Giám đốc; đồng chí Đàm Thị Thuần – Phó Giám đốc cùng lãnh đạo các phòng chuyên môn, phóng viên, viên chức của đơn vị.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Về phía Trường Cao đẳng Đắk Lắk có thầy Đặng Văn Lái – Bí thư Đảng ủy, hiệu trưởng nhà trường, lãnh đạo các phòng, khoa, trung tâm cùng cán bộ, giảng viên tham dự.</span></p>
