@@ -5,13 +5,13 @@ publicationDate: "2026-05-28"
 status: "published"
 author:
   name: "Vũ Sơn Hải"
-  picture: "/avatar/26092_1.jpg?v=1778870797647"
+  picture: "/avatar/26111_1.jpg?v=1779953644759"
 slug: "truong-cao-dang-dak-lak-don-tiep-va-lam-viec-voi-tap-doan-mitani-sangyo-co-ltd-nhat-ban"
 description: "Sáng ngày 28/5/2026, tại Trường Cao đẳng Đắk Lắk đã tổ chức đón tiếp và làm việc với đoàn công tác của Tập đoàn Mitani Sangyo Co., Ltd. đến từ Nhật Bản nhằm trao đổi, tìm hiểu cơ hội hợp tác trong lĩnh vực đào tạo, thực tập, tuyển dụng nguồn nhân lực và kết nối doanh nghiệp."
 location: "Cơ sở chính"
 coverImage: "/image_content/029/029_1.png"
 postId: "029"
-idArticleWriter: "PDT26092"
+idArticleWriter: "PCT26111"
 ---
 
 <p style="text-align: justify; font-size: 12px;"><!--StartFragment--></p>
@@ -65,4 +65,5 @@ idArticleWriter: "PDT26092"
   o:title="" croptop="13069f" cropbottom="5614f"/>
 </v:shape><![endif]--><!-- [if !vml]--><img width="800" src="/image_content/029/029_2.png" v:shapes="Picture_x0020_1"><!--[endif]--></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Thông qua hoạt động này, Trường Cao đẳng Đắk Lắk tiếp tục khẳng định định hướng đào tạo gắn với doanh nghiệp, đẩy mạnh hợp tác quốc tế và nâng cao chất lượng nguồn nhân lực đáp ứng yêu cầu phát triển kinh tế - xã hội trong thời kỳ hội nhập.</span></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong> TRẦN KHẮC TRÍ NHÂN</strong></span></p>
 <p style="text-align: justify; font-size: 12px;"><!--EndFragment--></p>
