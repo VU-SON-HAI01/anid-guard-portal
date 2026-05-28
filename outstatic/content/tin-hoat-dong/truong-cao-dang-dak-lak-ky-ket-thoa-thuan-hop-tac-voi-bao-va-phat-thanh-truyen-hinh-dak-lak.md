@@ -5,13 +5,13 @@ publicationDate: "2026-05-27"
 status: "published"
 author:
   name: "Admin CMS"
-  picture: "/avatar/26001_1.jpg?v=1778867235581"
+  picture: "/avatar/26111_1.jpg?v=1779953644759"
 slug: "truong-cao-dang-dak-lak-ky-ket-thoa-thuan-hop-tac-voi-bao-va-phat-thanh-truyen-hinh-dak-lak"
 description: "Chiều ngày 27/5/2026, tại Hội trường Trường Cao đẳng Đắk Lắk, Báo và Phát thanh, Truyền hình Đắk Lắk đã tổ chức đoàn công tác tham dự Lễ ký kết Thỏa thuận hợp tác với Trường Cao đẳng Đắk Lắk."
 location: "Cơ sở chính"
 coverImage: "/image_content/028/028_6.png"
 postId: "028"
-idArticleWriter: "CMS26001"
+idArticleWriter: "PCT26111"
 ---
 
 <p><!--StartFragment--></p>
@@ -69,6 +69,6 @@ idArticleWriter: "CMS26001"
  height:242.25pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/Sumik/AppData/Local/Temp/msohtmlclip1/01/clip_image013.png"
   o:title="" croptop="7550f" cropbottom="11171f"/>
-</v:shape><![endif]--><!-- [if !vml]--><img src="/image_content/028/028_6.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></span><br><span style="font-size: 12pt;"><!--[endif]--></span></p>
+</v:shape><![endif]--><!-- [if !vml]--><img src="/image_content/028/028_6.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 14pt;"> &nbsp;<strong>TRẦN KHẮC TRÍ NHÂN</strong></span><span style="font-size: 12pt;"><!--[endif]--></span></p>
 <p style="text-align: justify; font-size: 12px;">&nbsp;</p>
 <p><!--EndFragment--></p>
