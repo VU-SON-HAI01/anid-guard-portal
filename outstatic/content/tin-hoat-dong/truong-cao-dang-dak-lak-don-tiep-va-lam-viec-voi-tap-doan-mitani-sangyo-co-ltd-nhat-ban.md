@@ -4,14 +4,14 @@ publishedAt: "2026-05-28T12:00:00.000Z"
 publicationDate: "2026-05-28"
 status: "published"
 author:
-  name: "Vũ Sơn Hải"
-  picture: "/avatar/26111_1.jpg?v=1779953644759"
+  name: "Trần Khắc Trí Nhân"
+  picture: "/avatar/26092_1.jpg?v=1778870797647"
 slug: "truong-cao-dang-dak-lak-don-tiep-va-lam-viec-voi-tap-doan-mitani-sangyo-co-ltd-nhat-ban"
 description: "Sáng ngày 28/5/2026, tại Trường Cao đẳng Đắk Lắk đã tổ chức đón tiếp và làm việc với đoàn công tác của Tập đoàn Mitani Sangyo Co., Ltd. đến từ Nhật Bản nhằm trao đổi, tìm hiểu cơ hội hợp tác trong lĩnh vực đào tạo, thực tập, tuyển dụng nguồn nhân lực và kết nối doanh nghiệp."
 location: "Cơ sở chính"
 coverImage: "/image_content/029/029_1.png"
 postId: "029"
-idArticleWriter: "PCT26111"
+idArticleWriter: "PDT26092"
 ---
 
 <p style="text-align: justify; font-size: 12px;"><!--StartFragment--></p>
