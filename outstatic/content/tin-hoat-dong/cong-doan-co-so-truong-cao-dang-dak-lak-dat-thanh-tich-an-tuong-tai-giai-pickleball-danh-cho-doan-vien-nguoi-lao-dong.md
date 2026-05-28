@@ -2,7 +2,7 @@
 title: "CÔNG ĐOÀN CƠ SỞ TRƯỜNG CAO ĐẲNG ĐẮK LẮK ĐẠT THÀNH TÍCH ẤN TƯỢNG TẠI GIẢI PICKLEBALL DÀNH CHO ĐOÀN VIÊN, NGƯỜI LAO ĐỘNG"
 publishedAt: "2026-05-25T12:00:00.000Z"
 publicationDate: "2026-05-25"
-status: "draft"
+status: "published"
 author:
   name: "T.K.T.NHÂN"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
