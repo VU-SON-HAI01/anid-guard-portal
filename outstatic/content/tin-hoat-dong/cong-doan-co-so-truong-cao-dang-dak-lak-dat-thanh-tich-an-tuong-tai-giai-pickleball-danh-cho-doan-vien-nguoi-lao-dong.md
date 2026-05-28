@@ -2,7 +2,7 @@
 title: "CÔNG ĐOÀN CƠ SỞ TRƯỜNG CAO ĐẲNG ĐẮK LẮK ĐẠT THÀNH TÍCH ẤN TƯỢNG TẠI GIẢI PICKLEBALL DÀNH CHO ĐOÀN VIÊN, NGƯỜI LAO ĐỘNG"
 publishedAt: "2026-05-25T12:00:00.000Z"
 publicationDate: "2026-05-25"
-status: "published"
+status: "draft"
 author:
   name: "T.K.T.NHÂN"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
@@ -64,9 +64,7 @@ idArticleWriter: "CMS26001"
 </v:shape><![endif]--><!-- [if !vml]--><img width="800" src="/image_content/027/027_3.png" v:shapes="_x0000_i1030"><!--[endif]--></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Giải Pickleball lần này không chỉ là dịp để đoàn viên, người lao động giao lưu, học hỏi kinh nghiệm mà còn góp phần lan tỏa phong trào rèn luyện sức khỏe, nâng cao thể chất theo gương Bác Hồ vĩ đại. Đồng thời, đây cũng là cơ hội để Công đoàn cơ sở Trường Cao đẳng Đắk Lắk tiếp tục khẳng định vai trò tiên phong trong các phong trào thi đua, hoạt động văn hóa – thể thao do các cấp công đoàn phát động.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">Với những kết quả đạt được, tập thể Công đoàn cơ sở Trường Cao đẳng Đắk Lắk tiếp tục thể hiện tinh thần đoàn kết, nhiệt huyết và quyết tâm xây dựng môi trường giáo dục hiện đại, nhân văn và giàu bản sắc; góp phần nâng cao hình ảnh, vị thế của nhà trường trong giai đoạn phát triển mới.</span></p>
-<div class="highlight-note">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>&nbsp;Một số hình ảnh khác:</u></em></div>
-
-<p style="text-align: justify; font-size: 12px;"><img src="/image_content/027/027_10.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<div class="highlight-note">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em><u>&nbsp;Một số hình ảnh khác:</u></em></div><p style="text-align: justify; font-size: 12px;"><img src="/image_content/027/027_10.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
 <p style="text-align: justify; font-size: 12px;"><img src="/image_content/027/027_11.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><em><u><img src="/image_content/027/027_8.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"><img src="/image_content/027/027_9.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"><img src="/image_content/027/027_12.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"><br><!--[endif]--></u></em></span></p>
 <p style="font-size: 12px; text-align: right;"><span style="font-size: 12pt;"><strong>TRẦN KHẮC TRÍ NHÂN</strong></span></p>
