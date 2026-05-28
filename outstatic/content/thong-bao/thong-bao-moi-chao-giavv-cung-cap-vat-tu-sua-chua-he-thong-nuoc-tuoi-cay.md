@@ -2,7 +2,7 @@
 title: "THÔNG BÁO MỜI CHÀO GIÁ(V/v Cung cấp vật tư sửa chữa hệ thống nước tưới cây)"
 publishedAt: "2026-05-15T12:00:00.000Z"
 publicationDate: "2026-05-15"
-status: "published"
+status: "draft"
 author:
   name: "Admin CMS"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
