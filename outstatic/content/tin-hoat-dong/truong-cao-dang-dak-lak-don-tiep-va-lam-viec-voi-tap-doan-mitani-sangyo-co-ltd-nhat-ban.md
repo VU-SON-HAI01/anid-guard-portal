@@ -2,7 +2,7 @@
 title: "TRƯỜNG CAO ĐẲNG ĐẮK LẮK ĐÓN TIẾP VÀ LÀM VIỆC VỚI TẬP ĐOÀN MITANI SANGYO CO., LTD. (NHẬT BẢN)"
 publishedAt: "2026-05-28T12:00:00.000Z"
 publicationDate: "2026-05-28"
-status: "draft"
+status: "published"
 author:
   name: "Vũ Sơn Hải"
   picture: "/avatar/26092_1.jpg?v=1778870797647"
