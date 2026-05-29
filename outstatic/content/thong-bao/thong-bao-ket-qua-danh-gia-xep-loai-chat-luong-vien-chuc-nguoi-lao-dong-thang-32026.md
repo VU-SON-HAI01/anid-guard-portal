@@ -14,4 +14,4 @@ postId: "010"
 idArticleWriter: "CMS26001"
 ---
 
-<p><img src="/image_content/010/010_1.png" alt="010_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p style="text-align: justify; font-size: 12px;"><img src="/image_content/010/010_1.png" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
