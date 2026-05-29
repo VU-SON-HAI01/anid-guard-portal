@@ -5,20 +5,21 @@ publicationDate: "2026-04-22"
 status: "published"
 author:
   name: "TVG"
-  picture: "/avatar/26001_1.jpg"
+  picture: "/avatar/26001_1.jpg?v=1778867235581"
 slug: "quy-dinh-ve-muc-thu-hoc-phi-dao-tao-lai-xe-va-thong-bao-tuyen-sinh-lop-mo-to-hang-a1-ap-dung-tu-thang-042026"
 description: "Tại sao nên học tại Trường Cao đẳng Đắk Lắk Chi phí minh bạch: Cam kết thu đúng theo quyết định của nhà trường.Thủ tục nhanh chóng: Hỗ trợ học viên hoàn thiện hồ sơ đăng ký gọn nhẹ.Sân tập chuẩn: Đảm bảo điều kiện tốt nhất cho học viên thực hành."
 location: "Cơ sở chính"
 coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/v1777680996/Article/Notification%28thongbao%29/004/004_1.jpg"
 postId: "004"
-idArticleWriter: "PDT26001"
+idArticleWriter: "CMS26001"
 attachments:
   - name: "QUYẾT ĐỊNH Về việc Quy định mức thu học phí đào tạo lái xe hạng A1"
     url: "https://res.cloudinary.com/dty3e9nxk/raw/upload/v1778115758/Article/Notification%28thongbao%29/004/QUY%E1%BA%BET%20%C4%90%E1%BB%8ANH%20V%E1%BB%81%20vi%E1%BB%87c%20Quy%20%C4%91%E1%BB%8Bnh%20m%E1%BB%A9c%20thu%20h%E1%BB%8Dc%20ph%C3%AD%20%C4%91%C3%A0o%20t%E1%BA%A1o%20l%C3%A1i%20xe%20h%E1%BA%A1ng%20A1"
     public_id: "Article/Notification(thongbao)/004/QUYẾT ĐỊNH Về việc Quy định mức thu học phí đào tạo lái xe hạng A1"
 ---
 
-<p style="text-align: justify; font-size: 12px;"><strong><img style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;" src="https://res.cloudinary.com/dty3e9nxk/image/upload/v1777681025/Article/Notification%28thongbao%29/004/004_2.jpg" width="800"></strong></p>
+<p><img src="/image_content/004/004_1.jpg" alt="004_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+
 <div class="highlight-note"><strong>Thông tin chi tiết dành cho các bạn học viên như sau:</strong></div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"><strong>Mức học phí niêm yết:</strong></span></p>
 <ul>
