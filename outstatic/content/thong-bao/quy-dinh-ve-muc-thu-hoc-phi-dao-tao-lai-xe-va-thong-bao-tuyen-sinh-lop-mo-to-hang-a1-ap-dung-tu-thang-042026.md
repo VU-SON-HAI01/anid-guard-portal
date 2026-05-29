@@ -13,10 +13,15 @@ coverImage: "/image_content/004/004_mpr4s58y_u6imq.jpg"
 postId: "004"
 idArticleWriter: "CMS26001"
 attachments:
-  - name: "Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1-2.pdf"
-    url: "/image_content/004/Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1-2.pdf"
-    public_id: "image_content/004/Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1-2.pdf"
-    displayName: "Quy dinh muc thu hoc phi lai xe A1 4-2026 (1) (2).pdf"
+  - name: "Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1.pdf"
+    url: "/image_content/004/Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1.pdf"
+    public_id: "image_content/004/Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1.pdf"
+    displayName: "Quy dinh muc thu hoc phi lai xe A1 4-2026 (1).pdf"
+    bytes: 653583
+  - name: "Quy định mức thu học phí A1"
+    url: "/image_content/004/Quy định mức thu học phí A1.pdf"
+    public_id: "image_content/004/Quy định mức thu học phí A1"
+    displayName: "Quy định mức thu học phí A1"
     bytes: 653583
 ---
 
