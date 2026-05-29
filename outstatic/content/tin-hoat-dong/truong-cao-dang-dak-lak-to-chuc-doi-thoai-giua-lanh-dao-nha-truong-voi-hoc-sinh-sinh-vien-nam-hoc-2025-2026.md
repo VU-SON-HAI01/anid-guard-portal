@@ -5,7 +5,7 @@ publicationDate: "2026-05-29"
 status: "published"
 author:
   name: "Trần Khắc Trí Nhân"
-  picture: "/avatar/26092_1.jpg?v=1778870797647"
+  picture: ""
 slug: "truong-cao-dang-dak-lak-to-chuc-doi-thoai-giua-lanh-dao-nha-truong-voi-hoc-sinh-sinh-vien-nam-hoc-2025-2026"
 description: ""
 location: "Cơ sở chính"
@@ -77,6 +77,7 @@ idArticleWriter: "PDT26092"
 </v:shape><![endif]--><!-- [if !vml]-->Tại chương trình, đại diện Ban Giám hiệu cùng lãnh đạo các phòng, khoa đã trực tiếp lắng nghe, trao đổi và giải đáp nhiều ý kiến, kiến nghị của học sinh, sinh viên với tinh thần cầu thị, cởi mở và trách nhiệm. Nhiều nội dung đã được các đơn vị chuyên môn ghi nhận và cam kết triển khai xử lý trong thời gian tới nhằm cải thiện điều kiện học tập, sinh hoạt và nâng cao chất lượng đào tạo của Nhà trường.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Đặc biệt, lãnh đạo Nhà trường ghi nhận tinh thần đóng góp xây dựng tích cực, thẳng thắn và trách nhiệm của học sinh, sinh viên. Đây được xem là nguồn thông tin quan trọng để Nhà trường tiếp tục đổi mới công tác quản lý, đào tạo và phục vụ người học ngày càng tốt hơn.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Thông qua chương trình đối thoại, học sinh, sinh viên không chỉ có cơ hội bày tỏ tâm tư, nguyện vọng mà còn hiểu rõ hơn về định hướng phát triển của Nhà trường, các quy định, chính sách liên quan cũng như trách nhiệm của bản thân trong quá trình học tập và rèn luyện.</span></p>
+<blockquote>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Chương trình đối thoại giữa lãnh đạo Nhà trường với học sinh, sinh viên năm học 2025 – 2026 đã diễn ra trong không khí dân chủ, cởi mở và xây dựng, góp phần tăng cường sự gắn kết giữa Nhà trường và người học, đồng thời khẳng định sự quan tâm của Trường Cao đẳng Đắk Lắk đối với công tác chăm lo, hỗ trợ và đồng hành cùng học sinh, sinh viên trên hành trình học tập và phát triển nghề nghiệp.</span></p>
-<p style="font-size: 12px; text-align: right;"><span style="font-size: 14pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong> &nbsp;TRẦN KHẮC TRÍ NHÂN</strong></span></p>
+</blockquote>
 <p style="text-align: justify; font-size: 12px;"><!--EndFragment--></p>
