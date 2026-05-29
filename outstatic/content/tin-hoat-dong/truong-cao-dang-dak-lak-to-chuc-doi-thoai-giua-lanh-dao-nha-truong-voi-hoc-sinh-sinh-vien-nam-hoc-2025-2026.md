@@ -60,15 +60,14 @@ attachments:
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/TRINHA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png"
   o:title=""/>
-</v:shape><![endif]--><!-- [if !vml]--></span><br><span style="font-size: 14pt;"><!--[endif]--></span></p>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Trước buổi đối thoại, các khoa chuyên môn đã tổ chức sinh hoạt lớp, tổng hợp ý kiến, kiến nghị của học sinh, sinh viên gửi về Nhà trường. Nội dung các ý kiến tập trung vào nhiều nhóm vấn đề thiết thực như: công tác đào tạo, cơ sở vật chất, chế độ chính sách, học bổng, môi trường học tập, ký túc xá, hoạt động phong trào và hỗ trợ trải nghiệm thực tế nghề nghiệp.</span></p>
+</v:shape><![endif]--><!-- [if !vml]--></span><span style="font-size: 14pt;">Trước buổi đối thoại, các khoa chuyên môn đã tổ chức sinh hoạt lớp, tổng hợp ý kiến, kiến nghị của học sinh, sinh viên gửi về Nhà trường. Nội dung các ý kiến tập trung vào nhiều nhóm vấn đề thiết thực như: công tác đào tạo, cơ sở vật chất, chế độ chính sách, học bổng, môi trường học tập, ký túc xá, hoạt động phong trào và hỗ trợ trải nghiệm thực tế nghề nghiệp.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Trong lĩnh vực đào tạo, nhiều học sinh, sinh viên đề xuất Nhà trường tăng cường các hoạt động thực hành, trải nghiệm thực tế tại doanh nghiệp; bổ sung thêm mô đun kỹ năng nghề nghiệp; thành lập các câu lạc bộ chuyên môn; đồng thời xem xét điều chỉnh lịch học, lịch thi hợp lý nhằm giảm áp lực học tập. Bên cạnh đó, nhiều ý kiến cũng mong muốn Nhà trường tiếp tục nâng cao chất lượng giờ thực hành, tăng cường kết nối doanh nghiệp để sinh viên có thêm cơ hội tiếp cận môi trường làm việc thực tế.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;"><!-- [if gte vml 1]><v:shape
  id="_x0000_i1026" type="#_x0000_t75" style='width:451.2pt;height:209.4pt;
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/TRINHA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png"
   o:title=""/>
-</v:shape><![endif]--><!-- [if !vml]--><img width="800" src="/image_content/030/030_7.png" v:shapes="_x0000_i1026"><!--[endif]--></span></p>
+</v:shape><![endif]--><!-- [if !vml]--><br><!--[endif]--></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Đối với cơ sở vật chất, học sinh, sinh viên đã thẳng thắn phản ánh nhiều vấn đề còn tồn tại. Nhiều ý kiến cũng đề xuất Nhà trường cải tạo cảnh quan, bổ sung cây xanh, khu vực học tập ngoài trời, hệ thống nước uống sạch và nâng cấp các khu nhà xưởng thực hành nhằm đảm bảo an toàn và nâng cao chất lượng học tập.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Trong công tác học sinh, sinh viên, các nội dung liên quan đến học bổng, trợ cấp chính sách, hoạt động ngoại khóa, kỹ năng sống, an ninh nhà xe và điều kiện sinh hoạt tại ký túc xá cũng được học sinh, sinh viên quan tâm. Nhiều em mong muốn Nhà trường tổ chức thêm các hoạt động văn hóa – văn nghệ, thể dục thể thao, hội thao, câu lạc bộ kỹ năng nhằm tạo môi trường học tập năng động, gắn kết và phát triển toàn diện hơn cho học sinh, sinh viên.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;"><!-- [if gte vml 1]><v:shape
