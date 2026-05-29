@@ -9,6 +9,7 @@ author:
 slug: "to-chuc-tu-van-tuyen-sinh-lien-thong-trinh-do-cao-dang-nam-2026-gan-voi-dinh-huong-nghe-nghiep-va-viec-lam"
 description: "Sáng ngày 25/5/2026, tại Hội trường Cơ sở 4, Trường Cao đẳng Đắk Lắk đã tổ chức thành công chương trình “Tư vấn tuyển sinh liên thông trình độ cao đẳng năm 2026 gắn với định hướng nghề nghiệp và việc làm” dành cho học sinh đã tốt nghiệp trung cấp và học sinh năm cuối đang học tập tại trường."
 location: "Cơ sở chính"
+coverImage: "/image_content/032/032_1.jpg"
 postId: "032"
 idArticleWriter: "CMS26001"
 ---
