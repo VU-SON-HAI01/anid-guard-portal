@@ -53,7 +53,6 @@ attachments:
   o:title=""/>
 </v:shape><![endif]--><!-- [if !vml]--></span></p>
 <p><img src="/image_content/030/030_11.jpg" alt="030_11" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;"><br><!--[endif]--></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Tham dự chương trình có Ban Giám hiệu Nhà trường, lãnh đạo các phòng, khoa chuyên môn, Bí thư Đoàn trường, giáo viên chủ nhiệm cùng hơn 160 học sinh, sinh viên đại diện các khoa: Cơ – Điện – Xây dựng; Công nghệ ô tô; Công nghệ thông tin – Kế toán; Du lịch – Thời trang; Nông – Lâm – Thú y – Thủy sản; Sư phạm – Xã hội.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;">Phát biểu tại chương trình, Thầy Đặng Văn Lái – Bí thư Đảng ủy, hiệu trưởng nhà trường, đại diện lãnh đạo Nhà trường nhấn mạnh phương châm “Lấy người học làm trung tâm, lấy chất lượng đào tạo làm cốt lõi, đáp ứng nhu cầu của doanh nghiệp và việc làm của học sinh, sinh viên”. Đồng thời khẳng định, hoạt động đối thoại là cầu nối quan trọng giúp Nhà trường và người học tăng cường sự thấu hiểu, chia sẻ và đồng hành trong quá trình học tập, rèn luyện.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 14pt;"><!-- [if gte vml 1]><v:shape
