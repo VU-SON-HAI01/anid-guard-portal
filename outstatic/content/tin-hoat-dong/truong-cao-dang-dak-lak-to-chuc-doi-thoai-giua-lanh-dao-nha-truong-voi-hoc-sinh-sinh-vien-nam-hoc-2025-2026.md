@@ -9,9 +9,13 @@ author:
 slug: "truong-cao-dang-dak-lak-to-chuc-doi-thoai-giua-lanh-dao-nha-truong-voi-hoc-sinh-sinh-vien-nam-hoc-2025-2026"
 description: ""
 location: "Cơ sở chính"
-coverImage: "/image_content/030/030_1.png"
+coverImage: "/image_content/030/030_8.png"
 postId: "030"
 idArticleWriter: "PCT26111"
+attachments:
+  - name: "030_1"
+    url: "/image_content/030/030_1.png"
+    public_id: "image_content/030/030_1"
 ---
 
 <p style="text-align: justify; font-size: 12px;"><!--StartFragment--></p>
