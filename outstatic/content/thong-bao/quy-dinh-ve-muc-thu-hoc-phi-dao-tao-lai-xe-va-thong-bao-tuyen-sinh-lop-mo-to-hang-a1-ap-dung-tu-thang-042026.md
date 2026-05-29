@@ -13,9 +13,11 @@ coverImage: "/image_content/004/004_mpr4s58y_u6imq.jpg"
 postId: "004"
 idArticleWriter: "CMS26001"
 attachments:
-  - name: "Giới thiệu trường"
-    url: "/image_content/004/Giới thiệu trường.pdf"
-    public_id: "image_content/004/Giới thiệu trường"
+  - name: "Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1-2.pdf"
+    url: "/image_content/004/Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1-2.pdf"
+    public_id: "image_content/004/Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1-2.pdf"
+    displayName: "Quy dinh muc thu hoc phi lai xe A1 4-2026 (1) (2).pdf"
+    bytes: 653583
 ---
 
 <p><img src="/image_content/004/004_mpr4s58y_u6imq.jpg" alt="004_mpr4s58y_u6imq" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
