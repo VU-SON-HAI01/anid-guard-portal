@@ -4,7 +4,7 @@ publishedAt: "2026-05-29T12:00:00.000Z"
 publicationDate: "2026-05-29"
 status: "published"
 author:
-  name: "Admin CMS"
+  name: "T.K.T.NHÂN"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
 slug: "truong-cao-dang-dak-lak-to-chuc-doi-thoai-giua-lanh-dao-nha-truong-voi-hoc-sinh-sinh-vien-nam-hoc-2025-2026"
 description: "Chiều ngày 29/5/2026, tại Hội trường Trường Cao đẳng Đắk Lắk đã tổ chức chương trình đối thoại giữa lãnh đạo Nhà trường với học sinh, sinh viên năm học 2025 – 2026."
