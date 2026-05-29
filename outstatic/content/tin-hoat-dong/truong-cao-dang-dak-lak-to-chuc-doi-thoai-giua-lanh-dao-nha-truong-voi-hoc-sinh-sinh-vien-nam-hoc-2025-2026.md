@@ -2,7 +2,7 @@
 title: "TRƯỜNG CAO ĐẲNG ĐẮK LẮK TỔ CHỨC ĐỐI THOẠI GIỮA LÃNH ĐẠO NHÀ TRƯỜNG VỚI HỌC SINH, SINH VIÊN NĂM HỌC 2025 – 2026"
 publishedAt: "2026-05-29T12:00:00.000Z"
 publicationDate: "2026-05-29"
-status: "draft"
+status: "published"
 author:
   name: "Admin CMS"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
