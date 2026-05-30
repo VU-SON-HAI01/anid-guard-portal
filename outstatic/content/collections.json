@@ -195,13 +195,33 @@
     "thumbnail": ""
   },
   {
+    "title": "Xu hướng nghề nghiệp & Thị trường lao động",
+    "name": "Xu hướng nghề nghiệp & Thị trường lao động",
+    "slug": "xu-huong-nghe-nghiep-thi-truong-lao-dong",
+    "path": "outstatic/content/xu-huong-nghe-nghiep-thi-truong-lao-dong",
+    "imageFolder": "Article/xu-huong-nghe-nghiep-thi-truong-lao-dong",
+    "children": [],
+    "parentId": "tin-tuc-giao-duc",
+    "sortOrder": 1,
+    "type": "post",
+    "icon": "FileTextOutlined",
+    "description": "",
+    "seo": {
+      "title": "Xu hướng nghề nghiệp & Thị trường lao động",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Tin tức giáo dục",
     "name": "Tin tức giáo dục",
     "slug": "tin-tuc-giao-duc",
     "path": "outstatic/content/tin-tuc-giao-duc",
     "imageFolder": "Index(trangchinh)",
     "children": [
-      "chinh-sach-gdnn"
+      "chinh-sach-gdnn",
+      "xu-huong-nghe-nghiep-thi-truong-lao-dong"
     ],
     "parentId": null,
     "sortOrder": 2,
