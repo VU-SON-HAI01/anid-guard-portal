@@ -22,8 +22,8 @@
     "thumbnail": "/Thumbnail/thumbnail_chuyenmuc/thumb_1778490489175.jpg"
   },
   {
-    "title": "Tin hoạt động",
-    "name": "Tin hoạt động",
+    "title": "Hoạt động - Sự kiện",
+    "name": "Hoạt động - Sự kiện",
     "slug": "tin-hoat-dong",
     "path": "outstatic/content/tin-hoat-dong",
     "imageFolder": "Article/Event(sukien)",
@@ -32,7 +32,7 @@
     "sortOrder": 0,
     "type": "post",
     "icon": "CalendarOutlined",
-    "description": "Tin các hoạt động của nhà trường",
+    "description": "Tất cả các sự kiện lớn, mang tính chất phong trào hoặc hoạt động thường niên diễn ra tại trường:\n- Lễ khai giảng, lễ tốt nghiệp, ngày nhà giáo Việt Nam 20/11.Các hội diễn văn nghệ, giải thể thao, chiến dịch tình nguyện của sinh viên.\n- Hội nghị cán bộ viên chức, đại hội Đoàn - Hội.",
     "seo": {
       "title": "Tin hoạt động",
       "description": "",
