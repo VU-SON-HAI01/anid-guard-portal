@@ -154,25 +154,6 @@
     "thumbnail": ""
   },
   {
-    "title": "Tuyển sinh & Đối tác",
-    "name": "Tuyển sinh & Đối tác",
-    "slug": "tuyen-sinh-doi-tac",
-    "path": "outstatic/content/tuyen-sinh-doi-tac",
-    "imageFolder": "Article/tuyen-sinh-doi-tac",
-    "children": [],
-    "parentId": "thong-bao",
-    "sortOrder": 0,
-    "type": "post",
-    "icon": "TeamOutlined",
-    "description": "",
-    "seo": {
-      "title": "Tuyển sinh & Đối tác",
-      "description": "",
-      "keywords": ""
-    },
-    "thumbnail": ""
-  },
-  {
     "title": "Thông Báo",
     "name": "Thông Báo",
     "slug": "thong-bao",
@@ -181,8 +162,7 @@
     "children": [
       "thong-bao-moi-dau-thau",
       "thong-bao-chung-thay-co",
-      "hoc-sinh-sinh-vien",
-      "tuyen-sinh-doi-tac"
+      "hoc-sinh-sinh-vien"
     ],
     "parentId": null,
     "sortOrder": 1,
