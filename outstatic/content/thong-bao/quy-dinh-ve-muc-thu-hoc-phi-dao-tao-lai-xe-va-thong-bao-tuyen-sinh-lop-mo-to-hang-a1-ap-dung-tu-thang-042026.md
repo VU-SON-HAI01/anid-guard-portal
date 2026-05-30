@@ -9,19 +9,16 @@ author:
 slug: "quy-dinh-ve-muc-thu-hoc-phi-dao-tao-lai-xe-va-thong-bao-tuyen-sinh-lop-mo-to-hang-a1-ap-dung-tu-thang-042026"
 description: "Tại sao nên học tại Trường Cao đẳng Đắk Lắk Chi phí minh bạch: Cam kết thu đúng theo quyết định của nhà trường.Thủ tục nhanh chóng: Hỗ trợ học viên hoàn thiện hồ sơ đăng ký gọn nhẹ.Sân tập chuẩn: Đảm bảo điều kiện tốt nhất cho học viên thực hành."
 location: "Cơ sở chính"
-coverImage: "/image_content/004/004_mpr4s58y_u6imq.jpg"
+coverImage: "/image_content/004/004_1.jpg"
 postId: "004"
 idArticleWriter: "CMS26001"
 attachments:
   - name: "Quy-dinh-muc-thu-hoc-phi-A1-1.pdf"
     url: "/image_content/004/Quy-dinh-muc-thu-hoc-phi-A1-1.pdf"
     public_id: "image_content/004/Quy-dinh-muc-thu-hoc-phi-A1-1.pdf"
-    displayName: "Quy định mức thu học phí A1 (1).pdf"
-    bytes: 653583
 ---
 
 <p><img src="/image_content/004/004_1.jpg" alt="004_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
-
 <div class="highlight-note"><span style="font-size: 16px;"><strong>Thông tin chi tiết dành cho các bạn học viên như sau:</strong></span></div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 16px;"><strong>Mức học phí niêm yết:</strong></span></p>
 <ul>
