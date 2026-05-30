@@ -135,6 +135,25 @@
     "thumbnail": ""
   },
   {
+    "title": "Học sinh - Sinh viên",
+    "name": "Học sinh - Sinh viên",
+    "slug": "hoc-sinh-sinh-vien",
+    "path": "outstatic/content/hoc-sinh-sinh-vien",
+    "imageFolder": "Article/hoc-sinh-sinh-vien",
+    "children": [],
+    "parentId": "thong-bao",
+    "sortOrder": 0,
+    "type": "post",
+    "icon": "FileTextOutlined",
+    "description": "",
+    "seo": {
+      "title": "Học sinh - Sinh viên",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Thông Báo",
     "name": "Thông Báo",
     "slug": "thong-bao",
@@ -142,7 +161,8 @@
     "imageFolder": "Article/Notification(thongbao)",
     "children": [
       "thong-bao-moi-dau-thau",
-      "thong-bao-chung-thay-co"
+      "thong-bao-chung-thay-co",
+      "hoc-sinh-sinh-vien"
     ],
     "parentId": null,
     "sortOrder": 1,
