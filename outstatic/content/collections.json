@@ -7,7 +7,8 @@
     "imageFolder": "Article/Event(sukien)",
     "children": [
       "tin-hoat-dong",
-      "hop-tac-va-viec-lam"
+      "hop-tac-va-viec-lam",
+      "sang-tao-khkt-hoi-thi-tay-nghe"
     ],
     "parentId": null,
     "sortOrder": 0,
@@ -331,6 +332,25 @@
       "title": "Giáo dục phổ thông & Toàn cảnh Tuyển sinh",
       "description": "",
       "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
+    "title": "Sáng tạo KHKT & Hội thi tay nghề",
+    "name": "Sáng tạo KHKT & Hội thi tay nghề",
+    "slug": "sang-tao-khkt-hoi-thi-tay-nghe",
+    "path": "outstatic/content/sang-tao-khkt-hoi-thi-tay-nghe",
+    "imageFolder": "Article/sang-tao-khkt-hoi-thi-tay-nghe",
+    "children": [],
+    "parentId": "tin-tuc-su-kien",
+    "sortOrder": 3,
+    "type": "post",
+    "icon": "FileTextOutlined",
+    "description": "Nơi tôn vinh năng lực chuyên môn và các cải tiến kỹ thuật của cả thầy và trò:\n- Diễn biến và kết quả Hội thi học sinh giỏi nghề, Hội giảng nhà giáo giáo dục nghề nghiệp các cấp.\n- Tin tức về các mô hình học cụ tự chế, sáng kiến khoa học, giải thưởng sáng tạo kỹ thuật của trường.",
+    "seo": {
+      "title": "Sáng tạo KHKT & Hội thi tay nghề",
+      "description": "Tôn vinh các thành tích cao tại Hội thi tay nghề các cấp, giải thưởng sáng tạo khoa học kỹ thuật và mô hình học cụ tự chế của thầy và trò.",
+      "keywords": "Hội thi tay nghề cao đẳng, học sinh giỏi nghề, sáng kiến kinh nghiệm trường nghề, mô hình học cụ tự chế, sáng tạo khoa học kỹ thuật."
     },
     "thumbnail": ""
   },
