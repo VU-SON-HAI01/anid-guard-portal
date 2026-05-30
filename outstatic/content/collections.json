@@ -221,7 +221,8 @@
     "imageFolder": "Index(trangchinh)",
     "children": [
       "chinh-sach-gdnn",
-      "xu-huong-nghe-nghiep-thi-truong-lao-dong"
+      "xu-huong-nghe-nghiep-thi-truong-lao-dong",
+      "sang-kien-cong-nghe-40"
     ],
     "parentId": null,
     "sortOrder": 2,
@@ -249,6 +250,25 @@
     "description": "",
     "seo": {
       "title": "Tuyển sinh",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
+    "title": "Sáng kiến & Công nghệ 4.0",
+    "name": "Sáng kiến & Công nghệ 4.0",
+    "slug": "sang-kien-cong-nghe-40",
+    "path": "outstatic/content/sang-kien-cong-nghe-40",
+    "imageFolder": "Article/sang-kien-cong-nghe-40",
+    "children": [],
+    "parentId": "tin-tuc-giao-duc",
+    "sortOrder": 3,
+    "type": "post",
+    "icon": "FileTextOutlined",
+    "description": "",
+    "seo": {
+      "title": "Sáng kiến & Công nghệ 4.0",
       "description": "",
       "keywords": ""
     },
