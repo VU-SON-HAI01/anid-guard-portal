@@ -13,15 +13,15 @@ coverImage: "/image_content/004/004_mpr4s58y_u6imq.jpg"
 postId: "004"
 idArticleWriter: "CMS26001"
 attachments:
-  - name: "Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1.pdf"
-    url: "/image_content/004/Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1.pdf"
-    public_id: "image_content/004/Quy-dinh-muc-thu-hoc-phi-lai-xe-A1-4-2026-1.pdf"
-  - name: "Quy định mức thu học phí A1"
-    url: "/image_content/004/Quy định mức thu học phí A1.pdf"
-    public_id: "image_content/004/Quy định mức thu học phí A1"
+  - name: "Quy-dinh-muc-thu-hoc-phi-A1-1.pdf"
+    url: "/image_content/004/Quy-dinh-muc-thu-hoc-phi-A1-1.pdf"
+    public_id: "image_content/004/Quy-dinh-muc-thu-hoc-phi-A1-1.pdf"
+    displayName: "Quy định mức thu học phí A1 (1).pdf"
+    bytes: 653583
 ---
 
-<p><span style="font-size: 16px;"><img src="/image_content/004/004_mpr4s58y_u6imq.jpg" alt="004_mpr4s58y_u6imq" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></span></p>
+<p><img src="/image_content/004/004_1.jpg" alt="004_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+
 <div class="highlight-note"><span style="font-size: 16px;"><strong>Thông tin chi tiết dành cho các bạn học viên như sau:</strong></span></div>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 16px;"><strong>Mức học phí niêm yết:</strong></span></p>
 <ul>
