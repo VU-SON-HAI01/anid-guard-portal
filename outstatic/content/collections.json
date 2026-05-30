@@ -97,11 +97,11 @@
     "thumbnail": ""
   },
   {
-    "title": "Thông báo chung",
-    "name": "Thông báo chung",
-    "slug": "thong-bao-chung",
-    "path": "outstatic/content/thong-bao-chung",
-    "imageFolder": "Article/thong-bao-chung",
+    "title": "Thầy cô - Cán bộ",
+    "name": "Thầy cô - Cán bộ",
+    "slug": "thong-bao-chung-thay-co",
+    "path": "outstatic/content/thong-bao-chung-thay-co",
+    "imageFolder": "Article/thong-bao-chung-thay-co",
     "children": [],
     "parentId": "thong-bao",
     "sortOrder": 0,
@@ -142,7 +142,7 @@
     "imageFolder": "Article/Notification(thongbao)",
     "children": [
       "thong-bao-moi-dau-thau",
-      "thong-bao-chung"
+      "thong-bao-chung-thay-co"
     ],
     "parentId": null,
     "sortOrder": 1,
