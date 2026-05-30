@@ -6,7 +6,8 @@
     "path": "outstatic/content/tin-tuc-su-kien",
     "imageFolder": "Article/Event(sukien)",
     "children": [
-      "tin-hoat-dong"
+      "tin-hoat-dong",
+      "hop-tac-va-viec-lam"
     ],
     "parentId": null,
     "sortOrder": 0,
@@ -228,6 +229,25 @@
     "description": "",
     "seo": {
       "title": "Xu hướng nghề nghiệp & Thị trường lao động",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
+    "title": "Hợp tác và Việc làm",
+    "name": "Hợp tác và Việc làm",
+    "slug": "hop-tac-va-viec-lam",
+    "path": "outstatic/content/hop-tac-va-viec-lam",
+    "imageFolder": "Article/hop-tac-va-viec-lam",
+    "children": [],
+    "parentId": "tin-tuc-su-kien",
+    "sortOrder": 1,
+    "type": "post",
+    "icon": "GlobalOutlined",
+    "description": "",
+    "seo": {
+      "title": "Hợp tác và Việc làm",
       "description": "",
       "keywords": ""
     },
