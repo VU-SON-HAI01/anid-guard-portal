@@ -116,6 +116,25 @@
     "thumbnail": ""
   },
   {
+    "title": "Chính sách (GDNN)",
+    "name": "Chính sách (GDNN)",
+    "slug": "chinh-sach-gdnn",
+    "path": "outstatic/content/chinh-sach-gdnn",
+    "imageFolder": "Article/chinh-sach-gdnn",
+    "children": [],
+    "parentId": "tin-tuc-giao-duc",
+    "sortOrder": 0,
+    "type": "post",
+    "icon": "FileTextOutlined",
+    "description": "",
+    "seo": {
+      "title": "Chính sách (GDNN)",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Thông Báo",
     "name": "Thông Báo",
     "slug": "thong-bao",
@@ -181,7 +200,9 @@
     "slug": "tin-tuc-giao-duc",
     "path": "outstatic/content/tin-tuc-giao-duc",
     "imageFolder": "Index(trangchinh)",
-    "children": [],
+    "children": [
+      "chinh-sach-gdnn"
+    ],
     "parentId": null,
     "sortOrder": 2,
     "type": "post",
