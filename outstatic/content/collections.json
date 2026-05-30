@@ -97,13 +97,33 @@
     "thumbnail": ""
   },
   {
+    "title": "Thông báo chung",
+    "name": "Thông báo chung",
+    "slug": "thong-bao-chung",
+    "path": "outstatic/content/thong-bao-chung",
+    "imageFolder": "Article/thong-bao-chung",
+    "children": [],
+    "parentId": "thong-bao",
+    "sortOrder": 0,
+    "type": "post",
+    "icon": "BellOutlined",
+    "description": "Thông báo các hoạt động chung và công khai",
+    "seo": {
+      "title": "Thông báo chung",
+      "description": "",
+      "keywords": ""
+    },
+    "thumbnail": ""
+  },
+  {
     "title": "Thông Báo",
     "name": "Thông Báo",
     "slug": "thong-bao",
     "path": "outstatic/content/thong-bao",
     "imageFolder": "Article/Notification(thongbao)",
     "children": [
-      "thong-bao-moi-dau-thau"
+      "thong-bao-moi-dau-thau",
+      "thong-bao-chung"
     ],
     "parentId": null,
     "sortOrder": 1,
