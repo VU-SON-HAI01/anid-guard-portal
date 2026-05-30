@@ -9,6 +9,7 @@ author:
 slug: "truong-cao-dang-dak-lak-don-tiep-va-lam-viec-voi-tap-doan-mitani-sangyo-co-ltd-nhat-ban"
 description: "Sáng ngày 28/5/2026, tại Trường Cao đẳng Đắk Lắk đã tổ chức đón tiếp và làm việc với đoàn công tác của Tập đoàn Mitani Sangyo Co., Ltd. đến từ Nhật Bản nhằm trao đổi, tìm hiểu cơ hội hợp tác trong lĩnh vực đào tạo, thực tập, tuyển dụng nguồn nhân lực và kết nối doanh nghiệp."
 location: "Cơ sở chính"
+coverImage: "/image_content/050/050_1.jpg"
 postId: "050"
 idArticleWriter: "CMS26001"
 ---
