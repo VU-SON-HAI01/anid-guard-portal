@@ -9,6 +9,7 @@ author:
 slug: "hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong"
 description: "VÀ BỔ NHIỆM HIỆU TRƯỞNG, PHÓ HIỆU TRƯỞNG"
 location: "Cơ sở chính"
+coverImage: "/image_content/054/054_1.jpg"
 postId: "054"
 idArticleWriter: "CMS26001"
 ---
