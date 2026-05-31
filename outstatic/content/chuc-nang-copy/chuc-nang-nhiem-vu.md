@@ -9,6 +9,7 @@ author:
 slug: "chuc-nang-nhiem-vu"
 description: "Phòng Công tác học sinh sinh viên – Hợp tác doanh nghiệp (CT HSSV-HTDN) là một trong 05 phòng chức năng thuộc cơ cấu tổ chức của Trường Cao đẳng Đắk Lắk. Phòng có chức năng tham mưu, giúp Hiệu trưởng trong việc quản lý, điều hành và tổ chức thực hiện các hoạt động liên quan đến học sinh, sinh viên (HSSV) và hợp tác với doanh nghiệp"
 location: "Cơ sở chính"
+coverImage: "/image_content/032/032_1.png"
 postId: "032"
 idArticleWriter: "CMS26001"
 ---
