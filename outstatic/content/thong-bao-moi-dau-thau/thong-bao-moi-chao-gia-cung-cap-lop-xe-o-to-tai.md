@@ -5,13 +5,19 @@ publicationDate: "2026-04-16"
 status: "published"
 author:
   name: "VSH"
-  picture: "/avatar/26001_1.jpg"
+  picture: "/avatar/26001_1.jpg?v=1778867235581"
 slug: "thong-bao-moi-chao-gia-cung-cap-lop-xe-o-to-tai"
 description: "Trường Cao đẳng Đắk Lắk thông báo mời các đơn vị, nhà cung cấp có đủ năng lực tham gia chào giá cung cấp vật tư phục vụ công tác đào tạo lái xe, cụ thể như sau:"
 location: "Cơ sở 2"
 coverImage: "/image_content/008/008_1.jpg"
 postId: "008"
 idArticleWriter: "CMS26001"
+attachments:
+  - name: "008_1.jpg"
+    url: "/image_content/008/008_1.jpg"
+    public_id: "image_content/008/008_1"
+    displayName: "008_1"
+    bytes: 354899
 ---
 
 <div>
