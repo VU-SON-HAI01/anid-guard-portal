@@ -100,12 +100,6 @@
           "visible": true
         },
         {
-          "id": "category-grid",
-          "type": "category-grid",
-          "label": "Danh Mục (Quick links)",
-          "visible": true
-        },
-        {
           "id": "announcement-grid",
           "type": "announcement-grid",
           "label": "Thông Báo (60/40)",
@@ -115,6 +109,12 @@
           "id": "news-carousel",
           "type": "news-carousel",
           "label": "Tin Tức – Sự Kiện (Carousel)",
+          "visible": true
+        },
+        {
+          "id": "category-grid",
+          "type": "category-grid",
+          "label": "Danh Mục (Quick links)",
           "visible": true
         },
         {
@@ -461,5 +461,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-06-01T15:45:32.200Z"
+  "updatedAt": "2026-06-01T15:49:24.413Z"
 }
