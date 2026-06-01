@@ -296,7 +296,7 @@
     "major-list": {
       "title": "Tuyển sinh Ngành học theo khoa",
       "item1Image": "/data/data/khoa_1.jpg",
-      "item2Image": "/data/data/khoa_5.jpg",
+      "item2Image": "/data/data/khoa_2.jpg",
       "item3Image": "/data/data/khoa_3.jpg",
       "item4Image": "/data/data/khoa_4.jpg",
       "item5Image": "/data/data/khoa_5.jpg",
@@ -461,5 +461,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-06-01T16:37:51.570Z"
+  "updatedAt": "2026-06-01T16:44:28.832Z"
 }
