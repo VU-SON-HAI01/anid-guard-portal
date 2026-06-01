@@ -103,7 +103,7 @@
           "id": "category-grid",
           "type": "category-grid",
           "label": "Danh Mục (Quick links)",
-          "visible": true
+          "visible": false
         },
         {
           "id": "announcement-grid",
@@ -121,7 +121,7 @@
           "id": "student-banners-1778759850630",
           "type": "student-banners",
           "label": "Học Sinh – Sinh Viên",
-          "visible": true
+          "visible": false
         },
         {
           "id": "media-gallery",
@@ -461,5 +461,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-06-01T15:33:18.104Z"
+  "updatedAt": "2026-06-01T15:42:47.820Z"
 }
