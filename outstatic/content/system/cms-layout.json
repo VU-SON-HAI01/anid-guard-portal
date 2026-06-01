@@ -79,13 +79,13 @@
           "id": "hero-banner-mp9pqyh4",
           "type": "hero-banner",
           "label": "Banner Slider (Hero)",
-          "visible": false
+          "visible": true
         },
         {
           "id": "banner-note-mp9q8xfr",
           "type": "banner-note",
           "label": "Banner Note 3D",
-          "visible": true
+          "visible": false
         },
         {
           "id": "stats-bar",
@@ -103,7 +103,7 @@
           "id": "category-grid",
           "type": "category-grid",
           "label": "Danh Mục (Quick links)",
-          "visible": false
+          "visible": true
         },
         {
           "id": "announcement-grid",
@@ -461,5 +461,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-06-01T15:43:29.150Z"
+  "updatedAt": "2026-06-01T15:45:32.200Z"
 }
