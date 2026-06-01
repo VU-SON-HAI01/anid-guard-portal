@@ -2,7 +2,7 @@
 title: "TRƯỜNG CAO ĐẲNG ĐẮK LẮK PHỐI HỢP AGRIBANK TRAO TẶNG QUÀ TẾT CHO HỌC SINH, SINH VIÊN CÓ HOÀN CẢNH KHÓ KHĂN"
 publishedAt: "2026-02-16T12:00:00.000Z"
 publicationDate: "2026-02-16"
-status: "draft"
+status: "published"
 author:
   name: "TTD"
   picture: "/avatar/26001_1.jpg"
