@@ -85,7 +85,7 @@
           "id": "banner-note-mp9q8xfr",
           "type": "banner-note",
           "label": "Banner Note 3D",
-          "visible": true
+          "visible": false
         },
         {
           "id": "stats-bar",
@@ -461,5 +461,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-05-18T19:29:10.040Z"
+  "updatedAt": "2026-06-01T15:32:01.101Z"
 }
