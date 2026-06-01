@@ -79,13 +79,13 @@
           "id": "hero-banner-mp9pqyh4",
           "type": "hero-banner",
           "label": "Banner Slider (Hero)",
-          "visible": true
+          "visible": false
         },
         {
           "id": "banner-note-mp9q8xfr",
           "type": "banner-note",
           "label": "Banner Note 3D",
-          "visible": false
+          "visible": true
         },
         {
           "id": "stats-bar",
@@ -461,5 +461,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-06-01T15:49:24.413Z"
+  "updatedAt": "2026-06-01T15:53:56.592Z"
 }
