@@ -5,11 +5,11 @@ publicationDate: "2026-03-28"
 status: "published"
 author:
   name: "TVG"
-  picture: "/avatar/26001_1.jpg"
+  picture: "/avatar/26001_1.jpg?v=1778867235581"
 slug: "dien-dan-doi-thoai-sinh-vien-nha-truong-doanh-nghiep"
 description: "Sáng 28/3, Trường Cao đẳng Đắk Lắk phối hợp Ban Quản lý dự án “Tăng cường năng lực và thúc đẩy thực hành bảo vệ trẻ em trong sản xuất cà phê” (Sở Y tế Đắk Lắk) tổ chức diễn đàn đối thoại giữa sinh viên - nhà trường - doanh nghiệp với chủ đề “Kết nối doanh nghiệp, cơ hội việc làm cho lao động trẻ”."
 location: "Cơ sở chính"
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777811955/Article/Event%28sukien%29/012/thumbnail.jpg"
+coverImage: "/image_content/012/012_16.jpg"
 postId: "012"
 idArticleWriter: "CMS26001"
 ---
