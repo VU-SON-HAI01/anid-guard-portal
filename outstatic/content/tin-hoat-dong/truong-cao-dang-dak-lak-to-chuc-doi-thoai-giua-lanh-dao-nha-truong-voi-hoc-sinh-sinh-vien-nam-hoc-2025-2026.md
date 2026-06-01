@@ -9,7 +9,7 @@ author:
 slug: "truong-cao-dang-dak-lak-to-chuc-doi-thoai-giua-lanh-dao-nha-truong-voi-hoc-sinh-sinh-vien-nam-hoc-2025-2026"
 description: ""
 location: "Cơ sở chính"
-coverImage: "/image_content/030/030_8.png"
+coverImage: "/image_content/030/030_1.png"
 postId: "030"
 idArticleWriter: "CMS26001"
 ---
@@ -41,7 +41,6 @@ idArticleWriter: "CMS26001"
   o:title=""/>
 </v:shape><![endif]--><!-- [if !vml]--></p>
 <p><img src="/image_content/030/030_1.png" alt="030_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><br><!--[endif]--></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Chiều ngày 29/5/2026, tại Hội trường Trường Cao đẳng Đắk Lắk đã tổ chức chương trình đối thoại giữa lãnh đạo Nhà trường với học sinh, sinh viên năm học 2025 – 2026.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Chương trình được tổ chức nhằm thực hiện Quy chế dân chủ trong trường học, đồng thời tạo diễn đàn trao đổi trực tiếp giữa học sinh, sinh viên với lãnh đạo Nhà trường và các phòng, khoa chuyên môn. Qua đó, Nhà trường kịp thời nắm bắt tâm tư, nguyện vọng, những kiến nghị, đề xuất của học sinh, sinh viên để có các giải pháp phù hợp, góp phần nâng cao chất lượng đào tạo, môi trường học tập và đời sống sinh viên.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><!-- [if gte vml 1]><v:shape
