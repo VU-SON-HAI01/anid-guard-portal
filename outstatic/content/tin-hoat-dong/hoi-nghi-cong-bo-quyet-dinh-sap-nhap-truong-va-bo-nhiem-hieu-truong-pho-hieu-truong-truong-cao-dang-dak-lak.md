@@ -5,11 +5,11 @@ publicationDate: "2026-01-17"
 status: "published"
 author:
   name: "VSH"
-  picture: "/avatar/26001_1.jpg"
+  picture: "/avatar/26001_1.jpg?v=1778867235581"
 slug: "hoi-nghi-cong-bo-quyet-dinh-sap-nhap-truong-va-bo-nhiem-hieu-truong-pho-hieu-truong-truong-cao-dang-dak-lak"
 description: "Sáng ngày 16/01/2026, tại Hội trường, Trường Cao đẳng Đắk Lắk đã long trọng diễn ra Hội nghị công bố Quyết định sáp nhập Trường và Quyết định bổ nhiệm Hiệu trưởng, các Phó Hiệu trưởng Trường Cao đẳng Đắk Lắk."
 location: "Cơ sở chính"
-coverImage: "https://res.cloudinary.com/dty3e9nxk/image/upload/c_fill,ar_16:9,g_auto/v1777665295/Article/Event%28sukien%29/001/thumbnail.jpg"
+coverImage: "/image_content/001/001_2.jpg"
 postId: "001"
 idArticleWriter: "CMS26001"
 ---
@@ -17,7 +17,7 @@ idArticleWriter: "CMS26001"
 <p><!--StartFragment--></p>
 <p style="text-align: justify;"><span style="font-size: 12pt;">Đây là sự kiện có ý nghĩa đặc biệt quan trọng, đánh dấu bước chuyển mình mang tính chiến lược trong tiến trình phát triển của nhà trường, phù hợp với chủ trương đổi mới, sắp xếp và nâng cao hiệu quả hệ thống Giáo dục nghề nghiệp của Đảng và Nhà nước.</span></p>
 <div class="highlight-note"><strong>Dấu mốc lịch sử, mở ra giai đoạn phát triển mới !</strong></div>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">&nbsp;<img src="/image_content/001/001_mp2vdus0_akoc1.jpg" alt="001_mp2vdus0_akoc1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"><!--StartFragment--><br><!--EndFragment--> </span></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;">&nbsp; <!--StartFragment--><img src="/image_content/001/001_11.png" width="800"><!--EndFragment-->&nbsp;<br><!--EndFragment--> </span></p>
 <p style="text-align: justify;"><span style="font-size: 12pt;">Hội nghị được tổ chức trong không khí phấn khởi, trang trọng và đầy kỳ vọng, với sự tham dự của đại diện lãnh đạo Ban Tổ chức Tỉnh uỷ Đắk Lắk, Ủy ban nhân dân tỉnh Đắk Lắk, lãnh đạo các sở, ban, ngành của tỉnh, cùng tập thể viên chức lãnh đạo, quản lý; đại diện viên chức, người lao động, học sinh, sinh viên Trường Cao đẳng Đắk Lắk. Sự hiện diện đông đủ của quý đại biểu thể hiện sự quan tâm sâu sắc của lãnh đạo tỉnh đối với sự nghiệp giáo dục nghề nghiệp và tương lai phát triển của Nhà trường.</span></p>
 <p style="text-align: justify;"><span style="font-size: 12pt;">Tại Hội nghị, đại diện lãnh đạo&nbsp;UBND tỉnh Đắk Lắk, Ông&nbsp;Nguyễn Thiên Văn&nbsp;–&nbsp;Tỉnh ủy viên, Phó chủ tịch tỉnh Đắk Lắk, đã trao&nbsp;Quyết định sáp nhập Trường Cao đẳng nghề Phú Yên vào Trường Cao đẳng Đắk Lắk, đồng thời trao&nbsp;Quyết định&nbsp;bổ&nbsp;nhiệm<strong> TS. Đặng Văn Lái - Hiệu trưởng</strong>; bổ nhiệm <strong>ThS. Nguyễn Văn Nhất, ThS. Y&nbsp;Khoa Niê Kdăm và ThS. Trần Thị Minh Lý - Phó Hiệu trưởng Trường Cao đẳng Đắk Lắk</strong>.&nbsp;Các quyết định này không chỉ mang ý nghĩa về mặt tổ chức, nhân sự, mà còn thể hiện niềm tin, sự kỳ vọng và trách nhiệm lớn lao được giao phó cho tập thể lãnh đạo và toàn thể cán bộ, viên chức, người lao động của nhà trường trong giai đoạn phát triển mới.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 12pt;"> <!--StartFragment--><img src="https://www.cddaklak.edu.vn/images/stories/Hoinghi_satnhaptruong_2026/satnhap_bonhiem_2026_1a.jpg" width="800"><!--EndFragment--> </span></p>
