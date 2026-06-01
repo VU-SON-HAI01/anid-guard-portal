@@ -121,7 +121,7 @@
           "id": "student-banners-1778759850630",
           "type": "student-banners",
           "label": "Học Sinh – Sinh Viên",
-          "visible": false
+          "visible": true
         },
         {
           "id": "media-gallery",
@@ -461,5 +461,5 @@
       "layout": "sidebar-left"
     }
   ],
-  "updatedAt": "2026-06-01T15:42:47.820Z"
+  "updatedAt": "2026-06-01T15:43:29.150Z"
 }
