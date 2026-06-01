@@ -39,7 +39,9 @@ idArticleWriter: "CMS26001"
  height:253.8pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="file:///C:/Users/TRINHA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png"
   o:title=""/>
-</v:shape><![endif]--><!-- [if !vml]--><span style="font-size: 15px;"><img width="800" src="/image_content/030/030_8.png" v:shapes="_x0000_i1029"><!--[endif]--></span></p>
+</v:shape><![endif]--><!-- [if !vml]--></p>
+<p><img src="/image_content/030/030_1.png" alt="030_1" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><br><!--[endif]--></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Chiều ngày 29/5/2026, tại Hội trường Trường Cao đẳng Đắk Lắk đã tổ chức chương trình đối thoại giữa lãnh đạo Nhà trường với học sinh, sinh viên năm học 2025 – 2026.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Chương trình được tổ chức nhằm thực hiện Quy chế dân chủ trong trường học, đồng thời tạo diễn đàn trao đổi trực tiếp giữa học sinh, sinh viên với lãnh đạo Nhà trường và các phòng, khoa chuyên môn. Qua đó, Nhà trường kịp thời nắm bắt tâm tư, nguyện vọng, những kiến nghị, đề xuất của học sinh, sinh viên để có các giải pháp phù hợp, góp phần nâng cao chất lượng đào tạo, môi trường học tập và đời sống sinh viên.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><!-- [if gte vml 1]><v:shape
@@ -48,10 +50,12 @@ idArticleWriter: "CMS26001"
  <v:imagedata src="file:///C:/Users/TRINHA~1/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png"
   o:title=""/>
 </v:shape><![endif]--><!-- [if !vml]--></span></p>
-<p><span style="font-size: 15px;"><img src="/image_content/030/030_11.jpg" alt="030_11" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></span></p>
+<p><img src="/image_content/030/030_2.jpg" alt="030_2" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p><span style="font-size: 15px;">&nbsp;</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Tham dự chương trình có Ban Giám hiệu Nhà trường, lãnh đạo các phòng, khoa chuyên môn, Bí thư Đoàn trường, giáo viên chủ nhiệm cùng hơn 160 học sinh, sinh viên đại diện các khoa: Cơ – Điện – Xây dựng; Công nghệ ô tô; Công nghệ thông tin – Kế toán; Du lịch – Thời trang; Nông – Lâm – Thú y – Thủy sản; Sư phạm – Xã hội.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Phát biểu tại chương trình, Thầy Đặng Văn Lái – Bí thư Đảng ủy, hiệu trưởng nhà trường, đại diện lãnh đạo Nhà trường nhấn mạnh phương châm “Lấy người học làm trung tâm, lấy chất lượng đào tạo làm cốt lõi, đáp ứng nhu cầu của doanh nghiệp và việc làm của học sinh, sinh viên”. Đồng thời khẳng định, hoạt động đối thoại là cầu nối quan trọng giúp Nhà trường và người học tăng cường sự thấu hiểu, chia sẻ và đồng hành trong quá trình học tập, rèn luyện.</span></p>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><img src="/image_content/030/030_13.jpg" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></span></p>
+<p><img src="/image_content/030/030_3.jpg" alt="030_3" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">&nbsp;</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><!-- [if gte vml 1]><v:shape
  id="_x0000_i1027" type="#_x0000_t75" style='width:451.2pt;height:202.8pt;
  visibility:visible;mso-wrap-style:square'>
@@ -59,7 +63,9 @@ idArticleWriter: "CMS26001"
   o:title=""/>
 </v:shape><![endif]--><!-- [if !vml]-->Trước buổi đối thoại, các khoa chuyên môn đã tổ chức sinh hoạt lớp, tổng hợp ý kiến, kiến nghị của học sinh, sinh viên gửi về Nhà trường. Nội dung các ý kiến tập trung vào nhiều nhóm vấn đề thiết thực như: công tác đào tạo, cơ sở vật chất, chế độ chính sách, học bổng, môi trường học tập, ký túc xá, hoạt động phong trào và hỗ trợ trải nghiệm thực tế nghề nghiệp.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Trong lĩnh vực đào tạo, nhiều học sinh, sinh viên đề xuất Nhà trường tăng cường các hoạt động thực hành, trải nghiệm thực tế tại doanh nghiệp; bổ sung thêm mô đun kỹ năng nghề nghiệp; thành lập các câu lạc bộ chuyên môn; đồng thời xem xét điều chỉnh lịch học, lịch thi hợp lý nhằm giảm áp lực học tập. Bên cạnh đó, nhiều ý kiến cũng mong muốn Nhà trường tiếp tục nâng cao chất lượng giờ thực hành, tăng cường kết nối doanh nghiệp để sinh viên có thêm cơ hội tiếp cận môi trường làm việc thực tế.</span></p>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"> <!--StartFragment--><!-- x-tinymce/html --><img src="/image_content/030/030_14.jpg" width="800"><!--EndFragment--> </span></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">&nbsp;</span></p>
+<p><img src="/image_content/030/030_4.jpg" alt="030_4" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><!--StartFragment--><!-- x-tinymce/html --><br><!--EndFragment--> </span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><!-- [if gte vml 1]><v:shape
  id="_x0000_i1026" type="#_x0000_t75" style='width:451.2pt;height:209.4pt;
  visibility:visible;mso-wrap-style:square'>
@@ -68,7 +74,8 @@ idArticleWriter: "CMS26001"
 </v:shape><![endif]--><!-- [if !vml]--></span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Đối với cơ sở vật chất, học sinh, sinh viên đã thẳng thắn phản ánh nhiều vấn đề còn tồn tại. Nhiều ý kiến cũng đề xuất Nhà trường cải tạo cảnh quan, bổ sung cây xanh, khu vực học tập ngoài trời, hệ thống nước uống sạch và nâng cấp các khu nhà xưởng thực hành nhằm đảm bảo an toàn và nâng cao chất lượng học tập.</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">Trong công tác học sinh, sinh viên, các nội dung liên quan đến học bổng, trợ cấp chính sách, hoạt động ngoại khóa, kỹ năng sống, an ninh nhà xe và điều kiện sinh hoạt tại ký túc xá cũng được học sinh, sinh viên quan tâm. Nhiều em mong muốn Nhà trường tổ chức thêm các hoạt động văn hóa – văn nghệ, thể dục thể thao, hội thao, câu lạc bộ kỹ năng nhằm tạo môi trường học tập năng động, gắn kết và phát triển toàn diện hơn cho học sinh, sinh viên.</span></p>
-<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><img src="/image_content/030/030_15.jpg" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></span></p>
+<p><img src="/image_content/030/030_5.jpg" alt="030_5" width="800" style="width: 800px; height: auto; max-width: 100%; display: block; margin: 12px auto; border-radius: 6px;"></p>
+<p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;">&nbsp;</span></p>
 <p style="text-align: justify; font-size: 12px;"><span style="font-size: 15px;"><!-- [if gte vml 1]><v:shape
  id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:451.2pt;
  height:202.8pt;visibility:visible;mso-wrap-style:square'>
