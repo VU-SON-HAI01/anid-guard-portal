@@ -4,7 +4,7 @@ publishedAt: "2026-06-05T12:00:00.000Z"
 publicationDate: "2026-06-05"
 status: "published"
 author:
-  name: "Nhân"
+  name: "Trần Khắc Trí Nhân"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
 slug: "dien-dan-doi-thoai-truyen-thong-ve-quyen-tre-em-an-toan-lao-dong-va-dinh-huong-nghe-nghiep-tai-truong-cao-dang-dak-lak"
 description: "Sáng ngày 05/6/2026, Trường Cao đẳng Đắk Lắk phối hợp với Ban Quản lý Dự án SCI – Sở Y tế tỉnh Đắk Lắk tổ chức Diễn đàn đối thoại, truyền thông với chủ đề: “Quyền trẻ em, phòng ngừa giảm thiểu lao động trẻ em, an toàn lao động; định hướng nghề nghiệp giữa lao động trẻ, chính quyền địa phương và doanh nghiệp” tại cơ sở Tuy Hòa."
