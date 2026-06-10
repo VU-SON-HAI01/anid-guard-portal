@@ -59,4 +59,8 @@ idArticleWriter: "CMS26001"
 <p><span style="font-family: Montserrat, sans-serif;">Mỗi phần quà được trao đi là một thông điệp yêu thương, một sự động viên chân thành, tiếp thêm nghị lực cho những hoàn cảnh còn nhiều khó khăn và khích lệ các em tiếp tục nuôi dưỡng ước mơ, phát huy năng lực, không ngừng vươn lên trong học tập và cuộc sống. Đây cũng là minh chứng sinh động cho sự gắn kết hiệu quả giữa nhà trường, cơ quan quản lý nhà nước và doanh nghiệp trong việc chăm lo, đồng hành cùng thế hệ trẻ, góp phần xây dựng một môi trường giáo dục nhân văn, trách nhiệm và phát triển bền vững.</span></p>
 <p><span style="font-family: Montserrat, sans-serif;">Chương trình khép lại trong không khí trang trọng, cởi mở và đầy ý nghĩa với hoạt động chụp ảnh lưu niệm giữa đại biểu, ban tổ chức và học sinh – sinh viên.</span></p>
 <p><span style="font-family: Montserrat, sans-serif;">Diễn đàn đã thực sự trở thành cầu nối quan trọng giữa người học – nhà trường – doanh nghiệp – chính quyền, góp phần định hướng nghề nghiệp và nâng cao nhận thức về quyền trẻ em, an toàn lao động cho thế hệ trẻ trong giai đoạn mới.</span></p>
+<p style="font-size: 14px; font-family: Montserrat, sans-serif; margin-bottom: 10px; text-align: right;">&nbsp;</p>
+<div>
+<p style="font-size: 14px; font-family: Montserrat, sans-serif; margin-bottom: 10px; text-align: right;"><strong>Vũ Sơn Hải - Trần Khắc Trí Nhân</strong></p>
+</div>
 <p><span style="font-family: Montserrat, sans-serif;"><em> </em></span></p>
