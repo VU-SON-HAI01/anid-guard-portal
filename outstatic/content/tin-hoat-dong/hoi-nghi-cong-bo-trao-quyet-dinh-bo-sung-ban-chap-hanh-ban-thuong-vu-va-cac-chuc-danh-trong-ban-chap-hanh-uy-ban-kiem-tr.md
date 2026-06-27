@@ -2,7 +2,7 @@
 title: "HỘI NGHỊ CÔNG BỐ, TRAO QUYẾT ĐỊNH BỔ SUNG BAN CHẤP HÀNH, BAN THƯỜNG VỤ VÀ CÁC CHỨC DANH TRONG BAN CHẤP HÀNH, ỦY BAN KIỂM TRA CÔNG ĐOÀN CƠ SỞ TRƯỜNG CAO ĐẲNG ĐẮK LẮK NHIỆM KỲ 2025 – 2030"
 publishedAt: "2026-06-25T12:00:00.000Z"
 publicationDate: "2026-06-25"
-status: "draft"
+status: "published"
 author:
   name: "Admin CMS"
   picture: "/avatar/26001_1.jpg?v=1778867235581"
